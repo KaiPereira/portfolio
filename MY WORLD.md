@@ -22,3 +22,7 @@ The first thing is large images of my projects that are insanely easy to access.
 The second thing that is a must have is having a blog/place for me to journal my thoughts. I really like sites like https://www.jeffgeerling.com/blog where people can just directly see what I'm up to, thought I'm not a big fan of each section taking up lots of space.
 
 The third thing I need is lots of information actually about me. I don't want this to feel like a cold place and that I'm a heartless person so I need to be able to put decent size chunks of text actually about me. I really love https://kognise.dev/ , the combination of large chunks of text and a clean blog is very nice. The navigation is also very simple, and it takes you through like an adventure.
+
+Now something that I actually need to start doing now that I'm building hardware projects is taking nice photo's. My sister has a very nice camera, so I might start creating nice photo's of projects I've built and showcase those images on my website.
+
+Now there's a kind of different approach I want to do for building this project. i typically design in figma and then just program it out, but for this website, I'm only going to use figma for mild ideation and try to just stick to my IDE.
