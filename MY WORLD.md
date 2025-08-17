@@ -27,5 +27,3 @@ Now something that I actually need to start doing now that I'm building hardware
 Now there's a kind of different approach I want to do for building this project. i typically design in figma and then just program it out, but for this website, I'm only going to use figma for mild ideation and try to just stick to my IDE.
 
 My core stack I'm going to use for this project is just going to be VIM with NextJS and tailwind. It's just such a fun and therapeutic way to program.
-
-I'm going to steal kognise's font, IBM Plex Mono, and then probably this other font from https://www.supah.it/portfolio/ Matter, it's a bit contrasty, but I love how easy it is to read kognise's font and the minimalism of matter. I might switch it later but I kind of like this combination.
