@@ -4,7 +4,6 @@ author: Kai Pereira
 description: This is a website I've created to try and escape the confines of norms
 created_at: 2025-08-16
 ---
-
 ## Day 1 - This project.
 
 This is a side project I've decided to recently start for when I'm a little bored. I don't like how people are getting less and less creative, so I want to create a portfolio that showcases how people can create what *they* want to make.
@@ -26,3 +25,7 @@ The third thing I need is lots of information actually about me. I don't want th
 Now something that I actually need to start doing now that I'm building hardware projects is taking nice photo's. My sister has a very nice camera, so I might start creating nice photo's of projects I've built and showcase those images on my website.
 
 Now there's a kind of different approach I want to do for building this project. i typically design in figma and then just program it out, but for this website, I'm only going to use figma for mild ideation and try to just stick to my IDE.
+
+My core stack I'm going to use for this project is just going to be VIM with NextJS and tailwind. It's just such a fun and therapeutic way to program.
+
+I'm going to steal kognise's font, IBM Plex Mono, and then probably this other font from https://www.supah.it/portfolio/ Matter, it's a bit contrasty, but I love how easy it is to read kognise's font and the minimalism of matter. I might switch it later but I kind of like this combination.
