@@ -5,7 +5,8 @@ import "./globals.css";
 
 const ibmSans = IBM_Plex_Mono({
   variable: "--font-ibm",
-  weight: ['100', '200', '300', '400', '500', '600', '700']
+  weight: ['100', '200', '300', '400', '500', '600', '700'],
+  subsets: ['latin']
 });
 
 const satoshiMono = localFont({
@@ -25,7 +26,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${ibmSans.variable} ${satoshiMono.variable} antialiased`}
+        className={`${ibmSans.className} ${satoshiMono.className} antialiased`}
       >
         {children}
       </body>
