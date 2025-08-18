@@ -10,7 +10,7 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-ibm-sans);
+  --font-sans: var(--font-tungsten-sans);
   --font-mono: var(--font-satoshi-mono);
 
   @keyframes infinite-scroll {

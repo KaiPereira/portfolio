@@ -9,8 +9,13 @@ const ibmSans = IBM_Plex_Mono({
   subsets: ['latin']
 });
 
+const tungstenSans = localFont({
+  src: "../public/fonts/tungsten/tungsten-narrow-bold.woff2",
+  variable: "--font-tungsten-sans"
+});
+
 const satoshiMono = localFont({
-  src: "../public/fonts/Satoshi-Medium.woff2",
+  src: "../public/fonts/satoshi/Satoshi-Medium.woff2",
   variable: "--font-satoshi-mono"
 });
 
@@ -27,7 +32,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${ibmSans.variable} ${satoshiMono.variable} antialiased`}
+        className={`${tungstenSans.variable} ${ibmSans.variable} ${satoshiMono.variable} antialiased`}
       >
         {children}
       </body>
