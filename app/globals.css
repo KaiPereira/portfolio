@@ -12,10 +12,15 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-ibm-sans);
   --font-mono: var(--font-satoshi-mono);
+
+  @keyframes infinite-scroll {
+    0% {transform: translateX(0%); }
+    100% {transform: translateX(-100%); }
+  }
 }
 
-@theme utilities {
-
+@utility infinite-scroll {
+  animation: infinite-scroll 25s linear infinite;
 }
 
 body {
