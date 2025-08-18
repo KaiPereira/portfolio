@@ -1,7 +1,9 @@
 @import "tailwindcss";
+@tailwind components;
+@tailwind utilities;
 
 :root {
-  --background: #ffffff;
+  --background: rgb(251, 251, 251);
   --foreground: #171717;
 }
 
@@ -10,6 +12,10 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-ibm-sans);
   --font-mono: var(--font-satoshi-mono);
+}
+
+@theme utilities {
+
 }
 
 body {
