@@ -4,13 +4,14 @@ import { IBM_Plex_Mono } from "next/font/google";
 import "./globals.css";
 
 const ibmSans = IBM_Plex_Mono({
-  variable: "--font-ibm",
+  variable: "--font-ibm-sans",
   weight: ['100', '200', '300', '400', '500', '600', '700'],
   subsets: ['latin']
 });
 
 const satoshiMono = localFont({
-  src: "../public/fonts/Satoshi-Medium.woff2"
+  src: "../public/fonts/Satoshi-Medium.woff2",
+  variable: "--font-satoshi-mono"
 });
 
 export const metadata: Metadata = {
@@ -26,7 +27,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${ibmSans.className} ${satoshiMono.className} antialiased`}
+        className={`${ibmSans.variable} ${satoshiMono.variable} antialiased`}
       >
         {children}
       </body>
