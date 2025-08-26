@@ -2,5 +2,32 @@
 <html lang="en">
 	<body>
 		Hello world!
+
+		<script src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script>
+		<script>
+			async function getReadme() {
+				const url = "https://raw.githubusercontent.com/KaiPereira/KaiPereira/main/README.md";
+
+				try {
+					const res = await fetch(url);
+
+					if (!res.ok) {
+						throw new Error(`Could not fetch readme :(, ${res.status}`);
+					}
+
+					let result = await res.text();
+
+					result = result.replaceAll("@", " (at) ");
+
+					document.body.innerHTML = marked.parse(result);
+
+					console.log(result);
+				} catch (error) {
+					console.error(error.message);
+				}
+			}
+
+			getReadme();
+		</script>
 	</body>
 </html>
