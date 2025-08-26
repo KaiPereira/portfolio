@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 	<body>
-		Hello world!
+		<div id="main"></div>
+
+		<p>Check out all my projects on <a href="https://github.com/kaipereira" target="_blank" rel="noreferrer">GitHub</a>!</p>
 
 		<script src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script>
 		<script>
@@ -19,7 +21,7 @@
 
 					result = result.replaceAll("@", " (at) ");
 
-					document.body.innerHTML = marked.parse(result);
+					document.getElementById("main").innerHTML = marked.parse(result);
 				} catch (error) {
 					console.error(error.message);
 				}
