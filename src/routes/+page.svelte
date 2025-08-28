@@ -21,14 +21,6 @@
   });
 </script>
 
-<svelte:head>
-  <title>Kai Pereira :D</title>
-  <meta charset="utf-8" />
-  <meta name="description" content="Hey there, I'm Kai! I'm a 17 year old maker from Canada hacking on PCB's and building hardware!" />
-  <link rel="author" href="Kai Pereira" />
-  <link rel="canonical" href="https://kaipereira.com/" />
-</svelte:head>
-
 <main>
   {@html readmeHtml}
 </main>
