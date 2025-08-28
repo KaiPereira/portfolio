@@ -22,5 +22,8 @@
 		"tailwindcss": "^4.0.0",
 		"typescript": "^5.0.0",
 		"vite": "^7.0.4"
+	},
+	"dependencies": {
+		"marked": "^16.2.1"
 	}
 }
