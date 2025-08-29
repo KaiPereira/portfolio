@@ -46,6 +46,10 @@ We met back at a little hostel right by the beach, and then chatted about until 
 
 On day 2, we ate some breakfast and hopped on a bus to get to the VIA rail headquarters. It was this really cool old-fashioned style building and we got a bunch of swag and stickers as soon as we arrived.
 
+We all got these cool yellow buffs that said "VIA rail" and "hackclub" on them, aswell as some "sleep deprived" stickers. Lots of people also brought stuff for all the participants like 3D printed trains, keychains, candy everything.
+
+I didn't bring anything like lots of the others, but in the future, I'll probably bring stickers to all the events I go too, because free stuff is amazing :D
+
 ![Pasted image 20250828224618.png](/images/Pasted%20image%2020250828224618.png)
 ![Pasted image 20250828230733.png](/images/Pasted%20image%2020250828230733.png)
 
@@ -58,46 +62,58 @@ Most of the people had arrived for the hackathon by now, so there were LOTS more
 
 We then went out to science world for lunch, where we had kind of like an information presentation for the train, and then we all fooled around at the playground, must've been very interesting seeing 50 kids all with yellow buffs with "hackclub" on them running around a playground! 
 
+I had also forgotten to pack my passport though, so I met up with one of my family members who brought me my passport. Luckily they were going to a day trip in Vancouver, and luckily I noticed, because if I didn't have it, I would've had lots of trouble flying back to Vancouver from Montreal!
+
 ![Pasted image 20250828225130.png](/images/Pasted%20image%2020250828225130.png)
 
-We then headed back to the VIA rail station to begin our journey... We all hopped into a group photo, and then we made our way to our train and finally departed. Looking back it all seems like a blur, but it was a really exciting and pivotal moment in my life.
+We then headed back to the VIA rail station to begin our journey... We all hopped into a group photo, and then we made our way to our train and finally departed. 
+
+Looking back it all seems like a blur, but it was a really exciting and pivotal moment in my life. This was my first time doing something like this (aside from some smaller local hackathons) and it just changes your mindset so much on life.
 ![Pasted image 20250828225333.png](/images/Pasted%20image%2020250828225333.png)
 
 On board, we were presented with our rooms, and then toured around the train a bit to get used to the different rooms, and then the train left on it's merry way. 
 
-We had the entire front of the train and the back still had like normal passengers and stuff, but we had access to like the sunroofs, and the cool transparent carriage at the front!
+The VIA rail train was still open to the public, but we had pretty much the entirety of the front, so we probably had like 5 or so carriages all to our selves. The rooms were spread out in a couple carriages, and there were small showers onboard in the corners of the carriages.
 
 ![Pasted image 20250828233427.png](/images/Pasted%20image%2020250828233427.png)
 
-On board the train, there were also 350 cans of celsius to promote all-nighters. Growing up, I was taught to be responsible and sleep at reasonable hours, so not sleeping was a huge mindset shift for me. And looking back at all these small experiences, they fundamentally changed me as a person and this is one of the reasons I love attending events like these.
+On board the train, there were also **350 cans of celsius to promote all-nighters**. 
+
+Growing up, I was taught to be responsible and sleep at reasonable hours, so not sleeping was a huge mindset shift for me. And looking back at all these small experiences, they fundamentally changed me as a person and this is one of the reasons I love attending events like these.
 
 ![Pasted image 20250828234556.png](/images/Pasted%20image%2020250828234556.png)
 
-The Boreal Express also had this really cool server setup by [Alex Park](https://github.com/alx-alexpark) where we could all share files and host stuff to be externalized. Because we didn't have any internet or anything on the train, we also needed somewhere where we could access documentation and stuff if we needed it. And while the system wasn't perfect, it definitely helped alot of people.
+The Boreal Express also had this really cool server setup by [Alex Park](https://github.com/alx-alexpark) where we could all share files and host stuff to be externalized. 
+
+Because we didn't have any internet or anything on the train, we also needed somewhere where we could access documentation and stuff if we needed it. And while the system wasn't perfect, it definitely helped alot of people.
+
+All of us had setup our own tailscale accounts and gotten used to the server before the event started so we could add whatever we want to it beforehand.
 
 The server also introduced me to the terminal. Yes... I had barely touched the terminal before the Boreal Express, and this idea that you could interact with servers and stuff really changed how I looked at programming and will definitely inspire me to grow away from just building websites and apps.
 
 ![Pasted image 20250828234612.png](/images/Pasted%20image%2020250828234612.png)
 
-The meals were also amazing on the train. I have many allergies and they were able to accommodate lots of stuff for me, and we were served like 3 course meals with lamb chops and just generally amazing food. I can't give enough thanks for Hackclub to providing this opportunity, it was absolutely amazing!
+The meals were also **amazing** on the train. I have many allergies and they were able to accommodate lots of stuff for me, and we were served like 3 course meals with lamb chops and just generally amazing food. I can't give enough thanks for Hackclub to providing this opportunity, it was absolutely amazing!
+
+There were also snacks onboard that you could grab anytime, refreshments and stuff too, is was pretty sweet.
 
 ![Pasted image 20250828234858.png](/images/Pasted%20image%2020250828234858.png)
 
 Being on the Boreal and seeing all the landscape around us was beautiful :D
 
-I live in Canada, but I never really got the opportunity to see the more remote area's only accessible by train, and it was so eye-opening to see what lies beyond large metropolitan area's. This journey will definitely inspire me to get out of my comfort though and do more cool stuff.
+I live in Canada, but I never really got the opportunity to see the more remote area's only accessible by train, and it was so eye-opening to see what lies beyond large metropolitan area's. This will definitely inspire me to get out of my comfort more often and do cool things like this!
 
 ![Pasted image 20250829002642.png](/images/Pasted%20image%2020250829002642.png)
 
 Now today I didn't actually do any programming, I was meeting new people, getting a feel for the train and participating in all the activities, but the programming grind will commence soon. 
 
-Now before we went to sleep, we actually crossed through a bunch of wildfires happening around, it's a pretty common thing in Canada to get wild fires during the summer, but hopefully these won't affect our journey...
+Now before we went to sleep, we actually crossed through a bunch of wildfires happening around, it's a pretty common thing in Canada to get wild fires during the summer, but it was still pretty scary and *hopefully it won't affect our journey later*.
 
 ![Pasted image 20250829003156.png](/images/Pasted%20image%2020250829003156.png)
 
 Anyways, it was time to get a good nights rest, so I clocked out for the night in our room awaiting whatever will happen next in our journey aboard the Boreal.
 
-I had a pretty nice sleep and woke up to one of the most surreal landscapes I had ever seen. I couldn't believe how fast it had changed, but we were now right by Jasper national park.
+I had a pretty nice sleep and woke up to one of the most surreal landscapes I had ever seen. I couldn't believe how fast it had changed, but we were now right by **Jasper national park**.
 
 ![Pasted image 20250829004820.png](/images/Pasted%20image%2020250829004820.png)
 
@@ -121,5 +137,7 @@ There were also people running workshops and lightning-talks. Lightning talks ar
 
 One of my favorite lightning talks was from [Charlie](https://github.com/crnicholson) who talked about how he accidentally recorded classified military activity when he flew one of his high altitude gliders, [stratosoar](https://github.com/crnicholson/StratoSoar-MK3) straight into a military compound. It's a really cool project and I'd highly suggest you check it out!
 
-And then there were also workshops on things like ham radio's and how to use docker, it was just really cool hearing what other people are working with and their experiences.
+And then there were also workshops on things like ham radio's and how to use docker, it was just really cool hearing what other people are working on and their experiences.
+
+We were all pretty focused on our projects, but unexpectedly we had been called into the main carriage at the front to hear some news from Zach and the other organizers. Everyone seemed pretty stressed and we learned that because of wild fires we'd have to turn around. We were around Jasper and around that time wildfires were destroying the city so it was not safe to continue.
 
