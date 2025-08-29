@@ -181,3 +181,29 @@ Hackclub does a slightly different hackathon style, it's more for the experience
 ![](/images/Pasted%20image%2020250829164404.png)
 
 After showcasing each others projects, we went to our closing ceremony, where we all thanked the organizers for Boreal, VIA rail and everyone else who helped make this magical!
+
+But there was still one surprise left in store... It turns out that one of the organizers had reached out to Linus Tech Tips and we caught news that we could meet him and tour their faciliity!
+
+So we all piled into a giant bus and header over to Linus Tech Tips's studio!
+
+![](/images/Pasted%20image%2020250829164850.png)
+
+It was really cool to see how Linus operated. They had like a plethora of different buildings on the property for different things like Studio shoots, podcasts, merch, everything imaginable.
+
+We also got to talk with Linus and take some photo's with him which was pretty sweet, and the staff gave us a full tour of the entire premise.
+
+![](/images/Pasted%20image%2020250829165105.png)
+![](/images/Pasted%20image%2020250829165130.png)
+![](/images/Pasted%20image%2020250829165140.png)
+![](/images/Pasted%20image%2020250829165152.png)![](/images/Pasted%20image%2020250829165215.png)
+![](/images/Pasted%20image%2020250829165408.png)
+
+One of Linus's employee's even gave me a bread plushie which was pretty sweet! They were all really nice people, and it was extremely memorable for me. After visiting it and seeing all the cool hardware, I also want to start working on more physical projects instead of just hardware...
+
+![](/images/Pasted%20image%2020250829165723.png)
+
+*My beloved bread...*
+
+We got to see all of the stuff currently being prototyped, like color changing swimsuits from water and a bunch of other cool merch. It was just generally a very cool space to be in, and will definitely inspire me to make some more silly projects in the future.
+
+And just like that, we went back on the bus to return to the station
