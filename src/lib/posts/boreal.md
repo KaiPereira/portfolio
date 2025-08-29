@@ -96,3 +96,30 @@ Now before we went to sleep, we actually crossed through a bunch of wildfires ha
 ![[Pasted image 20250829003156.png]]
 
 Anyways, it was time to get a good nights rest, so I clocked out for the night in our room awaiting whatever will happen next in our journey aboard the Boreal.
+
+I had a pretty nice sleep and woke up to one of the most surreal landscapes I had ever seen. I couldn't believe how fast it had changed, but we were now right by Jasper national park.
+
+![[Pasted image 20250829004820.png]]
+
+I had a nice breakfast with some of the friends I met on the train, and then it was time to get to programming. Now we were allowed to pretty much build whatever we want, but it was encouraged to do something related to the outdoors or something related to the server.
+
+It was also encouraged to not just build one project, but instead build a bunch of smaller ones and learn a bunch from others.
+
+So the first app I worked on was a little Wikipedia game where you could just like scroll wikipedia like reels. It was a pretty simple app, but I worked on it with Advay and it was a short kinda fun thing to make. I kinda just left it at that and then started on my second project, the Bore-ad service!
+
+I love making interactive projects where people can like do something and have fun with it, so I thought that a fun project would be to have a little ad website on the server where people could post ads for their projects on the server. So I started working on this project, and got help from some other people whenever I ran into some issues.
+
+Some fun events were also happening on the train though. We needed to set up decorations and stuff so we put up some lights that people had brought and added some other things to make it feel more homey.
+
+![[Pasted image 20250829005617.png]]
+
+Another thing that happened was one of the co-organizers [Zoya](https://github.com/zoya-hussain), setup a mini barista kitchen and made drinks for everyone which was pretty sweet!
+
+![[Pasted image 20250829005944.png]]
+
+There were also people running workshops and lightning-talks. Lightning talks are basically like mini stories that people share about something cool that happened in their life.
+
+One of my favorite lightning talks was from [Charlie](https://github.com/crnicholson) who talked about how he accidentally recorded classified military activity when he flew one of his high altitude gliders, [stratosoar](https://github.com/crnicholson/StratoSoar-MK3) straight into a military compound. It's a really cool project and I'd highly suggest you check it out!
+
+And then there were also workshops on things like ham radio's and how to use docker, it was really just a cool experience hearing what other people are working with and their experiences.
+
