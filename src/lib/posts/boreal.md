@@ -3,7 +3,6 @@ title: "All aboard the Boreal Express"
 date: "2024-07-25"
 description: "The summer of 2024, I was invited to a cross-country hackathon on a train. This journey transformed my thinking and taught me that I can build whatever I want and to go against the norms."
 ---
-
 # All aboard the Boreal Express
 
 In the summer of 2024, I had the opportunity to attend one of the coolest hackathons that's ever happened, the [Boreal Express](https://boreal.hackclub.com/)...
@@ -18,7 +17,7 @@ A couple months before Boreal was going to happen, I was perusing the internet f
 
 Hackclub runs some of the coolest events for high schoolers like [Apocalypse](https://apocalypse.hackclub.com/), a zombie themed hackathon in Toronto, to events like Arcade, where you work on projects and redeem hours for free stuff like hardware. 
 
-![Pasted image 20250828215623.png](/images/Pasted%20image%2020250828215623.png)
+![](/images/Pasted%20image%2020250829155338.png)
 
 The Boreal Express was an invite-only hackathon, you had to submit projects to get accepted, similar to Hack the North and other hackathons, but on a smaller scale. Now around this time, I hadn't actually have made too many projects aside from some small apps and stuff that never really got anywhere, but I did have this one hackathon project I build for a 12h local hackathon that got #1 so it was really my one shot at getting an invite to the Boreal Express...
 
@@ -27,6 +26,8 @@ I wasn't too proud of this project, but it was kind of a neat concept around hel
 A couple weeks later, I don't actually here anything aside from other people getting rejected, but then a couple weeks before the Boreal Express was going to happen, I got an acceptance letter, I was in for one of the coolest experiences of my life :D
 
 Fast-forward a couple of weeks, I get my flights booked with the organizers, and I take a ferry over with my family to Vancouver and I'm off on my way to Boreal Express.
+
+## The Meetup
 
 The entire group was set to meet on Jericho beach at sunset, and I got to meet lots of cool people like [Angad](https://angad.me/) who I was feeding the bunnies with, Advay (my roomate) and a bunch of other really interesting hackers! 
 
@@ -43,6 +44,8 @@ After the sunset, we fooled around on the beach, had some Poke, tried to set off
 We met back at a little hostel right by the beach, and then chatted about until we couldn't stay awake anymore. Something I took away from this was that sleep actually comes last during events like these, you miss a lot of interesting stuff when you sleep, and it's kind of that time where you form deep connections with people.
 
 ![Pasted image 20250828225849.png](/images/Pasted%20image%2020250828225849.png)
+
+## All aboard!
 
 On day 2, we ate some breakfast and hopped on a bus to get to the VIA rail headquarters. It was this really cool old-fashioned style building and we got a bunch of swag and stickers as soon as we arrived.
 
@@ -113,6 +116,8 @@ Now before we went to sleep, we actually crossed through a bunch of wildfires ha
 
 Anyways, it was time to get a good nights rest, so I clocked out for the night in our room awaiting whatever will happen next in our journey aboard the Boreal.
 
+## Jasper & Misfortunes
+
 I had a pretty nice sleep and woke up to one of the most surreal landscapes I had ever seen. I couldn't believe how fast it had changed, but we were now right by **Jasper national park**.
 
 ![Pasted image 20250829004820.png](/images/Pasted%20image%2020250829004820.png)
@@ -141,3 +146,24 @@ And then there were also workshops on things like ham radio's and how to use doc
 
 We were all pretty focused on our projects, but unexpectedly we had been called into the main carriage at the front to hear some news from Zach and the other organizers. Everyone seemed pretty stressed and we learned that because of wild fires we'd have to turn around. We were around Jasper and around that time wildfires were destroying the city so it was not safe to continue.
 
+We were going to turn the train around (honestly no clue how they did that), and then come back and then just continue the hackathon but at rest at the station.
+
+I feel really bad for the organizers because they put so much thought into each activity that would happen at each station, and they had to re-book **every single flight**. But it still wasn't the end to the journey, we could hang out in Vancouver, do activities on the train and still learn a lot.
+
+So we traveled back to the station, and then ended off the night with some karaoke. I then worked on my project for a couple hours and went to sleep in the morning as programmers do. I was actually kind of scared to have caffeine because I'm already pretty hyper so I didn't have any of the 350 Celsius's but I still stayed up quite late meeting people!
+
+![](/images/Pasted%20image%2020250829161614.png)
+
+## Vancouver Shenanigans
+
+When I woke up, the train had parked right back at the station, but this still wasn't the end to our journey... Workshops, lightning talks and other activities were still happening aboard, my favorite workshop was the one by Angad where he kind of explained docker, and I didn't really actively follow it, but it inspired me to start using docker and server tools more often.
+
+We also took a visit to check out Vancouver and stretch out our legs a bit! I was in Cara's group who did lots of the infra for the train, so it was interesting to learn about some server stuff from them. We went to this kind of Japanese hybrid restaurant which was pretty good and checked out some of the parks and stuff in Vancouver. We did accidentally get onto East Hastings though, which is one of the worst streets in Vancouver for crime, but we got out pretty fast.
+
+![](/images/Pasted%20image%2020250829162045.png)
+
+We got back and then I had a really nice talk with [Woody](https://woodykeppel.com/), who's a performer, comedian, musician, literally everything. He was probably the most interesting person I talked to, has had the opportunity to join Cirque de Soleil, and actively performs and did all the live music during the train ride.
+
+They really brought the vibe to the train and it wouldn't have been the same without him and his group, "Waldo & Woodhead". They also wrote this song just for the train journey, ["our time"](https://www.youtube.com/watch?v=mKQDGMpJNws) :D
+
+![](/images/Pasted%20image%2020250829162437.png)
