@@ -63,4 +63,25 @@ We then went out to science world for lunch, where we had kind of like an inform
 We then headed back to the VIA rail station to begin our journey... We all hopped into a group photo, and then we made our way to our train and finally departed. Looking back it all seems like a blur, but it was a really exciting and pivotal moment in my life.
 ![[Pasted image 20250828225333.png]]
 
-On board, we were presented with our rooms, and then toured around the train a bit to get used to the different rooms, and then the train left on it's merry way. We had the entire front of the train and the back still had like normal passengers and stuff, but we had access to like the sunroofs, and the cool transparent carriage at the front!
+On board, we were presented with our rooms, and then toured around the train a bit to get used to the different rooms, and then the train left on it's merry way. 
+
+We had the entire front of the train and the back still had like normal passengers and stuff, but we had access to like the sunroofs, and the cool transparent carriage at the front!
+
+![[Pasted image 20250828233427.png]]
+
+On board the train, there were also 350 cans of celsius to promote all-nighters. Growing up, I was taught to be responsible and sleep at reasonable hours, so not sleeping was a huge mindset shift for me. And looking back at all these small experiences, they fundamentally changed me as a person and this is one of the reasons I love attending events like these.
+
+![[Pasted image 20250828234556.png]]
+
+The Boreal Express also had this really cool server setup by [Alex Park](https://github.com/alx-alexpark) where we could all share files and host stuff to be externalized. Because we didn't have any internet or anything on the train, we also needed somewhere where we could access documentation and stuff if we needed it. And while the system wasn't perfect, it definitely helped alot of people.
+
+The server also introduced me to the terminal. Yes... I had barely touched the terminal before the Boreal Express, and this idea that you could interact with servers and stuff really changed how I looked at programming and will definitely inspire me to grow away from just building websites and apps.
+
+![[Pasted image 20250828234612.png]]
+
+The meals were also amazing on the train. I have many allergies and they were able to accommodate lots of stuff for me, and we were served like 3 course meals with lamb chops and just generally amazing food. I can't give enough thanks for Hackclub to providing this opportunity, it was absolutely amazing!
+
+![[Pasted image 20250828234858.png]]
+
+The landscape was also so beautiful around us. I do live in Canada, but I never really got the chance to look at remote areas that are only accessibly by train like these, it was amazing.
+
