@@ -28,9 +28,25 @@ A couple weeks later, I don't actually here anything aside from other people get
 
 Fast-forward a couple of weeks, I get my flights booked with the organizers, and I take a ferry over with my family to Vancouver and I'm off on my way to Boreal Express.
 
-The entire group was set to meet on Jericho beach at sunset, and I got to meet lots of cool people like [Angad](https://angad.me/), Advay (my roomate) and a bunch of other really interesting hackers! I was pretty shy because this was one of my very first events I'd been too and I was all alone, but after a bit of awkwardness I started to talk to a bunch of people about some common passions and learnt a bunch of cool stuff about radio's, Docker and other things.
+The entire group was set to meet on Jericho beach at sunset, and I got to meet lots of cool people like [Angad](https://angad.me/) who I was feeding the bunnies with, Advay (my roomate) and a bunch of other really interesting hackers! 
+
+![[Pasted image 20250828225424.png]]
+
+I was pretty shy because this was one of my very first events I'd been too and I was all alone, but after a bit of awkwardness I started to talk to a bunch of people about some common passions and learnt a bunch of cool stuff about radio's, Docker and other things. 
 
 ![[Pasted image 20250828221741.png]]
 
-After the sunset, we fooled around on the beach, tried to set off some fireworks (but the police were faster), and all huddled around to finish the night off with our own [Boreal song](https://www.youtube.com/watch?v=mKQDGMpJNws) from [Woody and his group](https://woodykeppel.com/) (you'll hear more about them soon, they're very interesting people). We met back at a little hostel right by the beach to conclude day 1..
+After the sunset, we fooled around on the beach, had some Poke, tried to set off some fireworks (but the police were faster), and all huddled around to finish the night off with our own [Boreal song](https://www.youtube.com/watch?v=mKQDGMpJNws) from [Woody and his group](https://woodykeppel.com/) (you'll hear more about them soon, they're very interesting people). We met back at a little hostel right by the beach to conclude day 1...
 
+![[Pasted image 20250828225849.png]]
+
+On day 2, we ate some breakfast and hopped on a bus to get to the VIA rail headquarters, we got a bunch of swag and stickers and then they held opening ceremony where we got to hear some talks from ministers, the VIA rail higher-ups and of course from the organizers Deven, Zach, Christina and others...
+
+![[Pasted image 20250828224618.png]]
+![[Pasted image 20250828224701.png]]
+![[Pasted image 20250828224847.png]]
+
+We then went out to science world for lunch, where we had kind of like an information presentation for the train, and then we headed back to finally board the train! It all feels like a blur now, but it was one of the most exciting and eye opening experiences in my life.
+
+![[Pasted image 20250828225130.png]]
+![[Pasted image 20250828225333.png]]
