@@ -2,4 +2,4 @@
 	export let data;
 </script>
 
-<p>{@html data.post.content}</p>
+<div class="markdown">{@html data.post.content}</div>
