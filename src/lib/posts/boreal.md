@@ -8,7 +8,7 @@ description: "The summer of 2024, I was invited to a cross-country hackathon on 
 
 In the summer of 2024, I had the opportunity to attend one of the coolest hackathons that's ever happened, the [Boreal Express](https://boreal.hackclub.com/)...
 
-![[Pasted image 20250828214635.png]]
+![[Pasted image 20250829002450.png]]
 
 Now this wasn't any ordinary hackathon, this was a cross-country journey on a train, where you got to meet some of the coolest highschool hackers from around the world and build projects without any wifi, just the help of others.
 
@@ -83,5 +83,16 @@ The meals were also amazing on the train. I have many allergies and they were ab
 
 ![[Pasted image 20250828234858.png]]
 
-The landscape was also so beautiful around us. I do live in Canada, but I never really got the chance to look at remote areas that are only accessibly by train like these, it was amazing.
+Being on the Boreal and seeing all the landscape around us was beautiful :D
 
+I live in Canada, but I never really got the opportunity to see the more remote area's only accessible by train, and it was so eye-opening to see what lies beyond large metropolitan area's. This journey will definitely inspire me to get out of my comfort though and do more cool stuff.
+
+![[Pasted image 20250829002642.png]]
+
+Now today I didn't actually do any programming, I was meeting new people, getting a feel for the train and participating in all the activities, but the programming grind will commence soon. 
+
+Now before we went to sleep, we actually crossed through a bunch of wildfires happening around, it's a pretty common thing in Canada to get wild fires during the summer, but hopefully these won't affect our journey...
+
+![[Pasted image 20250829003156.png]]
+
+Anyways, it was time to get a good nights rest, so I clocked out for the night in our room awaiting whatever will happen next in our journey aboard the Boreal.
