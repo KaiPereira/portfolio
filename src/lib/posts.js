@@ -3,7 +3,7 @@ import path from "path";
 import matter from "gray-matter";
 import { marked } from "marked";
 
-const postsDir = path.join(process.cwd(), "static/posts");
+const postsDir = path.join(process.cwd(), "src/lib/posts");
 
 export function getAllPosts() {
 	return fs.readdirSync(postsDir)
