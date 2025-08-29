@@ -167,3 +167,17 @@ We got back and then I had a really nice talk with [Woody](https://woodykeppel.c
 They really brought the vibe to the train and it wouldn't have been the same without him and his group, "Waldo & Woodhead". They also wrote this song just for the train journey, ["our time"](https://www.youtube.com/watch?v=mKQDGMpJNws) :D
 
 ![](/images/Pasted%20image%2020250829162437.png)
+
+Then after dinner, we all grinded our project until we couldn't stay awake anymore... 
+
+Tomorrow we would have the opportunity to showcase all our projects that we made and then have our closing ceremony to finish off the boreal express.
+
+## Showcase and a surprise
+
+We all woke up pretty early, I had barely slept because I was trying to finish my project, and some people just didn't sleep whatsoever. 
+
+Hackclub does a slightly different hackathon style, it's more for the experience instead of just prizes, so you basically like go around in a circle and everyone showcases each others projects. My favorite project in the showcase was from [Kevin](https://github.com/kevinjosethomas), a really smart programmer who made this wildfire tracker and **prediction**, which was really cool because it was inspired from seeing the wildfires on our journey.
+
+![](/images/Pasted%20image%2020250829164404.png)
+
+After showcasing each others projects, we went to our closing ceremony, where we all thanked the organizers for Boreal, VIA rail and everyone else who helped make this magical!
