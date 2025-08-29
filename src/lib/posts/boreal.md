@@ -121,5 +121,5 @@ There were also people running workshops and lightning-talks. Lightning talks ar
 
 One of my favorite lightning talks was from [Charlie](https://github.com/crnicholson) who talked about how he accidentally recorded classified military activity when he flew one of his high altitude gliders, [stratosoar](https://github.com/crnicholson/StratoSoar-MK3) straight into a military compound. It's a really cool project and I'd highly suggest you check it out!
 
-And then there were also workshops on things like ham radio's and how to use docker, it was really just a cool experience hearing what other people are working with and their experiences.
+And then there were also workshops on things like ham radio's and how to use docker, it was just really cool hearing what other people are working with and their experiences.
 
