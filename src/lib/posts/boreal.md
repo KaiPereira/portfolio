@@ -238,7 +238,7 @@ We got to see all of the stuff currently being prototyped, like color changing s
 
 And just like that, we went back on the bus to return to the VIA station. We all signed the server and said our goodbyes... Lots of people had later flights so they were just waiting around and I had some nice talks with people about getting started with Linux, until I got picked up, and just like that, my journey on the Boreal was over.
 
-Most of the people were smarter than me, but I'm trying to learn as much as I can, so all these little experiences added up in me.
+Most of the people were smarter than me, but I'm trying to learn as much as I can, so all these little experiences really added up in me.
 
 ![](/images/Pasted%20image%2020250829182936.png)
 
