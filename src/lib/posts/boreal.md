@@ -5,7 +5,7 @@ description: "The summer of 2024, I was invited to an 8 day cross-country hackat
 ---
 # All aboard the Boreal Express
 
-In the summer of 2024, I had the opportunity to attend one of the coolest hackathons that's ever happened, the [Boreal Express](https://boreal.hackclub.com/)...
+In the summer of 2024, I had the opportunity to attend one of the coolest hackathons that's ever happened, the [Boreal Express](https://www.youtube.com/watch?v=hiG3fYq3xUU)...
 
 ![Pasted image 20250829002450.png](/images/Pasted%20image%2020250829002450.png)
 
@@ -278,3 +278,5 @@ First of all thanks to all the organizers of Boreal and specifically [Deven](htt
 Thanks to Zach for founding hackclub and all the other staff who help Hackclub run, and also to "Waldo & Woodhead" (Woody's group) for the vibes!
 
 And a big thanks to [Cara](https://devcara.com/), [Nachu](https://www.linkedin.com/in/nachammai-annamalai) and all the others who's photo's I've included in this journal! It was so nice to meet everyone and I hope to see you guys again :D
+
+Finally, there's also a short documentary of the journey on YouTube if you want to check it out [here](https://www.youtube.com/watch?v=hiG3fYq3xUU).
