@@ -61,7 +61,7 @@ I didn't bring anything like lots of the others, but in the future, I'll probabl
 ![Pasted image 20250828224618.png](/images/Pasted%20image%2020250828224618.png)
 ![Pasted image 20250828230733.png](/images/Pasted%20image%2020250828230733.png)
 
-After arriving, the organizers held the opening ceremony where we got to hear some talks from ministers, the VIA rail higher-ups and of course from the organizers Deven, Zach, Christina and others. 
+After arriving, the organizers held the opening ceremony where we got to hear some talks from government ministers, the VIA rail higher-ups and of course from the organizers Deven, Zach, Christina and others. There were so many people, it was hard to know who was who, and I wished I talked to some of them because they seemed like really interesting people.
 
 Most of the people had arrived for the hackathon by now, so there were LOTS more people and the room was nearly packed! There were hackers from Greece, Australia, the US, germany, literally EVERYWHERE, it was really amazing!
 
@@ -70,13 +70,13 @@ Most of the people had arrived for the hackathon by now, so there were LOTS more
 
 We then went out to science world for lunch, where we had kind of like an information presentation for the train, and then we all fooled around at the playground, must've been very interesting seeing 50 kids all with yellow buffs with "hackclub" on them running around a playground! 
 
-I had also forgotten to pack my passport though, so I met up with one of my family members who brought me my passport. Luckily they were going to a day trip in Vancouver, and luckily I noticed, because if I didn't have it, I would've had lots of trouble flying back to Vancouver from Montreal!
+I had also forgotten to pack my passport though, so I met up with one of my family members who brought me my passport. Luckily they were going to a day trip in Vancouver, and thank goodness I noticed, because if I didn't have it, I would've had lots of trouble flying back to Vancouver from Montreal!
 
 ![Pasted image 20250828225130.png](/images/Pasted%20image%2020250828225130.png)
 
 We then headed back to the VIA rail station to begin our journey... We all hopped into a group photo, and then we made our way to our train and finally departed. 
 
-Looking back it all seems like a blur, but it was a really exciting and pivotal moment in my life. This was my first time doing something like this (aside from some smaller local hackathons) and it just changes your mindset so much on life.
+I was pretty adrenaline rushed and pretty excited so it was all like a blur... This was my first time doing something like this (aside from some smaller local hackathons) and it just changes your mindset so much on life.
 ![Pasted image 20250828225333.png](/images/Pasted%20image%2020250828225333.png)
 
 On board, we were presented with our rooms, and then toured around the train a bit to get used to the different rooms, and then the train left on it's merry way. 
@@ -89,27 +89,29 @@ On board the train, there were also **350 cans of celsius to promote all-nighter
 
 Growing up, I was taught to be responsible and sleep at reasonable hours, so not sleeping was a huge mindset shift for me. And looking back at all these small experiences, they fundamentally changed me as a person and this is one of the reasons I love attending events like these.
 
+This was also a huge independence jump for me, I'm still pretty young and haven't really done much by myself, so it gave me lots of confidence doing an event like this.
+
 ![Pasted image 20250828234556.png](/images/Pasted%20image%2020250828234556.png)
 
-The Boreal Express also had this really cool server setup by [Alex Park](https://github.com/alx-alexpark) where we could all share files and host stuff to be externalized. 
+The Boreal Express also had this really cool server setup by [Alex Park](https://github.com/alx-alexpark) where we could all share files and host stuff to be eternalized for a long time. 
 
 Because we didn't have any internet or anything on the train, we also needed somewhere where we could access documentation and stuff if we needed it. And while the system wasn't perfect, it definitely helped alot of people.
 
-All of us had setup our own tailscale accounts and gotten used to the server before the event started so we could add whatever we want to it beforehand.
+All of us had setup our own tailscale accounts and gotten used to the server before the event started so we could add whatever we want to it beforehand. I found tailscale pretty confusing, but really interesting and I kinda wanna mess around with it a bit more in the future!
 
 The server also introduced me to the terminal. Yes... I had barely touched the terminal before the Boreal Express, and this idea that you could interact with servers and stuff really changed how I looked at programming and will definitely inspire me to grow away from just building websites and apps.
 
 ![Pasted image 20250828234612.png](/images/Pasted%20image%2020250828234612.png)
 
-The meals were also **amazing** on the train. I have many allergies and they were able to accommodate lots of stuff for me, and we were served like 3 course meals with lamb chops and just generally amazing food. I can't give enough thanks for Hackclub to providing this opportunity, it was absolutely amazing!
+The meals were also **amazing** on the train. I have many allergies and they were able to accommodate lots of stuff for me, and we were served like 3 course meals with lamb chops and just generally amazing food.
 
-There were also snacks onboard that you could grab anytime, refreshments and stuff too, is was pretty sweet.
+There were also snacks onboard that you could grab anytime, refreshments and stuff too, is was pretty sweet and the whole vibe was just really energetic and hackey, it's the kind of vibe I want to live with for the rest of my life...
 
 ![Pasted image 20250828234858.png](/images/Pasted%20image%2020250828234858.png)
 
 Being on the Boreal and seeing all the landscape around us was beautiful :D
 
-I live in Canada, but I never really got the opportunity to see the more remote area's only accessible by train, and it was so eye-opening to see what lies beyond large metropolitan area's. This will definitely inspire me to get out of my comfort more often and do cool things like this!
+I live in Canada, but I never really got the opportunity to see the more remote area's only accessible by train, and it was so eye-opening to see what lies beyond large metropolitan area's. I really want to try and do more exploring after seeing this, it was just unbelievable!
 
 ![Pasted image 20250829002642.png](/images/Pasted%20image%2020250829002642.png)
 
@@ -119,19 +121,21 @@ Now before we went to sleep, we actually crossed through a bunch of wildfires ha
 
 ![Pasted image 20250829003156.png](/images/Pasted%20image%2020250829003156.png)
 
-Anyways, it was time to get a good nights rest, so I clocked out for the night in our room awaiting whatever will happen next in our journey aboard the Boreal.
+Anyways, it was time to get a good nights rest, so I clocked out for the night in our room awaiting whatever will happen next in our journey aboard the Boreal. I still really wish I slept less, and it's something I'll carry with myself to whatever adventure awaits me next.
 
 ## Jasper & Misfortunes
 
 I had a pretty nice sleep and woke up to one of the most surreal landscapes I had ever seen. I couldn't believe how fast it had changed, but we were now right by **Jasper national park**.
 
+I didn't think Canada had desert-like landscapes like this... I forgot to capture the moments in this area, but there is this photo of the train like slowly entering the terrain, but it was just completely deserted with literal cacti and spewed with what looked like huts and mines, insanely cool.
+
 ![Pasted image 20250829004820.png](/images/Pasted%20image%2020250829004820.png)
 
-I had a nice breakfast with some of the friends I met on the train, and then it was time to get to programming. Now we were allowed to pretty much build whatever we want, but it was encouraged to do something related to the outdoors or something related to the server.
+I had a nice breakfast with some of the friends I met on the train, and then it was time to get to programming. Now we were allowed to pretty much build whatever we want, but we were encouraged to do something related to the outdoors/journey or something related to the server.
 
 It was also encouraged to not just build one project, but instead build a bunch of smaller ones and learn a bunch from others.
 
-So the first app I worked on was a little Wikipedia game where you could just like scroll wikipedia like reels. It was a pretty simple app, but I worked on it with Advay and it was a short kinda fun thing to make. I kinda just left it at that and then started on my second project, the Bore-ad service!
+So the first app I worked on was a little Wikipedia game where you could just like scroll wikipedia like reels. It was a pretty simple app that I worked on with Advay and it was a short kinda fun thing to make. Advay did most of the work on it, and I kind of just left it at that because I wanted to start on my second project, the Bore-ad service!
 
 I love making interactive projects where people can like do something and have fun with it, so I thought that a fun project would be to have a little ad website on the server where people could post ads for their projects on the server. So I started working on this project, and got help from some other people whenever I ran into some issues.
 
@@ -139,7 +143,7 @@ Some fun events were also happening on the train though. We needed to set up dec
 
 ![Pasted image 20250829005617.png](/images/Pasted%20image%2020250829005617.png)
 
-Another thing that happened was one of the co-organizers [Zoya](https://github.com/zoya-hussain), setup a mini barista kitchen and made drinks for everyone which was pretty sweet!
+Another thing that happened was one of the co-organizers [Zoya](https://github.com/zoya-hussain), setup a mini barista kitchen and made drinks for everyone which was pretty sweet! I got a shirley temple and this experience taught me how valuable it is to make others feel appreciated, so if I ever run an event in the future, I really want to focus on quality and not quantity.
 
 ![Pasted image 20250829005944.png](/images/Pasted%20image%2020250829005944.png)
 
