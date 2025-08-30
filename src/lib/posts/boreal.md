@@ -176,7 +176,11 @@ Tomorrow we would have the opportunity to showcase all our projects that we made
 
 We all woke up pretty early, I had barely slept because I was trying to finish my project, and some people just didn't sleep whatsoever. 
 
-Hackclub does a slightly different hackathon style, it's more for the experience instead of just prizes, so you basically like go around in a circle and everyone showcases each others projects. My favorite project in the showcase was from [Kevin](https://github.com/kevinjosethomas), a really smart programmer who made this wildfire tracker and **prediction**, which was really cool because it was inspired from seeing the wildfires on our journey.
+Hackclub does a slightly different hackathon style, it's more for the experience instead of just prizes, so you basically like go around in a circle and everyone showcases each others projects. 
+
+![](Pasted%20image%2020250829183040.png)
+
+My favorite project in the showcase was from [Kevin](https://github.com/kevinjosethomas), a really smart programmer who made this wildfire tracker and **prediction**, which was really cool because it was inspired from seeing the wildfires on our journey.
 
 ![](/images/Pasted%20image%2020250829164404.png)
 
@@ -197,6 +201,7 @@ We also got to talk with Linus and take some photo's with him which was pretty s
 ![](/images/Pasted%20image%2020250829165140.png)
 ![](/images/Pasted%20image%2020250829165152.png)![](/images/Pasted%20image%2020250829165215.png)
 ![](/images/Pasted%20image%2020250829165408.png)
+![](/images/Pasted%20image%2020250829182641.png)
 
 One of Linus's employee's even gave me a bread plushie which was pretty sweet! They were all really nice people, and it was extremely memorable for me. After visiting it and seeing all the cool hardware, I also want to start working on more physical projects instead of just hardware...
 
@@ -206,4 +211,31 @@ One of Linus's employee's even gave me a bread plushie which was pretty sweet! T
 
 We got to see all of the stuff currently being prototyped, like color changing swimsuits from water and a bunch of other cool merch. It was just generally a very cool space to be in, and will definitely inspire me to make some more silly projects in the future.
 
-And just like that, we went back on the bus to return to the station
+And just like that, we went back on the bus to return to the VIA station. We all signed the server and said our goodbyes... Lots of people had later flights so they were just waiting around and I had some nice talks with people about Linux, until I got picked up, and just like that, my journey on the Boreal was over.
+
+![](/images/Pasted%20image%2020250829182936.png)
+
+## Closing Thoughts
+
+The Boreal Express was such an insanely cool event and it was a pivotal moment in my life. It taught me much more than just programming, it taught me what's possible.
+
+The first takeaway I had from this journey was just build whatever you want. Don't worry about what others want, or what you should make, just make what **you** want to make.
+
+The second takeaway is **DON'T SLEEP**... I missed out on a lot of cool moments because I slept too much, and it's really when you form the deep connections late at night. Also this means drinking lots of caffeine, something I definitely missed out on.
+
+The next takeaway is to talk to as many people as you can, not even just the other kids, but also the organizers, the staff, and other cool people. Having the 2 conversations with Zach and Woody were extremely powerful and impacted my life a lot.
+
+Another thing is to adventure with others, I didn't do this enough and missed the opportunity to do cool things and form bonds with others, just wander the city with others and see where it takes you (just don't go too haywire...).
+
+The final thing is *idea's*. Good idea's are way more powerful than a complicated project. They're more fun to make, you usually learn more and they're just generally so much better. Think for a long time before actually doing anything.
+
+Now with all this in mind, I want to:
+- Do more cool events like this, maybe run a couple
+- Switch to Linux and learn some server stuff
+- Learn hardware
+
+This was my very first event like this, so I was pretty shy, but I learned a LOT and know I have all these idea's of running events and stuff, but I'm going to leave them for now to work on my skills.
+
+But anyways, this event was such an important part of my life, so get out there and do cool stuff to the hackers reading this.
+
+-Kai
