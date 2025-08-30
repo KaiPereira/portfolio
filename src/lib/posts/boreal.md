@@ -178,7 +178,7 @@ We all woke up pretty early, I had barely slept because I was trying to finish m
 
 Hackclub does a slightly different hackathon style, it's more for the experience instead of just prizes, so you basically like go around in a circle and everyone showcases each others projects. 
 
-![](Pasted%20image%2020250829183040.png)
+![](/images/Pasted%20image%2020250829183040.png)
 
 My favorite project in the showcase was from [Kevin](https://github.com/kevinjosethomas), a really smart programmer who made this wildfire tracker and **prediction**, which was really cool because it was inspired from seeing the wildfires on our journey.
 
