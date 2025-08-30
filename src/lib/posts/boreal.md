@@ -13,15 +13,15 @@ Now this wasn't any ordinary hackathon, this was a cross-country journey on a tr
 
 But let's back up a little bit to how I actually got invited... 
 
-A couple months before Boreal was going to happen, I was perusing the internet for fun hackathons in Vancouver where I could meet others nearby, and came across a cross-country hackathon on a train. I did not believe this could be real, an all-expenses paid 8-day expedition from Vancouver to Montreal for only highschoolers put on by this amazing organization called [Hackclub](https://hackclub.com/).
+A couple months before Boreal was going to happen, I was perusing the internet for fun hackathons in Vancouver where I could meet others nearby, and came across a cross-country hackathon on a train. I could not believe that this is real, an all-expenses paid 8-day expedition from Vancouver to Montreal for only highschoolers put on by this amazing organization called [Hackclub](https://hackclub.com/).
 
-Hackclub runs some of the coolest events for high schoolers like [Apocalypse](https://apocalypse.hackclub.com/), a zombie themed hackathon in Toronto, to events like Arcade, where you work on projects and redeem hours for free stuff like hardware. 
+Hackclub runs some of the coolest events for high schoolers like [Apocalypse](https://apocalypse.hackclub.com/), a zombie themed hackathon in Toronto, to events like Arcade, where you work on projects and redeem hours for free stuff like hardware. They're literally the coolest organization on the planet run by the coolest hackers.
 
 ![](/images/Pasted%20image%2020250829155338.png)
 
 The Boreal Express was an invite-only hackathon, you had to submit projects to get accepted, similar to Hack the North and other hackathons, but on a smaller scale. Now around this time, I hadn't actually have made too many projects aside from some small apps and stuff that never really got anywhere, but I did have this one hackathon project I build for a 12h local hackathon that got #1 so it was really my one shot at getting an invite to the Boreal Express...
 
-I wasn't too proud of this project, but it was kind of a neat concept around helping to prevent school shootings, so I submitted it and hoped for the best!
+I wasn't too proud of this project, but it was kind of a neat concept around helping to prevent school shootings, so I submitted it and hoped for the best! It's also my project that got the most amount of attention and won #1 at one of my local hackathons, so I figured it had the best chance.
 
 A couple weeks later, I didn't actually hear anything aside from others being rejected, so I was feeling pretty optimistic, and then a couple weeks before the Boreal Express was going to happen, I got an acceptance letter, I was in for one of the coolest experiences of my life :D
 
@@ -31,7 +31,7 @@ Fast-forward a couple of weeks, I get my flights booked with the organizers, and
 
 The entire group was set to meet on Jericho beach at sunset, and I got to meet lots of cool people like [Angad](https://angad.me/) who I was feeding the bunnies with, Advay (my roomate) and a bunch of other really interesting hackers! 
 
-I was pretty shy initially because lots of people actually knew each other here, but I wasn't too active in the Hackclub community, so I didn't really know anyone, but we all shared a lot in common, so it wasn't too hard to meet some new people and I chatted to some people about radio's, hardware, server and just generally interesting stuff.
+I was pretty shy initially because most of the programmers know each other online, but I wasn't too active in the community around this time, but we all shared a lot in common, so it wasn't too hard to meet some new people and I chatted to some people about radio's, hardware, server and just generally interesting stuff!
 
 ![Pasted image 20250828225424.png](/images/Pasted%20image%2020250828225424.png)
 
@@ -54,21 +54,21 @@ It's always good to have a laid back attitude during events like these, it's fin
 
 On day 2, we ate some breakfast and hopped on a bus to get to the VIA rail headquarters. It was this really cool old-fashioned style building and we got a bunch of swag and stickers as soon as we arrived.
 
-We all got these cool yellow buffs that said "VIA rail" and "hackclub" on them, aswell as some "sleep deprived" stickers. Lots of people also brought stuff for all the participants like 3D printed trains, keychains, candy everything.
+We all got these cool yellow buffs that said "VIA rail" and "hackclub" on them, aswell as some "sleep deprived" stickers. Lots of people also brought stuff for all the participants like 3D printed trains, keychains, candy, everything.
 
-I didn't bring anything like lots of the others, but in the future, I'll probably bring stickers to all the events I go too, because free stuff is amazing :D
+I didn't bring anything like lots of the others, but in the future, I'll probably bring stickers to all the events I go too, because getting/giving free stuff is amazing :D
 
 ![Pasted image 20250828224618.png](/images/Pasted%20image%2020250828224618.png)
 ![Pasted image 20250828230733.png](/images/Pasted%20image%2020250828230733.png)
 
-After arriving, the organizers held the opening ceremony where we got to hear some talks from government ministers, the VIA rail higher-ups and of course from the organizers Deven, Zach, Christina and others. There were so many people, it was hard to know who was who, and I wished I talked to some of them because they seemed like really interesting people.
+After arriving, the organizers held the opening ceremony where we got to hear some talks from government ministers, the VIA rail higher-ups and of course from the organizers Deven, Zach, Christina and others. There were so many people, it was hard to know who was who, and I wished I talked to more of them because they seemed like really interesting people.
 
 Most of the people had arrived for the hackathon by now, so there were LOTS more people and the room was nearly packed! There were hackers from Greece, Australia, the US, germany, literally EVERYWHERE, it was really amazing!
 
 ![Pasted image 20250828224701.png](/images/Pasted%20image%2020250828224701.png)
 ![Pasted image 20250828224847.png](/images/Pasted%20image%2020250828224847.png)
 
-We then went out to science world for lunch, where we had kind of like an information presentation for the train, and then we all fooled around at the playground, must've been very interesting seeing 50 kids all with yellow buffs with "hackclub" on them running around a playground! 
+We then went out to science world for lunch, where we had kind of like an information presentation for the train, and then we all fooled around at the playground. It must've been very interesting seeing 50 kids all with "hackclub" yellow buffs running around like maniacs, but it's all part of the fun! 
 
 I had also forgotten to pack my passport though, so I met up with one of my family members who brought me my passport. Luckily they were going to a day trip in Vancouver, and thank goodness I noticed, because if I didn't have it, I would've had lots of trouble flying back to Vancouver from Montreal!
 
@@ -76,12 +76,14 @@ I had also forgotten to pack my passport though, so I met up with one of my fami
 
 We then headed back to the VIA rail station to begin our journey... We all hopped into a group photo, and then we made our way to our train and finally departed. 
 
-I was pretty adrenaline rushed and pretty excited so it was all like a blur... This was my first time doing something like this (aside from some smaller local hackathons) and it just changes your mindset so much on life.
+I was pretty adrenaline rushed and pretty excited so it was all like a blur... This was my first time doing something like this (aside from some smaller local hackathons) and every single small part was just really transformative, it's the kind of thing I want to do for the rest of my life!
 ![Pasted image 20250828225333.png](/images/Pasted%20image%2020250828225333.png)
 
 On board, we were presented with our rooms, and then toured around the train a bit to get used to the different rooms, and then the train left on it's merry way. 
 
 The VIA rail train was still open to the public, but we had pretty much the entirety of the front, so we probably had like 5 or so carriages all to our selves. The rooms were spread out in a couple carriages, and there were small showers onboard in the corners of the carriages.
+
+The entire train ride was just so magical and beautiful it's hard to describe, you're just passing through nature with nothing to disturb the atmosphere aside from some remote buildings you find here and there.
 
 ![Pasted image 20250828233427.png](/images/Pasted%20image%2020250828233427.png)
 
@@ -121,7 +123,7 @@ Now before we went to sleep, we actually crossed through a bunch of wildfires ha
 
 ![Pasted image 20250829003156.png](/images/Pasted%20image%2020250829003156.png)
 
-Anyways, it was time to get a good nights rest, so I clocked out for the night in our room awaiting whatever will happen next in our journey aboard the Boreal. I still really wish I slept less, and it's something I'll carry with myself to whatever adventure awaits me next.
+Anyways, it was time to get a good nights rest, so I clocked out for the night in our room awaiting whatever will happen next in our journey aboard the Boreal. I still really wish that I had slept less, but it's something I'll carry with myself to whatever adventure awaits me next.
 
 ## Jasper & Misfortunes
 
@@ -143,7 +145,9 @@ Some fun events were also happening on the train though. We needed to set up dec
 
 ![Pasted image 20250829005617.png](/images/Pasted%20image%2020250829005617.png)
 
-Another thing that happened was one of the co-organizers [Zoya](https://github.com/zoya-hussain), setup a mini barista kitchen and made drinks for everyone which was pretty sweet! I got a shirley temple and this experience taught me how valuable it is to make others feel appreciated, so if I ever run an event in the future, I really want to focus on quality and not quantity.
+Another thing that happened was one of the co-organizers [Zoya](https://github.com/zoya-hussain), setup a mini barista kitchen and made drinks for everyone which was pretty sweet! 
+
+I got a shirley temple and this experience taught me how valuable it is to make others feel appreciated, so if I ever run an event in the future, I really want to focus on quality and not quantity.
 
 ![Pasted image 20250829005944.png](/images/Pasted%20image%2020250829005944.png)
 
@@ -163,7 +167,7 @@ And honestly, the experience is enough as is, just meeting everyone and doing so
 
 So we traveled back to the station, and then ended off the night with some karaoke. I then worked on my project for a couple hours and went to sleep in the morning as programmers do. I was actually kind of scared to have caffeine because I'm already pretty hyper so I didn't have any of the 350 Celsius's but I still stayed up quite late meeting people! I honestly missed out on the caffeine and should've drunken some, big mistake on my part and don't be afraid to drink caffeine guys! Helps you stay up so you can experience the cool moments at night.
 
-I was sticking to my comfort zone during this project, just making the bore-ad service with nextjs and json files, but I really wish that I made a project with someone experienced in completely different technologies, so that's something I'm definitely going to have to do in the future.
+I stuck to my comfort zone during this project, and just made the bore-ad service with nextjs and json files as a database, but I really wish that I made a project with someone experienced in completely different technologies, so that's something I'm definitely going to have to do in the future!
 
 ![](/images/Pasted%20image%2020250829161614.png)
 
@@ -187,7 +191,7 @@ I had a really meaningful talk with [Zach Latta](https://zachlatta.com/), the fo
 
 He showed me all the shortcuts, how to use VIM, accessing the server and literally just a lot of cool stuff, and this was some of the most interesting stuff ever to me, it was like a whole other world I hadn't seen before. Zach suggested I get Ubuntu when I get home, and I'm really excited to start working with the terminal when I get back.
 
-Zach literally embodies the hacker ethos, and he's one of the smartest and most humble people I've ever met, and he really shifted my mindset on programming a lot and all these experiences would have never happened without him.
+Zach literally embodies the hacker ethos, and he's one of the smartest, most humble and approachable people I've ever met, and he really shifted my mindset on programming a lot and this experience would have never happened without him.
 
 Anyways, tomorrow we would have the opportunity to showcase all our projects that we made and then have our closing ceremony to finish off the Boreal Express.
 
