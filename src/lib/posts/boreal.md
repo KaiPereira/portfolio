@@ -266,3 +266,11 @@ But anyways, this event was such an important part of my life and I'll never for
 Now get out there and keep on hacking :D
 
 -Kai
+
+### Credits & Thanks
+
+First of all thanks to all the organizers of Boreal and specifically [Deven](https://devenjadhav.com/) for making this entire thing come true, it was an absolutely amazing event and one of the most pivotal moments of my life.
+
+Thanks to Zach for founding hackclub and all the other staff who help Hackclub run, and also to "Waldo & Woodhead" (Woody's group) for the vibes!
+
+And a big thanks to [Cara](https://devcara.com/), [Nachu](https://www.linkedin.com/in/nachammai-annamalai) and all the others who's photo's I've included in this journal! It was so nice to meet everyone and I hope to see you guys again :D
