@@ -170,7 +170,13 @@ They really brought the vibe to the train and it wouldn't have been the same wit
 
 Then after dinner, we all grinded our project until we couldn't stay awake anymore... 
 
-Tomorrow we would have the opportunity to showcase all our projects that we made and then have our closing ceremony to finish off the boreal express.
+I had a really meaningful talk with [Zach Latta](https://zachlatta.com/), the founder of Hackclub while I was programming. I needed some help getting my project on the server and because I was so used to windows, Linux was just so foreign so hce really helped me get my grips on working with Linux.
+
+He showed me all the shortcuts, how to use VIM, accessing the server and literally just a lot of cool stuff, and this was some of the most interesting stuff ever, it was like a whole other world I hadn't seen before. Zach suggested I get Ubuntu when I get home, so I already know that this experience will impact me a lot.
+
+Zach literally embodies the hacker ethos, and he's one of the smartest and most humble person I've ever met, and he really shifted my mindset on programming a lot and all these experiences would have never happened without him.
+
+Anyways, tomorrow we would have the opportunity to showcase all our projects that we made and then have our closing ceremony to finish off the boreal express.
 
 ## Showcase and a surprise
 
