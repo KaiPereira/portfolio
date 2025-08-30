@@ -23,17 +23,20 @@ The Boreal Express was an invite-only hackathon, you had to submit projects to g
 
 I wasn't too proud of this project, but it was kind of a neat concept around helping to prevent school shootings, so I submitted it and hoped for the best!
 
-A couple weeks later, I don't actually here anything aside from other people getting rejected, but then a couple weeks before the Boreal Express was going to happen, I got an acceptance letter, I was in for one of the coolest experiences of my life :D
+A couple weeks later, I didn't actually hear anything aside from others being rejected, so I was feeling pretty optimistic, and then a couple weeks before the Boreal Express was going to happen, I got an acceptance letter, I was in for one of the coolest experiences of my life :D
 
-Fast-forward a couple of weeks, I get my flights booked with the organizers, and I take a ferry over with my family to Vancouver and I'm off on my way to Boreal Express.
+Fast-forward a couple of weeks, I get my flights booked with the organizers, and I take a ferry over with my family to Vancouver and I'm off on my way to the Boreal Express.
 
 ## The Meetup
 
 The entire group was set to meet on Jericho beach at sunset, and I got to meet lots of cool people like [Angad](https://angad.me/) who I was feeding the bunnies with, Advay (my roomate) and a bunch of other really interesting hackers! 
 
+I was pretty shy initially because lots of people actually knew each other here, but I wasn't too active in the Hackclub community, so I didn't really know anyone, but we all shared a lot in common, so it wasn't too hard to meet some new people and I chatted to some people about radio's, hardware, server and just generally interesting stuff.
+
 ![Pasted image 20250828225424.png](/images/Pasted%20image%2020250828225424.png)
 
-I was pretty shy because this was one of my very first events I'd been too and I was all alone, but after a bit of awkwardness I started to talk to a bunch of people about some common passions and learnt a bunch of cool stuff about radio's, docker and other things. 
+
+My first in-depth chat with someone was this kid who I talked to about radio's and airsoft. I was really fascinated about his ham radio because it was like this completely separate thing that only a select few people knew about, and it felt like this really kind community. So we played a couple pranks on the radio on some of the local FM channels, which was fun.
 
 Learning from this experience, I think it's incredibly important to just have deep conversations with people. You learn such an insane amount and form incredibly strong connections with those people, I wish I talked a bit more to others but I still learned a lot nonetheless.
 
@@ -41,7 +44,9 @@ Learning from this experience, I think it's incredibly important to just have de
 
 After the sunset, we fooled around on the beach, had some Poke, tried to set off some fireworks (but the police were faster), and all huddled around to finish the night off with our own [Boreal song](https://www.youtube.com/watch?v=mKQDGMpJNws) from [Woody and his group](https://woodykeppel.com/) (you'll hear more about them soon, they're very interesting people). 
 
-We met back at a little hostel right by the beach, and then chatted about until we couldn't stay awake anymore. Something I took away from this was that sleep actually comes last during events like these, you miss a lot of interesting stuff when you sleep, and it's kind of that time where you form deep connections with people.
+We met back at a little hostel right by the beach, and I clonked out for the night pretty fast. Something I took away from this was that sleep actually comes last during events like these, you miss a lot of interesting stuff when you sleep, and it's kind of that time where you form deep connections with people. I was kind of sad that I slept so early, I really should've tried talking to some people because I feel like it would've been easier to talking to everyone from the get-go if I messing around like the others.
+
+It's always good to have a laid back attitude during events like these, it's fine to be a bit irresponsible for a couple of days and have some fun, and it's something I really learned during this event, that *life isn't that serious*.
 
 ![Pasted image 20250828225849.png](/images/Pasted%20image%2020250828225849.png)
 
