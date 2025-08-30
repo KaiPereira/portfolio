@@ -213,7 +213,7 @@ So we all piled into a giant bus and headed over to Linus Tech Tips's studio!
 
 ![](/images/Pasted%20image%2020250829164850.png)
 
-It was really cool to see how Linus operated. They had like a plethora of different buildings on the property for different things like Studio shoots, podcasts, merch, everything imaginable.
+It was really cool to see how Linus operated. They had like a plethora of different buildings on the property for different things like studio shoots, podcasts, merch, everything imaginable.
 
 We also got to talk with Linus and take some photo's with him which was pretty sweet, and the staff gave us a full tour of the entire premise.
 
@@ -230,9 +230,11 @@ One of Linus's employee's even gave me a bread plushie which was pretty sweet! T
 
 *My beloved bread...*
 
-We got to see all of the stuff currently being prototyped, like color changing swimsuits from water and a bunch of other cool merch. It was just generally a very cool space to be in, and will definitely inspire me to make some more silly projects in the future.
+We got to see all of the stuff currently being prototyped, like color changing swimsuits from water and a bunch of other cool merch. It was just generally a very cool space to be in, and will definitely inspire me to make some more silly and also extreme projects in the future.
 
-And just like that, we went back on the bus to return to the VIA station. We all signed the server and said our goodbyes... Lots of people had later flights so they were just waiting around and I had some nice talks with people about Linux, until I got picked up, and just like that, my journey on the Boreal was over.
+And just like that, we went back on the bus to return to the VIA station. We all signed the server and said our goodbyes... Lots of people had later flights so they were just waiting around and I had some nice talks with people about getting started with Linux, until I got picked up, and just like that, my journey on the Boreal was over.
+
+Most of the people were smarter than me, but I'm trying to learn as much as I can, so all these little experiences added up in me.
 
 ![](/images/Pasted%20image%2020250829182936.png)
 
@@ -244,21 +246,23 @@ The first takeaway I had from this journey was just build whatever you want. Don
 
 The second takeaway is **DON'T SLEEP**... I missed out on a lot of cool moments because I slept too much, and it's really when you form the deep connections late at night. Also this means drinking lots of caffeine, something I definitely missed out on.
 
-The next takeaway is to talk to as many people as you can, not even just the other kids, but also the organizers, the staff, and other cool people. Having the 2 conversations with Zach and Woody were extremely powerful and impacted my life a lot.
+The next takeaway is to talk to as many people as you can, not even just the other kids, but also the organizers, the staff, and other cool people. Having the 2 conversations with Zach and Woody were extremely powerful and impacted my mindset a lot.
 
 Another thing is to adventure with others, I didn't do this enough and missed the opportunity to do cool things and form bonds with others, just wander the city with others and see where it takes you (just don't go too haywire...).
 
-The final thing is *idea's*. Good idea's are way more powerful than a complicated project. They're more fun to make, you usually learn more and they're just generally so much better. Think for a long time before actually doing anything.
+And of course, quality over quantity. Spend focused time on something and do it well, instead of just rushing a project really fast. But this doesn't mean don't hack stuff up, it's more just think of smarter ways of doing stuff, it saves a lot of time and makes whatever you're doing, way better!
+
+The final thing is *idea's*. Good idea's are way more powerful than a complicated, boring project. They're more fun to make, you usually learn more and they're just generally so much better. Think for a long time before actually doing anything.
 
 Now with all this in mind, I want to:
 - Do more cool events like this, maybe run a couple
 - Switch to Linux and learn some server stuff
 - Learn hardware
 
-This was my very first event like this, so I was pretty shy, but I learned a LOT and know I have all these idea's of running events and stuff, but I'm going to leave them for now to work on my skills.
+This was my very first event like this, so I was pretty shy, but I learned a LOT and know I have all these idea's of running events and stuff. But for now, I'm going to leave those thoughts and really focus on building up my skills so I can build higher quality stuff.
 
-But anyways, this event was such an important part of my life and I'll never forget it :D
+But anyways, this event was such an important part of my life and I'll never forget it...
 
-Now get out there and keep on hacking.
+Now get out there and keep on hacking :D
 
 -Kai
