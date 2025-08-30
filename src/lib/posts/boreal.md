@@ -159,7 +159,11 @@ We were going to turn the train around (honestly no clue how they did that), and
 
 I feel really bad for the organizers because they put so much thought into each activity that would happen at each station, and they had to re-book **every single flight**. But it still wasn't the end to the journey, we could hang out in Vancouver, do activities on the train and still learn a lot.
 
-So we traveled back to the station, and then ended off the night with some karaoke. I then worked on my project for a couple hours and went to sleep in the morning as programmers do. I was actually kind of scared to have caffeine because I'm already pretty hyper so I didn't have any of the 350 Celsius's but I still stayed up quite late meeting people!
+And honestly, the experience is enough as is, just meeting everyone and doing something like this is absolutely incredible.
+
+So we traveled back to the station, and then ended off the night with some karaoke. I then worked on my project for a couple hours and went to sleep in the morning as programmers do. I was actually kind of scared to have caffeine because I'm already pretty hyper so I didn't have any of the 350 Celsius's but I still stayed up quite late meeting people! I honestly missed out on the caffeine and should've drunken some, big mistake on my part and don't be afraid to drink caffeine guys! Helps you stay up so you can experience the cool moments at night.
+
+I was sticking to my comfort zone during this project, just making the bore-ad service with nextjs and json files, but I really wish that I made a project with someone experienced in completely different technologies, so that's something I'm definitely going to have to do in the future.
 
 ![](/images/Pasted%20image%2020250829161614.png)
 
@@ -167,31 +171,33 @@ So we traveled back to the station, and then ended off the night with some karao
 
 When I woke up, the train had parked right back at the station, but this still wasn't the end to our journey... Workshops, lightning talks and other activities were still happening aboard, my favorite workshop was the one by Angad where he kind of explained docker, and I didn't really actively follow it, but it inspired me to start using docker and server tools more often.
 
-We also took a visit to check out Vancouver and stretch out our legs a bit! I was in Cara's group who did lots of the infra for the train, so it was interesting to learn about some server stuff from them. We went to this kind of Japanese hybrid restaurant which was pretty good and checked out some of the parks and stuff in Vancouver. We did accidentally get onto East Hastings though, which is one of the worst streets in Vancouver for crime, but we got out pretty fast.
+We also took a visit to check out Vancouver and stretch out our legs a bit! I was in Cara's group who did lots of the infra for the train, so it was interesting to learn about some server stuff from them. We went to this kind of Japanese hybrid restaurant which was pretty good and checked out some of the parks and stuff in Vancouver. We did accidentally get onto East Hastings though, which is one of the worst streets in Vancouver for crime, but we got out pretty fast. *Whoopsies*
 
 ![](/images/Pasted%20image%2020250829162045.png)
 
-We got back and then I had a really nice talk with [Woody](https://woodykeppel.com/), who's a performer, comedian, musician, literally everything. He was probably the most interesting person I talked to, has had the opportunity to join Cirque de Soleil, and actively performs and did all the live music during the train ride.
+We got back and then I had a really nice talk with [Woody](https://woodykeppel.com/), who's a performer, comedian, musician, literally everything. He was probably the most interesting person I talked to, has had the opportunity to join Cirque de Soleil, actively performs and did all the live music during the train ride.
 
 They really brought the vibe to the train and it wouldn't have been the same without him and his group, "Waldo & Woodhead". They also wrote this song just for the train journey, ["our time"](https://www.youtube.com/watch?v=mKQDGMpJNws) :D
 
 ![](/images/Pasted%20image%2020250829162437.png)
 
-Then after dinner, we all grinded our project until we couldn't stay awake anymore... 
+Then after dinner, we all grinded our project until we couldn't stay awake anymore... My sleep tolerance hadn't really developed by now, so 3am was kinda my max... definitely going to have to start training for all-nighters!
 
 I had a really meaningful talk with [Zach Latta](https://zachlatta.com/), the founder of Hackclub while I was programming. I needed some help getting my project on the server and because I was so used to windows, Linux was just so foreign so he really helped me get my grips on working with Linux.
 
-He showed me all the shortcuts, how to use VIM, accessing the server and literally just a lot of cool stuff, and this was some of the most interesting stuff ever to me, it was like a whole other world I hadn't seen before. Zach suggested I get Ubuntu when I get home, so I already know that this experience will impact me a lot.
+He showed me all the shortcuts, how to use VIM, accessing the server and literally just a lot of cool stuff, and this was some of the most interesting stuff ever to me, it was like a whole other world I hadn't seen before. Zach suggested I get Ubuntu when I get home, and I'm really excited to start working with the terminal when I get back.
 
 Zach literally embodies the hacker ethos, and he's one of the smartest and most humble people I've ever met, and he really shifted my mindset on programming a lot and all these experiences would have never happened without him.
 
-Anyways, tomorrow we would have the opportunity to showcase all our projects that we made and then have our closing ceremony to finish off the boreal express.
+Anyways, tomorrow we would have the opportunity to showcase all our projects that we made and then have our closing ceremony to finish off the Boreal Express.
+
+My project was pretty much done by the time I went to sleep, but it was definitely janked together and the server wasn't really liking my json database...
 
 ## Showcase and a surprise
 
 We all woke up pretty early, I had barely slept because I was trying to finish my project, and some people just didn't sleep whatsoever. 
 
-Hackclub does a slightly different hackathon style, it's more for the experience instead of just prizes, so you basically like go around in a circle and everyone showcases each others projects. 
+Hackclub does a slightly different hackathon style, it's more for the experience instead of just prizes, so you basically like go around in a circle and everyone showcases each others projects. You learn a lot doing this kind of style and it's pretty cool! 
 
 ![](/images/Pasted%20image%2020250829183040.png)
 
@@ -203,7 +209,7 @@ After showcasing each others projects, we went to our closing ceremony, where we
 
 But there was still one surprise left in store... It turns out that one of the organizers had reached out to Linus Tech Tips and we caught news that we could meet him and tour their faciliity!
 
-So we all piled into a giant bus and header over to Linus Tech Tips's studio!
+So we all piled into a giant bus and headed over to Linus Tech Tips's studio!
 
 ![](/images/Pasted%20image%2020250829164850.png)
 
