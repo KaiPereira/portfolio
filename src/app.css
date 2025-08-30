@@ -4,7 +4,7 @@
 @import "tailwindcss/utilities.css" layer(utilities);
 
 .markdown img {
-	@apply mt-4 max-w-full h-auto block mx-auto rounded-lg;
+	@apply mt-4 max-w-full h-auto block mx-auto;
 	max-height: 60vh; /* cap super tall images */
 	object-fit: contain;
 }

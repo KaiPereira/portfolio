@@ -169,20 +169,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "4e50ffce4f1b30c5",
+  "active": "815ea858b39abb9f",
   "lastOpenFiles": [
+    "static/images/Pasted Image 20250828221119_184.png",
+    "static/images/Pasted image 20250828215623.png",
+    "static/images/Pasted image 20250828214635.png",
+    "src/lib/posts/boreal.md",
+    "image.png",
     "static/images/Pasted image 20250829183040.png",
     "static/images/Pasted image 20250829182936.png",
     "static/images/Pasted image 20250829182641.png",
     "static/images/Pasted image 20250829165723.png",
     "static/images/Pasted image 20250829165619.png",
     "static/images/Pasted image 20250829165413.png",
-    "static/images/Pasted image 20250829165408.png",
-    "static/images/Pasted image 20250829165215.png",
-    "static/images/Pasted image 20250829165152.png",
-    "static/images/Pasted image 20250829165140.png",
-    "static/images/Pasted image 20250829165130.png",
-    "src/lib/posts/boreal.md",
     "src/routes/journal/[slug]/+page.svelte~",
     "src/app.css~",
     "src/lib/posts/china.md"
