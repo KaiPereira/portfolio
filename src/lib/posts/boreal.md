@@ -1,7 +1,7 @@
 ---
 title: "All aboard the Boreal Express"
 date: "2025-08-27"
-description: "The summer of 2024, I was invited to a cross-country hackathon on a train. This journey transformed my thinking and taught me that I can build whatever I want and to go against the norms."
+description: "The summer of 2024, I was invited to an 8 day cross-country hackathon on a train. It was my first big event and one of the most pivotal experiences in my life!"
 ---
 # All aboard the Boreal Express
 
