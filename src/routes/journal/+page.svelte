@@ -3,6 +3,7 @@
 </script>
 
 <h1>My Journal</h1>
+<a href="/">[Back to my Homepage]</a>
 <p>I love writing about my experiences meeting new people and projects I'm working on, so here you can learn more about what I'm making and my life! - Kai</p>
 <div class="flex flex-col gap-4 mt-10">
 {#each data.posts as post}

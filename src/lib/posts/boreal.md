@@ -236,6 +236,8 @@ Now with all this in mind, I want to:
 
 This was my very first event like this, so I was pretty shy, but I learned a LOT and know I have all these idea's of running events and stuff, but I'm going to leave them for now to work on my skills.
 
-But anyways, this event was such an important part of my life, so get out there and do cool stuff to the hackers reading this.
+But anyways, this event was such an important part of my life and I'll never forget it :D
+
+Now get out there and keep on hacking.
 
 -Kai
