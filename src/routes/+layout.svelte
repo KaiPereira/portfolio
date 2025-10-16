@@ -3,4 +3,9 @@
 	import "../app.css"
 </script>
 
-{@render children?.()}
+<main class="flex justify-center py-10">
+	<div class="w-full max-w-4xl">
+		{@render children?.()}
+	</div>
+</main>
+

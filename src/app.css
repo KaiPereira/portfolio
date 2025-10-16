@@ -8,3 +8,9 @@
 	max-height: 60vh; /* cap super tall images */
 	object-fit: contain;
 }
+
+body {
+	line-height: 1.6;
+	font-size: 18px;
+	color: #333;
+}
