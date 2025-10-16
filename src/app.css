@@ -3,6 +3,10 @@
 @import "tailwindcss/theme.css" layer(theme);
 @import "tailwindcss/utilities.css" layer(utilities);
 
+@theme {
+	--color-main: #333;
+}
+
 .markdown img {
 	@apply mt-4 max-w-full h-auto block mx-auto;
 	max-height: 60vh; /* cap super tall images */
@@ -18,3 +22,18 @@ body {
 img {
 	border-radius: 4px;
 }
+
+a {
+	color: #3800b5;
+	transition: 0.25s;
+}
+
+a:hover {
+	background-color: #3800b517;
+}
+
+a.no-hover:hover {
+	background-color: unset !important;
+	color: unset !important;
+}
+
