@@ -674,11 +674,5 @@ Tutorials help a LOT here where words sometimes can't explain all, so take your 
 
 I started by soldering my 0.1uF caps, because there's quite a few of them, but you could really start with whatever 0402 component you want, and then work your way up to 0603, then 0805, and then small components, then large components!
 
-Here's my very first passive soldered onto my board:
-
-![Pasted image 20251026155232.png](/images/Pasted%20image%2020251026155232.png)
-
-Yes, it's SMALL, and takes lots of time. If you're currently working on this, shoot me a DM on slack **@KaiPereira**, I'd love to see how you're doing!
-
 (unfinished)
 
