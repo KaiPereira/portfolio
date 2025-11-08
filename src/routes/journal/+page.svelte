@@ -8,8 +8,8 @@
 <div class="flex flex-col gap-4 mt-10">
 {#each data.posts as post}
 	<div>
-		<div class="flex gap-4">
-			<h2 class="mt-0 text-lg"><a href={`/journal/${post.slug}`} class="!text-main no-hover">{post.metadata.title}</a></h2>
+		<div class="flex gap-4 items-center mb-2">
+			<h2 class="m-0 text-lg"><a href={`/journal/${post.slug}`} class="!text-main no-hover">{post.metadata.title}</a></h2>
 			<p class="m-1">{post.metadata.date}</p>
 		</div>
 		<p class="mt-0">{post.metadata.description}</p>
