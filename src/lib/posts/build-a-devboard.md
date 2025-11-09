@@ -1,5 +1,5 @@
 ---
-title: "Build Your Own RP2040 Devboard"
+title: "How a devboard actually works (and how to make your own!)"
 date: "2025-10-15"
 description: "This is a really in-depth tutorial on how to make your own Raspberry Pi Pico clone! Learn fundamental PCB design, make a cool project, and learn how to solder!"
 ---
