@@ -7,7 +7,7 @@ description: "This is a really in-depth tutorial on how to make your own Raspber
 
 Today, we're going to be designing our own dev board, using one of the most popular and beginner friendly SoC's, the RP2040. This guide doesn't serve as just a tutorial, but also as an opportunity to learn what everything on the PCB fundamentally does, and what every single component on your PCB is actually for!
 
-All the source files for this tutorial can be [found here](https://github.com/KaiPereira/build-a-devboard), so if you need any help, feel free to resort to the repository!
+All the source files for this tutorial can be [found here](https://github.com/KaiPereira/build-a-devboard), so if you need any help, feel free to resort to the repository and give it a star if you want to see more like it!
 
 ![Pasted image 20250930162537.png](/images/Pasted%20image%2020250930162537.png)
 
