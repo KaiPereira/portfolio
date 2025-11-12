@@ -85,5 +85,38 @@ Bottle Dream was such a cool venue, it was like a modern wood building, and you'
 
 I had actually brought a polaroid camera, so once everyone had flooded in, I took a large group photo with everyone, which turned out great!!!
 
+The opening ceremony was hype, the mood was positive, the vibes were on point, and everyone was excited for what was to come. We got a quick rundown of the do's and don't inside of Bottle Dream, and then we got to choose teams and get some merch!
 
+The teams were simple, everyone in that group would be like working on stuff related to a common subject:
+- Tongyu: Game music and sound, so just like making general vibes
+- Kai Ling: I think was art, and making the venue look nice
+- Thomas: Web stuff, so like creating cool websites about the games and whatnot
+- Acon: Hardware, pcb's, all that fun stuff
 
+Now I might have some of these the wrong order, but these were the general categories!
+
+I ended up choosing Acon's team, because I was really interested in getting into hardware at this point, and she knew a lot about building fun hardware!
+
+We also received a bunch of merch right after opening ceremony! This was a TON of really cool stuff like varsity jackets, laptop bags, stickers, like figdets, a bunch of really cool stuff ALL DESIGNED by HIGHSCHOOLERS!!
+
+After we received all the goods, and chose our teams, we messed around a bit with making some Juice and then went out to get some lunch!
+
+We walked over to a mall, where half of us split up to go to a KFC (or maybe it was a burger kind, I can't really remember), and the other half to go to a little vegan place (because we had quite a few people with allergies).
+
+I kid you not, this was the best vegan food I've ever had in my life. I got this spicy tofu dish that was like half a kilo of soft, luscious tofu, alongside some tomato soup, and edamame, it was AMAZING! They also had this really good tea-based drink, that tasted like a mix of strawberry and raspberry that was soooooo good!!!!
+
+We were allowed to spend $5 USD/person per meal, and with this amount, we could still get a TON, food was so cheap and so good in China!
+
+After lunch, we made our way back to the venue to chill and showcase some of our games to each other. We fooled around a bit with making juice, and I played a lot of cool games from some other people! I played [Ossatura](https://jadenlong1234.itch.io/ossatura-demo) one of my favorite games by Adrian and Siwen, 2 really nice people I met in China!
+
+We also had a little meetup with our team about what we wanted to make, and to see if we could get working/manufacturing some PCB's while in the heart of the hardware world!
+
+And just like that, we were nearing the end of day 2, so we went out to get some dinner (I don't really remember where exactly at, but it was probably something good).
+
+Now before I went to sleep, I needed to try the bubble tea... We conveniently had this bubble tea place right by our hotel, so I popped over with my sister and some friends!
+
+Now paying for stuff is pretty convenient in China! You can usually do everything through Alipay, you just scan the businesses QR code, pick what you want, and just order everything through the app, you can even translate all the Chinese to English!
+
+I kid you not, this is also the best bubble I've ever and will ever have in my life. I'm telling you they juice the fruit right in front of you, the pearls are fresh as can be, and the serving sizes are huge. Best part is, it costs less than $2 for an absolutely huge drink!!! Unbelievable.
+
+So I walk back with my friends and we chill in the lobby, I'm kind of vibing while working on some PCB's with others working on their games, being in China really felt peaceful, even though you were in one of the largest cities on earth.
