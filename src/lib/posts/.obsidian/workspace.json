@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "boreal.md",
+                "file": "juice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "boreal"
+              "title": "juice"
             }
           }
         ],
@@ -201,8 +201,14 @@
   },
   "active": "9fe98c20398f276d",
   "lastOpenFiles": [
-    "china.md",
+    "Pasted image 20251111162631.png",
     "boreal.md",
+    "juice.md",
+    "build-a-devboard.md",
+    "juice.md~",
+    "build-a-devboard.md~",
+    "4913",
+    "china.md",
     "Pasted image 20250829012235.png",
     "Pasted image 20250829005944.png",
     "Pasted image 20250829005805.png",
