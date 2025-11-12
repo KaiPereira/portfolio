@@ -1,5 +1,4 @@
 @layer theme, base, components, utilities;
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
 
 @import "tailwindcss/theme.css" layer(theme);
 @import "tailwindcss/utilities.css" layer(utilities);
@@ -18,8 +17,6 @@ body {
 	line-height: 1.6;
 	font-size: 18px;
 	color: #333;
-	font-family: "DM Sans", sans-serif;
-  	font-optical-sizing: auto;
 }
 
 img {
