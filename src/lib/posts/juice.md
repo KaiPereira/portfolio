@@ -7,7 +7,7 @@ description: After spending 2 months building games, I was invited to Shanghai, 
 
 February of 2025, I was presented with the opportunity of a lifetime.
 
-An organization called Hackclub was running an event where if you spent 100 hours building a game, you would get an all expenses paid trip to Shanghai, China to present your games in a hacker cafe and meet some of the coolest hackers on the planet!
+An organization called Hackclub was running an event where if you spent 100 hours building a game, you would get an all expenses paid, week-long trip to Shanghai, China to present your games in a hacker cafe and meet some of the coolest hackers on the planet!
 
 It was an irrefutable opportunity, I had just gotten back from my adventures aboard the [Boreal Express](https://kaipereira.com/journal/boreal), and I was looking for the next big thing in my life, it was perfect!
 
@@ -35,6 +35,8 @@ The first thing we needed to do was go to the self-help kiosk, get our bio-metri
 
 We then made our way to the border inspector who took a look at our documents and then let us get on with our journey. It was a bit intimidating because we couldn't speak the same language, so the only way they could communicate with us, was through actions, and grunts. 
 
+Something you'll quickly notice is that the wifi is non-existential, and that you need to be prepared with a backup plan and have some VPN's. I used surfshark on my phone and had a little device that gave me internet if I needed it, so it was going to be really important to have this on me at all times!
+
 Tongyu, one of the event organizers was waiting for the latest group of kids to come at a Starbucks in the mall. It gave me the opportunity to admire the cool culture and to talk with some of the people. I thought that the fashion in China was pretty cool, everyone had their own style and was completely different from Canada! Everyone I talked to was really nice, and we could all talk for hours about nerdy stuff like programming, games, books, etc.
 
 After a bit, our group went outside to take an Uber to the first hotel of the trip! As soon as my face touched the fresh breeze, I couldn't help but notice the distinct smell of cigarettes in the air. China's a beautiful place, but it definitely has some pollution, but you get used to it really fast!
@@ -61,5 +63,27 @@ We were just served endless amounts of dishes in a style I've never experienced 
 
 Now one important thing when using chopsticks in China is DON'T PUT THEM UPRIGHT in your bowl, this is just considered rude, so just place them on the side of your bowl or at rest.
 
-Another thing that was kind of problematic for me was that I had many allergies, specifically gluten, dairy and eggs, so knowing what I could and couldn't eat was going to be very difficult!
+Another thing that was kind of problematic for me was that I had many allergies, specifically gluten, dairy and eggs, so knowing what I could and couldn't eat was going to be very difficult! Although I wouldn't die if I had some, I wouldn't feel the best.
+
+Luckily, some of the organizers could speak mandarin, unluckily was that I couldn't actually eat much, so I kind of just lived off of the few dishes I could have.
+
+The food was really interesting, you had no clue what you were actually eating, just that it tasted good, and different. For example, we got served these noodles that were like transparent and green, but they were like actually a vegetable that tasted like noodles? There were also these egg dishes that just completely did not resemble eggs, it was really interesting!
+
+We actually had found ourselves at a vegan table, even though we weren't vegan which was a bit confusing, because only realized like an hour into dinner that there wasn't meat because all the dishes were so unique. After dinner, we all settled and then headed back to the hotel to get a good nights sleep.
+
+Now this is going to be the only restful sleep that we get for the entire week, the next days are going to be filled with days of absolutely no rest, and minor sleep. There was little time to experience a gigantic world like this so we wanted to make the most of it!
+
+We woke up, got ready to go downstairs and had a nice breakfast with some of our new friends! It was buffet style, and had plenty of options, not too many I could have, but I could make do by eating fruit, and some of the meat dishes too. I had also brought some emergency peanut butter just in case I couldn't eat anything, but I was fine except for on a couple occasions!
+
+Today, our plan was to have opening ceremony at the Bottle Dream venue, where we'd be serving Juice to some of the locals and showcasing our games! So right after breakfast, we made our way through the twisty turny alleys of Shanghai, until we reached the spot!
+
+I was really surprised by the temperature and climate around mid-day or so. It was really hot and humid, even though it was April, which was a change from Victoria, which was pretty cold around the same time. I think we went during like a heat wave though because it was like extra hot around this time, maybe about 30 - 35 degree's celsius!
+
+It was always so nice to chat to people during this trip, I probably had the most deep conversations of any event I've been too throughout this, and I'll detail some of my more specific conversations a bit later in this story.
+
+Bottle Dream was such a cool venue, it was like a modern wood building, and you'd take these little steps to get up to it. It felt like it's own little world! We signed and drew on the welcoming whiteboard, and then sat down in our little chairs, anticipating the opening ceremony.
+
+I had actually brought a polaroid camera, so once everyone had flooded in, I took a large group photo with everyone, which turned out great!!!
+
+
 
