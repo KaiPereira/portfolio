@@ -35,7 +35,7 @@ The first thing we needed to do was go to the self-help kiosk, get our bio-metri
 
 We then made our way to the border inspector who took a look at our documents and then let us get on with our journey. It was a bit intimidating because we couldn't speak the same language, so the only way they could communicate with us, was through actions, and grunts. 
 
-Something you'll quickly notice is that the wifi is non-existential, and that you need to be prepared with a backup plan and have some VPN's. I used surfshark on my phone and had a little device that gave me internet if I needed it, so it was going to be really important to have this on me at all times!
+Something you'll quickly notice is that the wifi is non-existential, and that you need to be prepared with a backup plan and have some VPN's. I used surfshark on my phone and had a little device that gave me internet if I needed it, so it was going to be really important to have this on me at all times! Another thing is that Google is completely restricted in China, you are not going to be able to use Google services, so don't rely on Google Translate or Chrome.
 
 Tongyu, one of the event organizers was waiting for the latest group of kids to come at a Starbucks in the mall. It gave me the opportunity to admire the cool culture and to talk with some of the people. I thought that the fashion in China was pretty cool, everyone had their own style and was completely different from Canada! Everyone I talked to was really nice, and we could all talk for hours about nerdy stuff like programming, games, books, etc.
 
@@ -121,7 +121,9 @@ I kid you not, this is also the best bubble I've ever and will ever have in my l
 
 So I walk back with my friends and we chill in the lobby, I'm kind of vibing while working on some PCB's with others working on their games, being in China really felt peaceful, even though you were in one of the largest cities on earth.
 
-I woke up on day 3 with a nice sunrise, and made my way out for breakfast. I saw [Zach](https://zachlatta.com/), the founder of Hackclub along the way, this was my second time meeting him, the first being on the Boreal Express, and it's just so cool when you unexpectedly meet people you saw on the other side of the world!
+Now before I went to sleep, I needed to charge my devices! Now this was something I was prepared for, but haven't really experiences. The plugs are just like completely different, so you need to have an adapter for everything. Also the plugs aren't like properly grounded, so like the metal chassis on my laptop would like crackle a bit when you touched it, it was very interesting...
+
+I woke up on day 3 with a beautiful sunrise, and made my way out for breakfast. I saw [Zach](https://zachlatta.com/), the founder of Hackclub along the way, this was my second time meeting him, the first being on the Boreal Express, and it's just so cool when you unexpectedly meet people you saw on the other side of the world! He's one of the most interesting, down-to-earth people you'd ever meet, so we had a little chat and then parted ways because he was definitely a bit tired.
 
 We had to wake up a bit earlier today, because each group was going to get out and do some different activities. Our group decided to go out to this huge strip mall called Nanjing Road!
 
@@ -141,8 +143,33 @@ So we went exploring a bit in the mall, and this place was honestly kind of huge
 
 Time passed by pretty fast though and so we headed back to the center of the plaza where our group was waiting. Once we got everyone together, we decided to go check out a little comic-con that was happening on that day! I don't think any of us intentionally planned on visiting it, but it was really cool and some people bought some collectibles from the shop.
 
-There were huge models of mechs, really cool cosplay, and of course, many anime posters throughout the entire thing! I honestly kind of wish I brought something home from it, but it was really cool to see and everyone seemed really passionate about their stuff there!
+There were huge models of mechs, really cool cosplay, and of course, many anime posters throughout the entire thing! The entire building somehow felt like a video game in itself. I honestly kind of wish I brought something home from it, but it was really cool to see and everyone seemed really passionate about their stuff there!
 
 Anyways, we had spent a couple of hours exploring around, and all of us were getting pretty hungry, so it was time to go grab some lunch. We decided to go to a KFC, because it was close and cheap, but I couldn't actually eat a single thing on the KFC menu, so I was going to have to tolerate my hunger for a bit longer until I could get back to the hotel and use my backup supply of PB and J.
 
-I had a really nice conversation with one of the kids about the inner workings of planes/helicopters! You learn so much from other people just by listening and asking basic questions, and there are so many people smarter than you... having these deep conversations are one of my favorite things about adventures like this. You learn so much, and it opens up so many oppurtunities and pathways in your head!
+I had a really nice conversation with one of the kids about the inner workings of planes/helicopters! My favorite thing about cool events like this is to just listen to the experiences of other people. You just learn so much, and it opens up to many opportunities to do different things and find what you love to do! I might've honestly never worked on hardware, and would've stuck with software if it weren't for some of these experiences!
+
+Everyone was wrapping up, so we hopped back onto the train, and made our way back to the hotel! Half of us split up, to go to Bottle Dream, and the other half went back to the hotel to get away from the sun for a bit, and I could finally quench my hunger.
+
+Now you'd probably think that with all these adventures that no one was running the cafe in-between, but in reality the groups would just kind of take turns running it, while other groups went out to do stuff! So now it was our time to run the Cafe!
+
+I decided to sidequest a bit on making a doorbell for the venue, because I was on the hardware team, and I also wanted to check out some games from others. I played this really cool hiking game, where you had to navigate your way through terrain with a compass, which was insanely hard, but you could also play it in VR which was absolutely insane. One of my favorite games for sure!
+
+We had quite a few people come into the Cafe too, so we gave them some Juice, and then we got them to play our games a bit, the kids really enjoyed it! We had these massive signs near the entrance to the venue because we were a bit higher up, so it was our main way of attracting people, and we could take turns advertising.
+
+In the span of a couple hour, it was already getting dark though, so we waited for another group to cover us and then we went out for dinner! We went to this little place that was in the same alley as our venue, and it was like straight out of the movies...
+
+Mahjong being played in the back, smell of tea in the air, it felt like I was in a movie. But sadly, I couldn't actually eat a thing in the restaurant, and the language barrier was like really difficult, so I literally just ate a bowl of rice while I waited to get back to the hotel. While the food is so good in China, it's not the best place for gluten free, and other allergies...
+
+Everyone was really hungry so we finished up pretty fast, and then headed back to the hotel, where I picked up some bubble tea with some friends along the way. Now this bubble tea was legitimately a full meal so I didn't really feel the need to eat much more afterwards. My classic was to get this passion-fruit, orange combo, that had a bunch of fruit pieces inside, it was soooo good!!!
+
+Now the next day we were going to change things up a bit, we were going to move venue's from Bottle Dream to Spark Labs, which was a lot farther away, so we actually needed to move hotels.
+
+This meant we were going to have to get up a bit earlier to catch an Uber to the next venue. But instead of getting up early, we got up to some mischief and just messed around all night pretty much... This is one of my favorite parts about cool events, just not sleeping and hanging out with the friends you've made, and I honestly wish that I had done it more.
+
+We started just renting out the bikes that lined the streets in the thousands, and taught 2 of my friends how to ride bikes for the first time! And then we went back to the room to do some karaoke and play around with this silly AI assistant similar to a Google Home mini inside of the rooms. It was a really fun night and some of us just didn't get any sleep that night, but I managed to punch out a couple hours! 
+
+This experience really helped to fully break my mindset about just doing what feels right, and if you want to pull an all-nighter just do it. It's fine to be a bit irresponsible sometimes, and everything finds a way of working out.
+
+After getting a bit of sleep though, we woke up to the sunrise, packed our bags, and headed down for some breakfast. You don't really feel that tired when you're in scenario's, but like you actually are, so it'll hit you really hard at some random point, and you might space out once or twice...
+
