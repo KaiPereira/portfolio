@@ -39,7 +39,9 @@ Something you'll quickly notice is that the wifi is non-existential, and that yo
 
 Tongyu, one of the event organizers was waiting for the latest group of kids to come at a Starbucks in the mall. It gave me the opportunity to admire the cool culture and to talk with some of the people. I thought that the fashion in China was pretty cool, everyone had their own style and was completely different from Canada! Everyone I talked to was really nice, and we could all talk for hours about nerdy stuff like programming, games, books, etc.
 
-After a bit, our group went outside to take an Uber to the first hotel of the trip! As soon as my face touched the fresh breeze, I couldn't help but notice the distinct smell of cigarettes in the air. China's a beautiful place, but it definitely has some pollution, but you get used to it really fast!
+After a bit, our group went outside to take a DiDi to the first hotel of the trip! DiDi is essentially the replacement for Uber in Shanghai, and it's super easy to use because it's implemented into Alipay!
+
+As soon as my face touched the fresh breeze, I couldn't help but notice the distinct smell of cigarettes in the air. China's a beautiful place, but it definitely has some pollution, but you get used to it really fast!
 
 It was kind of a cloudy day, and I hopped into an Uber with some of the friends I had met, and we were off to the first hotel! 
 
@@ -172,4 +174,22 @@ We started just renting out the bikes that lined the streets in the thousands, a
 This experience really helped to fully break my mindset about just doing what feels right, and if you want to pull an all-nighter just do it. It's fine to be a bit irresponsible sometimes, and everything finds a way of working out.
 
 After getting a bit of sleep though, we woke up to the sunrise, packed our bags, and headed down for some breakfast. You don't really feel that tired when you're in scenario's, but like you actually are, so it'll hit you really hard at some random point, and you might space out once or twice...
+
+We had a really nice breakfast, and it was always really lovely to chat to others during these times too. Lots of these people I've seen online but haven't talked to, and they're all really interesting people, so these conversations were transformational and really fun.
+
+After breakfast, we grouped together where the organizers were calling DiDi's for everyone, so me and my sister hopped into one to get to our next hotel! 
+
+There's a lot of really interesting things you'll notice when taking a car in China. The first thing is the car itself. Our DiDi's were usually like really high class, they had like luxurious massage chairs, were full black and really high quality (thought I'm sure not all of them were like this). Also the majority of the cars are electric so the roads feel much more quiet even with much more people, the drivers are so smooth...
+
+The next thing you'll notice is the roads themselves. They're huge, insanely packed, and the drivers are always really aggressive. You definitely felt like you'd get into an accident sometimes, but you got to your place on time! Some of the intersections also had like 8 roads going into one which was really cool, and way too complex for my head, but you kind of need this sort of thing with so many people.
+
+I initially thought we were at the wrong hotel when we pulled up, because this was fancier than anything I've ever seen. A building the size of the white house, with fountains, arches, long driveways, it was insanely cool, and felt like I was pulling up to the ball!
+
+But the inside, absolutely deserted aside from one employee at the desk alongside Thomas who was getting everyone checked in. It was a room the size of my house, with nothing but a desk and a piano in the back corner.
+
+This was about to change as kids were starting to all roll in, so we quickly got checked in, waited for some of our friends who were also checking in and then made our way up to our rooms.
+
+Now I didn't think this place could get any fancier... but it did of course! Real sand art literally lined the ground in the hallway on every floor, with bamboo sprouting out every couple steps. And this hallway was spacious, like 2 or 3 people with arms spread fully out could probably fit in here.
+
+The rooms were also pretty magical
 
