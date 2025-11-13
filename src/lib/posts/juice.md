@@ -120,3 +120,29 @@ Now paying for stuff is pretty convenient in China! You can usually do everythin
 I kid you not, this is also the best bubble I've ever and will ever have in my life. I'm telling you they juice the fruit right in front of you, the pearls are fresh as can be, and the serving sizes are huge. Best part is, it costs less than $2 for an absolutely huge drink!!! Unbelievable.
 
 So I walk back with my friends and we chill in the lobby, I'm kind of vibing while working on some PCB's with others working on their games, being in China really felt peaceful, even though you were in one of the largest cities on earth.
+
+I woke up on day 3 with a nice sunrise, and made my way out for breakfast. I saw [Zach](https://zachlatta.com/), the founder of Hackclub along the way, this was my second time meeting him, the first being on the Boreal Express, and it's just so cool when you unexpectedly meet people you saw on the other side of the world!
+
+We had to wake up a bit earlier today, because each group was going to get out and do some different activities. Our group decided to go out to this huge strip mall called Nanjing Road!
+
+We took a 20 minute railroad journey to get to the shopping street, and as soon as I got out, I couldn't help but feel like an ant in a city of giants. This was one of the most expansive malls I've ever seen in my life, hundreds of towering buildings caved around this huge pavilion.
+
+We were allotted about an hour to explore the area, and my friend needed to fix his phone, so we went to an Apple store! While my friend was getting some help, me and another friend went to get a drink, because it was absolutely beaming outside, probably around 35 degree's celsius!
+
+I have a lot of allergies, so it was kind of hard to choose what I wanted to drink, and the language barrier made it impossible to communicate, so I just ended up pointing to a drink that said herbal.
+
+This place looked really good, it was sweet and modern, and all the photo's looked really amazing, but I was still shocked when I received the most gorgeous drink of my life.
+
+I can only describe it as a swirl of herbal tea's, with floating strawberry's and other sweet fruits, freezing cold on a boiling hot day! The food in china is honestly just unmatched and amazing!!
+
+And we didn't realize it, but we had actually just stepped foot into a giant mall. A giant mall, literally on the outskirts of the largest plaza I've ever seen, the scenery around you just changes so fast in China.
+
+So we went exploring a bit in the mall, and this place was honestly kind of huge, larger than any mall I've ever seen in Victoria, but it was also like completely empty, except for the occasional passerby or two. We explored all the different stages, and everything just morphed around us so fast, we went from a Nike store, to a little local food place, to a huge Michelin star restaurant built into a wall. it was very interesting to say the least, but a common occurrence here!
+
+Time passed by pretty fast though and so we headed back to the center of the plaza where our group was waiting. Once we got everyone together, we decided to go check out a little comic-con that was happening on that day! I don't think any of us intentionally planned on visiting it, but it was really cool and some people bought some collectibles from the shop.
+
+There were huge models of mechs, really cool cosplay, and of course, many anime posters throughout the entire thing! I honestly kind of wish I brought something home from it, but it was really cool to see and everyone seemed really passionate about their stuff there!
+
+Anyways, we had spent a couple of hours exploring around, and all of us were getting pretty hungry, so it was time to go grab some lunch. We decided to go to a KFC, because it was close and cheap, but I couldn't actually eat a single thing on the KFC menu, so I was going to have to tolerate my hunger for a bit longer until I could get back to the hotel and use my backup supply of PB and J.
+
+I had a really nice conversation with one of the kids about the inner workings of planes/helicopters! You learn so much from other people just by listening and asking basic questions, and there are so many people smarter than you... having these deep conversations are one of my favorite things about adventures like this. You learn so much, and it opens up so many oppurtunities and pathways in your head!
