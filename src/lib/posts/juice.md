@@ -231,8 +231,6 @@ What was also funny was the amount of kids who were at the zoo too. I think ther
 
 So we spent a couple hours in the zoo and then headed out to our next location, a Buddhist temple!
 
-Now I legitimately don't remember eating a thing during this day, maybe I had some PB and J at the hotel, but we were so focused on seeing as much as possible today, it was not on our radar!
-
 So we pack out, and take another DiDi to the Buddhist temple, and boy, this was the coolest thing I ever saw in China. This place was straight out of a movie, we hopped out of the car, and immediately entered these doors, over 20ft tall, and make our way into this huge auditorium with the largest statue of Buddha, I've seen in my life!!!
 
 I do NOT think we were supposed to be here, but we tried to stay respectful and scuttled out into the back gardens of the temple! This area was a huge pavilion with looming temples all around, the smell of incense was overcoming, as I think we were here during like a special holiday or something in China...
@@ -240,3 +238,24 @@ I do NOT think we were supposed to be here, but we tried to stay respectful and 
 It was honestly so cool to see the culture around us, I think we might've felt a little bit intruding but we tried to stay respectful, and we didn't really get any looks. One of the things that blew my mind was this like tower that seemed over 100m tall, near the back of the gardens, guarded by the doors that felt like only giants should walk through! It was just so cool!
 
 The actual gardens were absolutely gorgeous... perfectly maintained plants and tree's with some of the most gorgeous tones of color! We hanged around, even did a bit of shopping, and then decided to head out. I kind of wish I brought back more souvenirs, but I was so present while in China that it honestly didn't matter too much, because I can remember the whole thing like it was yesterday!
+
+Now we were all getting really hungry, I don't think any of us had eating much so far, so we took a little stroll to a strip mall just up the street from the temple. It's crazy how again, you'll walk for like 10 minutes and go from traditional temple, to modern mall.
+
+So we enter this little mall via some escalators and there's like absolutely no one here, I actually thought it was closed. It was like really modern though, canopies above us, with glass railways, suspended above the ground, it was really cool.
+
+I think legitimately every single person in our group was Indian, so we decided to find an Indian place! We came across this modern little restaurant, with again, absolutely no one inside, and decided to give it a chance because the food looked good!
+
+And holy smokes, this was some amazing Indian food. Some of the others didn't enjoy it as much, because it was more-so modern Indian food, but my dish was absolutely amazing! They also gave us some free dishes and some Coca-Cola, probably because we were their only customers, but maybe because we were also all brown...
+
+It was probably actually the most expensive food we had gotten, but I don't think it had even costed us over $10/person USD, so we thanked the owners for the good food and then rolled out of there!
+
+After lunch, we decided that we were all really tired, so we headed back to Spark Labs to just chill and to say my final goodbyes...
+
+My journey in China was coming to an end, so I wanted to spend it with everyone I had met!
+
+Shanghai was an absolutely pivotal moment for me, it's not just the place, but the experiences that I gained meeting people from around the world, having deep conversations and even fooling around. One thing I would say is that life just isn't that serious, like mess around, be a little bit irresponsible and don't be too hard on yourself. Just seek out cool experiences and get out of your comfort zone a little bit!
+
+And just like that, our time in China was over. I said my goodbyes to nearly everyone, I had gotten to know, probably about half the people at the event, so I thought my job here was done!
+
+Just as we were leaving, the event was also closing off. Zach gave a speech to everyone, and it was the perfect send-off to a transformational journey! So I hopped into a Didi with my sister, friends waving us off, and we were on our way back to the airport... back... home...
+
