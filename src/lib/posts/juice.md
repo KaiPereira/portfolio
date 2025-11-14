@@ -249,21 +249,17 @@ We absolutely demolished our food, and then decided to split up, because me and 
 
 I wish I got some photo's of these drinks, but they were absolutely gorgeous colors, and had little pieces of fruit floating around, that just tasted amazing, especially on boiling days like today. 
 
-
-
-
-
-We had overstayed our welcome though, and really had to get back to the venue, so we headed back! It wasn't too eventful after this, we showcased our games, fooled around, I got interviewed for a video they were making on the event, and then we headed back to the hotel!
+We had overstayed our welcome though, so we headed back to the venue! It wasn't too eventful after this, we showcased our games, fooled around, I got interviewed for a video they were making on the event, and then we went back to the hotel!
 
 We fooled around a bit at the hotel, and then went to sleep, anticipating a really nice final day in China.
 
-I actually had to leave a day early, because I was going to be playing piano for the retiring Chief of the Defense staff (future kai: it did not go smoothly, and I did fumble some notes), but we weren't missing out on that much, because our flight was later in the day and the event was supposed to be wrapped up before we left for the airport!
+I actually had to leave a day early, because I was going to be playing piano for the retiring Chief of the Defense staff (future kai: it did not go smoothly, and I did fumble some notes), but we weren't missing out on much, because our flight was later in the day and the event was supposed to be wrapped up before we even left for the airport!
 
-Now we decided to absolutely make the max of our day, we weren't focused on showcasing our games at all, so we decided hop in some Didi's, ditch everything and head out to a local zoo!
+Now we decided to absolutely make the most of our last day, we weren't focused on showcasing our games at all, so we decided hop in some DiDi's, ditch everything and head out to a local zoo with our friends!
 
 Now this was the coolest zoo I've ever been to in my life! I can't believe the amount of gems that exist in Shanghai... They had all sorts of cool animals ranging from meter long salamanders, to red panda's, lions, tigers, penguins, everything you can possibly imagine of!
 
-What was also funny was the amount of kids who were at the zoo too. I think there was some school field trip or something happening while we were here, because there were like 1000's of kids in their own lines, with supervisors, all in their little uniforms, clustered in the park. It was a pretty funny sight to behold.
+What was also funny was the amount of kids who were at the zoo too. I think there was some school field trip or something happening while we were here, because there were like 1000's of kids in their own lines, with supervisors, all in their little uniforms, clustered in the park. It was a pretty funny sight to behold. All the supervisors at the front of the lines had little signs to make sure the kids didn't get lost.
 
 So we spent a couple hours in the zoo and then headed out to our next location, a Buddhist temple!
 
@@ -277,11 +273,11 @@ The actual gardens were absolutely gorgeous... perfectly maintained plants and t
 
 Now we were all getting really hungry, I don't think any of us had eating much so far, so we took a little stroll to a strip mall just up the street from the temple. It's crazy how again, you'll walk for like 10 minutes and go from traditional temple, to modern mall.
 
-So we enter this little mall via some escalators and there's like absolutely no one here, I actually thought it was closed. It was like really modern though, canopies above us, with glass railways, suspended above the ground, it was really cool.
+So we enter this little mall via some escalators and there's like absolutely no one here, I actually thought it was closed. It was really modern though, canopies above us, with glass railways, suspended above the ground, it was really cool.
 
 I think legitimately every single person in our group was Indian, so we decided to find an Indian place! We came across this modern little restaurant, with again, absolutely no one inside, and decided to give it a chance because the food looked good!
 
-And holy smokes, this was some amazing Indian food. Some of the others didn't enjoy it as much, because it was more-so modern Indian food, but my dish was absolutely amazing! They also gave us some free dishes and some Coca-Cola, probably because we were their only customers, but maybe because we were also all brown...
+The owners were so friendly and holy smokes, this was some amazing Indian food. Some of the others didn't enjoy it as much, because it was more-so modern Indian food, but my dish was absolutely amazing! They also gave us some free dishes and some Coca-Cola, probably because we were their only customers, but maybe because we were also all brown...
 
 It was probably actually the most expensive food we had gotten, but I don't think it had even costed us over $10/person USD, so we thanked the owners for the good food and then rolled out of there!
 
@@ -291,7 +287,7 @@ My journey in China was coming to an end, so I wanted to spend it with everyone 
 
 Shanghai was an absolutely pivotal moment for me, it's not just the place, but the experiences that I gained meeting people from around the world, having deep conversations and even fooling around. One thing I would say is that life just isn't that serious, like mess around, be a little bit irresponsible and don't be too hard on yourself. Just seek out cool experiences and get out of your comfort zone a little bit!
 
-And just like that, our time in China was over. I said my goodbyes to nearly everyone, I had gotten to know, probably about half the people at the event, so I thought my job here was done!
+So I said my goodbyes to nearly everyone, I had gotten to know, which was probably about half the people at the event, so I thought my job here was done!
 
-Just as we were leaving, the event was also closing off. Zach gave a speech to everyone, and it was the perfect send-off to a transformational journey! So I hopped into a Didi with my sister, friends waving us off, and we were on our way back to the airport... back... home...
+Just as we were leaving, the event was also closing off. Zach gave a speech to everyone, and it was the perfect send-off to a transformational journey! So I hopped into a DiDi with my sister, friends waving us off, and we got home without any issues!
 
