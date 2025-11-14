@@ -7,29 +7,29 @@ description: After spending 2 months building games, I was invited to Shanghai, 
 
 February of 2025, I was presented with the opportunity of a lifetime.
 
-An organization called Hackclub was running an event where if you spent 100 hours building a game, you would get an all expenses paid, week-long trip to Shanghai, China to present your games in a hacker cafe and meet some of the coolest hackers on the planet!
+An organization called Hackclub was running an event where if you spent 100 hours building a game, you would get an all expenses paid, week-long trip to Shanghai, China to present your game in a hacker cafe alongside 100 other teenagers!
 
 It was an irrefutable opportunity, I had just gotten back from my adventures aboard the [Boreal Express](https://kaipereira.com/journal/boreal), and I was looking for the next big thing in my life, it was perfect!
 
-The next couple months of my life were pretty gruesome, you had 2 months to complete 100 hours, so you had to spend over 2 hours a day working on your game, not impossible, but still pretty difficult.
+The next couple months were pretty gruesome, you had 2 months to complete 100 hours, so you had to spend over 2 hours a day working on your game, not impossible, but still pretty difficult as I still had school every single day.
 
 The premise of my game was simple... I combined my 2 favorite things, bubble tea and cats, in order to create a restaurant style game like Papa's Pizzeria where you would serve customers, build up your restaurant and dominate the bubble tea market!
 
-The game turned out decently, not my most proud project to be honest though but I had hit my 100 hours just by the end of the second month, had my ticket booked and was off to China!!!
+The game turned out decently, not my most proud project to be honest, but I had hit my 100 hours by the end of the second month, had my ticket booked and was off to China!!!
 
-In order to travel to China, you need to have a Visa and a letter of invitation. I got a letter of invitation from the organizers of the event, and then went to Vancouver for a couple days in order to get my Visa processed! I took a little side-quest in Whistler to do some skiing which was nice and then came back home to finish working on my game!
+In order to travel to China, I needed to have visa and a letter of invitation. I got a letter of invitation from the organizers of the event, and then went to Vancouver for a couple days in order to get my visa processed! I took a little side-quest in Whistler to do some skiing which was nice and then came back home to finish working on my game!
 
-I left for my flight on the third of April. The flight... was evil, I was flying from Victoria (my home town in Canada!) to Vancouver, and then Vancouver to Shanghai, not too many connections but nearly 14 hours of flying straight.
+I left for my flight on the third of April! The flight was evil... I was flying from Victoria (my home town in Canada!) to Vancouver, and then Vancouver to Shanghai, not too many connections but nearly 14 hours of flying straight.
 
 I'm a pretty accustomed traveler, I've been fortunate enough to travel to many places like Africa, Europe, South America, but it was my first time in Asia, and this was probably the longest flight I've ever had continuously!
 
-My flight from Victoria to Vancouver was just around 30 minutes, really short, and simple. I arrived in Vancouver without any problems, and then it was time to hop on my flight to Shanghai! There were about 100 people from around the world attending to Juice, so when I arrived at the gate for my flight to shanghai and saw 5 of them, I was pleasantly surprised and actually knew a couple from online.
+My flight from Victoria to Vancouver was just around 30 minutes, really short, and simple. I arrived in Vancouver without any problems, and then it was time to hop on my flight to Shanghai! There were about 150 people attending from around the world, so when I arrived at the gate for my flight to shanghai and saw 5 of them, I was pleasantly surprised and actually knew a couple from online!
 
 Everyone was so nice, and it was really easy to talk to other like-minded people who went through the exact same process of building a game in two months. I was still really nervous to be going to an unknown country with a completely different culture though, but having these friends around me, helped a lot!
 
-And just like that, we were off on our way to Shanghai...
+I was also travelling with my sister, who made it way less stressful. And just like that, we were off on our way to Shanghai, China!
 
-Arriving in the Shanghai airport, I wasn't really stressed, but a bit nervous. We had come to realize that absolutely NO ONE spoke English in the airport which surprised me a LOT and every single sign was written in characters absolutely foreign to us. We did have one person in our group though who could speak and understand the language, so they helped to guide us through the process of getting through the airport!
+Arriving in the Shanghai airport, I wasn't really stressed, but a bit nervous. We had come to realize that absolutely NO ONE spoke English in the airport which surprised me a lot and every single sign was written in characters absolutely foreign to us. We did have one person in our group who could speak and understand the language, so they helped to guide us through the process of getting through the airport!
 
 The first thing we needed to do was go to the self-help kiosk, get our bio-metrics/passport scanned and then you'll get a receipt you need to keep.
 
@@ -39,43 +39,43 @@ Something you'll quickly notice is that the wifi is non-existential, and that yo
 
 Tongyu, one of the event organizers was waiting for the latest group of kids to come at a Starbucks in the mall. It gave me the opportunity to admire the cool culture and to talk with some of the people. I thought that the fashion in China was pretty cool, everyone had their own style and was completely different from Canada! Everyone I talked to was really nice, and we could all talk for hours about nerdy stuff like programming, games, books, etc.
 
-After a bit, our group went outside to take a DiDi to the first hotel of the trip! DiDi is essentially the replacement for Uber in Shanghai, and it's super easy to use because it's implemented into Alipay!
+After a bit, our group went outside to take a DiDi to the first hotel of the trip! DiDi is essentially the replacement for Uber in Shanghai, and it's super easy to use because it's implemented into Alipay, so you just tap where you need to go, and you're good to go!
 
-As soon as my face touched the fresh breeze, I couldn't help but notice the distinct smell of cigarettes in the air. China's a beautiful place, but it definitely has some pollution, but you get used to it really fast!
+As soon as my face touched the breeze, I couldn't help but notice the distinct smell of cigarettes in the air. China's a beautiful place, but it definitely has some pollution. You get used to it really fast though.
 
-It was kind of a cloudy day, and I hopped into an Uber with some of the friends I had met, and we were off to the first hotel! 
+It was kind of a cloudy day, and I hopped into a DiDi with some of the friends I had met, and we were off to the first hotel! It was really interesting to hear where others were from, I could recount people from the Phillipines, India, Mexico, Argentina, UAE, literally every place on the planet, it was incredible!
 
-Travelling along the highway, you'll instantly notice how contrasting everything is. We started off driving literally above the entire city, with a view for as long as the eye can see, for nearly 30 minutes. Then, you'll see like 20 huge skyscrapers all absolutely identical in the distance but tiny houses outlining them, and then a huge bridge just actively being built over top of the world, it was really interesting to say the least.
+Travelling along the highway, you'll instantly notice how contrasting everything is. We started off driving above the entire city, with a view for as long as the eye can see for nearly 30 minutes. Then, you'll see like 20 huge skyscrapers all absolutely identical in the distance but tiny houses outlining them, and then a huge bridge just actively being built over top of the them all, it was really interesting to say the least.
 
 After a little while of driving, you'll get more into the heart of the city, all the skyscrapers just booming above you, you're a speck of dust in an ever expansive forest of buildings. This city was unimaginably large, you could NEVER see the edge of it. It felt dystopian at times, unreal in others.
 
-You also had this deep down feeling that you were the only person in the world here. All the locals felt like they were just minding their own day, and I didn't really catch too much attention as a foreigner which really surprised me!
+You also had this deep down feeling that you were the only person in the world here. All the locals felt like they were just minding their own day, and we didn't really catch too much attention as foreigners which really surprised me, but everyone you interacted with were still really friendly!
 
-We were all extremely exhausted when we got to the hotel, and we got to meet some of the other organizers like Kai Ling and Thomas, who were definitely stressed to say the least. They had to setup nearly 150 people in hotels and sort out all of their issues.
+We were all extremely exhausted when we got to the hotel, and we got to meet some of the other organizers like Kai Ling and Thomas, who were definitely stressed to have so many people coming in. They had to setup nearly 150 people in hotels and sort out all of their issues, I genuinely felt bad for them...
 
-We had to hand out our passports to the hotel employee's so they could verify our identity, and then while they were processing everything, I setup my computer to start a little programming circle! I was working on one of my first PCB's at the time, it was a little keyboard, so I got a bit of time in working on that, and lots of people were interested in it because not too many highschoolers are working on circuit boards!
+We had to hand out our passports to the hotel employee's so they could verify our identity, and then while they were processing everything, I setup my computer to start a little programming circle! I was working on one of my first PCB's at the time, it was a little keyboard, so I got a bit of time in working on that, and lots of people were interested in it because not too many teenagers are working on circuit boards!
 
-After having some nice chats with some people, we got our passports back and I made my way to my room who I was actually sharing with my sister, who also did the 100 hours, and who was going to be travelling with me!
+After having some nice chats with all the people, we got our passports back and I made my way to my room that I was sharing with my sister!
 
-We just stored our luggage down, and then made our way back to the lobby where everyone was assembling to go to supper! We walked for about 30 minutes until we arrived at this really cute restaurant with 10 circular white tables setup, each sitting about 10 other people, to accommodate all 100 of us!
+We stored our luggage in our room, and then made our way back to the lobby where everyone was assembling to go to dinner! We walked for about 30 minutes until we arrived at this really cute restaurant with 10+ circular white tables setup, each sitting about 10 people, in order to accommodate all of us!
 
-I was sitting at the table with my sister and a couple people I had met, alongside Thomas! It was great to chat with everyone, and I grew closer with a friend named Lopa from Egypt who was a nice guy to be around!
+I was sitting at the table with my sister and a couple people I had met, alongside Thomas! It was great to chat with everyone, and I started to grow a lot closer with a few specific people, learning where they're from, and what type of stuff they make!
 
-We were just served endless amounts of dishes in a style I've never experienced before. The tables would essentially spin, and the employee's would just keep on adding dishes to the table, and we would spin it around so that everyone could try a bit of everything. When you were done, you would put the dish into the middle of the table!
+We were just served endless amounts of dishes in a style I've never experienced before. The tables would essentially spin, and the employee's would just keep on adding dishes to the table, and we would spin it around so that everyone could try a bit of everything. When you were done, you would put the dish into the middle of the table, and then it would be replaced with another one!
 
-Now one important thing when using chopsticks in China is DON'T PUT THEM UPRIGHT in your bowl, this is just considered rude, so just place them on the side of your bowl or at rest.
+Now one important thing when using chopsticks in China is DON'T PUT THEM UPRIGHT in your bowl, this is just considered rude, so just place them on the side of your bowl or at rest!
 
-Another thing that was kind of problematic for me was that I had many allergies, specifically gluten, dairy and eggs, so knowing what I could and couldn't eat was going to be very difficult! Although I wouldn't die if I had some, I wouldn't feel the best.
+Another thing that was kind of problematic for me was that I had many allergies, specifically gluten, dairy and eggs, so knowing what I could and couldn't eat was going to be very difficult! Although I wouldn't die if I had some, I wouldn't feel the best for a couple hours, so I had to be extra cautious.
 
 Luckily, some of the organizers could speak mandarin, unluckily was that I couldn't actually eat much, so I kind of just lived off of the few dishes I could have.
 
-The food was really interesting, you had no clue what you were actually eating, just that it tasted good, and different. For example, we got served these noodles that were like transparent and green, but they were like actually a vegetable that tasted like noodles? There were also these egg dishes that just completely did not resemble eggs, it was really interesting!
+The food was really interesting, you had no clue what you were actually eating, just that it tasted good, and different. For example, we got served these noodles that were like transparent and green, but they were like actually a vegetable that tasted like noodles? There were also these puffy egg dishes that just completely did not resemble eggs, it was really interesting! We were probably served around 20 different dishes!
 
-We actually had found ourselves at a vegan table, even though we weren't vegan which was a bit confusing, because only realized like an hour into dinner that there wasn't meat because all the dishes were so unique. After dinner, we all settled and then headed back to the hotel to get a good nights sleep.
+We actually had found ourselves at a vegan table, even though we weren't all vegan which was a bit confusing, because only realized like an hour into dinner that there wasn't meat because all the dishes were so unique. After dinner, we all settled and then headed back to the hotel to get a good nights sleep.
 
 Now this is going to be the only restful sleep that we get for the entire week, the next days are going to be filled with days of absolutely no rest, and minor sleep. There was little time to experience a gigantic world like this so we wanted to make the most of it!
 
-We woke up, got ready to go downstairs and had a nice breakfast with some of our new friends! It was buffet style, and had plenty of options, not too many I could have, but I could make do by eating fruit, and some of the meat dishes too. I had also brought some emergency peanut butter just in case I couldn't eat anything, but I was fine except for on a couple occasions!
+We woke up, got ready to go downstairs and had a nice breakfast with some of our new friends! It was buffet style, and had plenty of options, not too many I could have, but I could make do by eating fruit, and some of the meat dishes too. I had also brought some emergency PB and J just in case I couldn't eat anything, but I was fine except for on a couple occasions.
 
 Today, our plan was to have opening ceremony at the Bottle Dream venue, where we'd be serving Juice to some of the locals and showcasing our games! So right after breakfast, we made our way through the twisty turny alleys of Shanghai, until we reached the spot!
 
