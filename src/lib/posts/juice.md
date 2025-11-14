@@ -77,11 +77,13 @@ After having some nice chats with all the people, we got our passports back and 
 
 We stored our luggage in our room, and then made our way back to the lobby where everyone was assembling to go to dinner! We walked for about 30 minutes until we arrived at this really cute restaurant with 10+ circular white tables setup, each sitting about 10 people, in order to accommodate all of us!
 
-![](Pasted%20image%2020251114125422.png)
+![](Pasted%20image%2020251114130040.png)
 
 I was sitting at the table with my sister and a couple people I had met, alongside Thomas! It was great to chat with everyone, and I started to grow a lot closer with a few specific people, learning where they're from, and what type of stuff they make!
 
 We were just served endless amounts of dishes in a style I've never experienced before. The tables would essentially spin, and the employee's would just keep on adding dishes to the table, and we would spin it around so that everyone could try a bit of everything. When you were done, you would put the dish into the middle of the table, and then it would be replaced with another one!
+
+![](Pasted%20image%2020251114130137.png)
 
 Now one important thing when using chopsticks in China is DON'T PUT THEM UPRIGHT in your bowl, this is just considered rude, so just place them on the side of your bowl or at rest!
 
@@ -91,6 +93,8 @@ Luckily, some of the organizers could speak mandarin, unluckily was that I could
 
 The food was really interesting, you had no clue what you were actually eating, just that it tasted good, and different. For example, we got served these noodles that were like transparent and green, but they were like actually a vegetable that tasted like noodles? There were also these puffy egg dishes that just completely did not resemble eggs, it was really interesting! We were probably served around 20 different dishes!
 
+![](Pasted%20image%2020251114130228.png)
+
 We actually had found ourselves at a vegan table, even though we weren't all vegan which was a bit confusing, because only realized like an hour into dinner that there wasn't meat because all the dishes were so unique. After dinner, we all settled and then headed back to the hotel to get a good nights sleep.
 
 Now this is going to be the only restful sleep that we get for the entire week, the next days are going to be filled with days of absolutely no rest, and minor sleep. There was little time to experience a gigantic world like this so we wanted to make the most of it!
@@ -98,6 +102,9 @@ Now this is going to be the only restful sleep that we get for the entire week, 
 We woke up, got ready to go downstairs and had a nice breakfast with some of our new friends! It was buffet style, and had plenty of options, not too many I could have, but I could make do by eating fruit, and some of the meat dishes too. I had also brought some emergency PB and J just in case I couldn't eat anything, but I was fine except for on a couple occasions.
 
 Today, our plan was to have opening ceremony at the first venue, Bottle Dream! Here, we'd be serving juice to some of the locals and showcasing our games! So right after breakfast, we made our way through the twisty, turny alleywayss of Shanghai, until we reached the spot!
+
+![](Pasted%20image%2020251114130442.png)
+![](Pasted%20image%2020251114130507.png)
 
 I was really surprised by the temperature and climate around mid-day or so. It was really hot and humid, even though it was April, which was a change from Victoria, which was pretty cold around the same time. I think we were travelling during a heat wave because it was like extra hot around this time, maybe about 30 - 35 degree's celsius!
 
@@ -107,11 +114,20 @@ Travelling through China was really interesting, because every single turn you m
 
 Bottle Dream was such a cool venue, it was like a modern wood building, and you'd take these little steps to get up to it. It felt like it's own little world! We signed and drew on the welcoming whiteboard, and then sat down in our little chairs, anticipating the opening ceremony.
 
+![](Pasted%20image%2020251114130543.png)
+![](Pasted%20image%2020251114130614.png)
+
 I felt really safe in China, there were soldiers usually positioned around the city, in some of the most random area's, and while they did feel a bit intimidating at times, you were never bothered.
 
 I had actually brought a polaroid camera, so once everyone had flooded in, I took a large group photo with everyone, which turned out great! I always forget to take photo's because the experience is just so engaging so I hoped that bringing my polaroid would inspire me to take more.
 
+![](Pasted%20image%2020251114130703.png)
+
 The opening ceremony was hype, the mood was positive, the vibes were on point, and everyone was excited for what was to come. We got a quick rundown of the do's and don't inside of Bottle Dream, and then we got to choose teams and get some merch!
+
+![](Pasted%20image%2020251114131250.png)
+
+*The coolest merch ever!!!*
 
 The teams were simple, everyone in that group would be like working on stuff related to a common subject, with one of the organizers as the leader:
 - Tongyu: Game music and sound, so just like making general vibes
