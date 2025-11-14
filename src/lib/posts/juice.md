@@ -5,6 +5,8 @@ description: After spending 2 months building games, I was invited to Shanghai, 
 ---
 # Running a Hacker Cafe in China
 
+![](Pasted%20image%2020251114123406.png)
+
 February of 2025, I was presented with the opportunity of a lifetime.
 
 An organization called Hackclub was running an event where if you spent 100 hours building a game, you would get an all expenses paid, week-long trip to Shanghai, China to present your game in a hacker cafe alongside 100 other teenagers!
@@ -17,7 +19,7 @@ The premise of my game was simple... I combined my 2 favorite things, bubble tea
 
 The game turned out decently, not my most proud project to be honest, but I had hit my 100 hours by the end of the second month, had my ticket booked and was off to China!!!
 
-In order to travel to China, I needed to have visa and a letter of invitation. I got a letter of invitation from the organizers of the event, and then went to Vancouver for a couple days in order to get my visa processed! I took a little side-quest in Whistler to do some skiing which was nice and then came back home to finish working on my game!
+In order to travel to China, I needed to have a visa and a letter of invitation. I got a letter of invitation from the organizers of the event, and then went to Vancouver for a couple days in order to get my visa processed (it looked sick in my passport)! I took a little side-quest in Whistler to do some skiing which was nice and then came back home to finish working on my game!
 
 I left for my flight on the third of April! The flight was evil... I was flying from Victoria (my home town in Canada!) to Vancouver, and then Vancouver to Shanghai, not too many connections but nearly 14 hours of flying straight.
 
@@ -25,9 +27,15 @@ I'm a pretty accustomed traveler, I've been fortunate enough to travel to many p
 
 My flight from Victoria to Vancouver was just around 30 minutes, really short, and simple. I arrived in Vancouver without any problems, and then it was time to hop on my flight to Shanghai! There were about 150 people attending from around the world, so when I arrived at the gate for my flight to shanghai and saw 5 of them, I was pleasantly surprised and actually knew a couple from online!
 
+![](Pasted%20image%2020251114123848.png)
+
 Everyone was so nice, and it was really easy to talk to other like-minded people who went through the exact same process of building a game in two months. I was still really nervous to be going to an unknown country with a completely different culture though, but having these friends around me, helped a lot!
 
 I was also travelling with my sister, who made it way less stressful. And just like that, we were off on our way to Shanghai, China!
+
+Landing in Shanghai, you'll immediately notice the pollution, and also the ships travelling below. At some points in the ocean, you'll literally be able to see hundreds of ships just all full to the brim, embarking on their journey across the world!
+
+![](Pasted%20image%2020251114124247.png)
 
 Arriving in the Shanghai airport, I wasn't really stressed, but a bit nervous. We had come to realize that absolutely NO ONE spoke English in the airport which surprised me a lot and every single sign was written in characters absolutely foreign to us. We did have one person in our group who could speak and understand the language, so they helped to guide us through the process of getting through the airport!
 
@@ -39,6 +47,8 @@ Something you'll quickly notice is that the wifi is non-existential, and that yo
 
 Tongyu, one of the event organizers was waiting for the latest group of kids to come at a Starbucks in the mall. It gave me the opportunity to admire the cool culture and to talk with some of the people. I thought that the fashion in China was pretty cool, everyone had their own style and was completely different from Canada! Everyone I talked to was really nice, and we could all talk for hours about nerdy stuff like programming, games, books, etc.
 
+![](Pasted%20image%2020251114124103.png)
+
 After a bit, our group went outside to take a DiDi to the first hotel of the trip! DiDi is essentially the replacement for Uber in Shanghai, and it's super easy to use because it's implemented into Alipay, so you just tap where you need to go, and you're good to go!
 
 As soon as my face touched the breeze, I couldn't help but notice the distinct smell of cigarettes in the air. China's a beautiful place, but it definitely has some pollution. You get used to it really fast though.
@@ -47,17 +57,27 @@ It was kind of a cloudy day, and I hopped into a DiDi with some of the friends I
 
 Travelling along the highway, you'll instantly notice how contrasting everything is. We started off driving above the entire city, with a view for as long as the eye can see for nearly 30 minutes. Then, you'll see like 20 huge skyscrapers all absolutely identical in the distance but tiny houses outlining them, and then a huge bridge just actively being built over top of the them all, it was really interesting to say the least.
 
+![](Pasted%20image%2020251114124830.png)
+
+*I wish I had gotten photos closer to the airport, but here's one of the main highways you'd travel on*
+
 After a little while of driving, you'll get more into the heart of the city, all the skyscrapers just booming above you, you're a speck of dust in an ever expansive forest of buildings. This city was unimaginably large, you could NEVER see the edge of it. It felt dystopian at times, unreal in others.
+
+![](Pasted%20image%2020251114125334.png)
 
 You also had this deep down feeling that you were the only person in the world here. All the locals felt like they were just minding their own day, and we didn't really catch too much attention as foreigners which really surprised me, but everyone you interacted with were still really friendly!
 
 We were all extremely exhausted when we got to the hotel, and we got to meet some of the other organizers like Kai Ling and Thomas, who were definitely stressed to have so many people coming in. They had to setup nearly 150 people in hotels and sort out all of their issues, I genuinely felt bad for them...
+
+![](Pasted%20image%2020251114125148.png)
 
 We had to hand out our passports to the hotel employee's so they could verify our identity, and then while they were processing everything, I setup my computer to start a little programming circle! I was working on one of my first PCB's at the time, it was a little keyboard, so I got a bit of time in working on that, and lots of people were interested in it because not too many teenagers are working on circuit boards!
 
 After having some nice chats with all the people, we got our passports back and I made my way to my room that I was sharing with my sister!
 
 We stored our luggage in our room, and then made our way back to the lobby where everyone was assembling to go to dinner! We walked for about 30 minutes until we arrived at this really cute restaurant with 10+ circular white tables setup, each sitting about 10 people, in order to accommodate all of us!
+
+![](Pasted%20image%2020251114125422.png)
 
 I was sitting at the table with my sister and a couple people I had met, alongside Thomas! It was great to chat with everyone, and I started to grow a lot closer with a few specific people, learning where they're from, and what type of stuff they make!
 
@@ -191,9 +211,11 @@ Anyways, we headed back to the venue, feeling full, and served some more juice t
 
 Lots of people had never actually made a PCB in our group, so Acon decided to host a little workshop for everyone! We were going to make little PCB fidgets that lit up, and hopefully would get enough time to get them manufactured (spoiler we didn't). But I helped people make their first PCB in easyeda, because it's the simplest for beginners, which was kind of fun to do!
 
-It was getting late though, so we headed back to the hotel. I think I actually missed dinner on this day, because I can't remember eating anything, but I probably had some PB and J or something.
+We were getting hungry though, and I didn't really feel like eating at another KFC with my group, so me and my friends decided to split up from our groups, and grab some hot pot! This was my first time getting hot pot, and one of my favorite meals of the trip!
 
-It was not the end of the night though, we got a bunch of friends together and decided to head over to a nice little garden! We grabbed some bubble tea to go and then headed off! Maps wanted to take us through some sketchy alleys, but we decided to be smart and went around them, so it took us around 40 minutes or so to get there but at least it was safer.
+Essentially how hot pot works, is you get a big bowl of hot broth alongside platters of raw meat. You make your own sauce at this station in the corner, and then cook your own meat inside of the broths! You also get vegetables and stuff that you can put in, and it's just really fun to do!
+
+It was getting late, but was far from the end of the night, so we decided to head over to a nice little garden! We grabbed some bubble tea to go and then headed off! Maps wanted to take us through some sketchy alleys, but we decided to be smart and went around them, so it took us around 40 minutes or so to get there but at least it was safer.
 
 It was completely abandoned at the gardens, this city really felt dystopian at times, but it was so beautiful and the view was incredible. I took a minute to just sit down and enjoy the view of the city. This garden was huge, but the city over top of us, made it seem absolutely irrelevant.
 
