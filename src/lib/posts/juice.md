@@ -175,16 +175,33 @@ We woke up a bit late at around 10, headed down, but then quickly had to finish 
 
 We took a railway back to Nanjing road, and then walked for about 20 minutes, to what seemed like the middle of nowhere. But we had confidence that Acon was bringing us to a really cool spot, so after a little bit longer, we arrived to the hardware mall!
 
-This place was pretty cool, it was over 10 floors tall, in the shape of a square, with escalators criss-crossing upwards in the center, and stores dotting the perimeter.
+This place was pretty cool, it was over 10 floors tall, in the shape of a square, with escalators criss-crossing upwards in the center, and stores dotting the perimeter. Now the actual shops were just so different, they just had like every single component absolutely imaginable. You would have to go sifting through boxes of stuff, that weren't labelled in order to find what you needed.
 
+It was really fun to just go exploring, and with enough effort, you'd be able to find anything that you wanted. There were some things that were way cheaper, and some things that were a bit expensive. You could find every cable imaginable for dirt cheap, but then things like motion systems were about the same price as what you'd find in the US, which was actually surprising considering how cheap everything else was.
 
+We played a funny little prank on Acon where we found the box for the newest NVIDIA GPU, and told her we bought it for like $10, but in reality we had just filled it up with some random stuff. This experience was actually just so much fun though, and it inspired me even more to pursue hardware and I actually learned a lot about many different components!
 
+We spent a couple hours here and then everyone started to get hungry, so we headed back! We decided to take the railway, and not actually stop back at Nanjing road for food, because everyone wanted to have the vegan food again.
 
+This time, we brought even more people though. I think the other organizers could wind of how good and accessible it was for everyone, so Thomas's group was also there! Again, it was just amazing... I got the same tofu dish alongside the juice stuff, and I have absolutely no regrets about it!  This full meal literally costed just a tad over $5 USD, the prices are just amazing!
 
+I also had a really nice chat to one of my friends about EUV lithography, because I actually had no clue how chips are made, and this really inspired me to work more on complicated things like this. People don't realize that they have the free will to do literally whatever they want (thought maybe don't do some things...), and these types of conversations just shift my mindset so much on what I actually want to do, however complicated it is.
 
+Anyways, we headed back to the venue, feeling full, and served some more juice to customers and played some games!
 
+Lots of people had never actually made a PCB in our group, so Acon decided to host a little workshop for everyone! We were going to make little PCB fidgets that lit up, and hopefully would get enough time to get them manufactured (spoiler we didn't). But I helped people make their first PCB in easyeda, because it's the simplest for beginners, which was kind of fun to do!
 
-Now the next day we were going to change things up a bit, we were going to move venue's from Bottle Dream to Spark Labs, which was a lot farther away, so we actually needed to move hotels.
+It was getting late though, so we headed back to the hotel. I think I actually missed dinner on this day, because I can't remember eating anything, but I probably had some PB and J or something.
+
+It was not the end of the night though, we got a bunch of friends together and decided to head over to a nice little garden! We grabbed some bubble tea to go and then headed off! Maps wanted to take us through some sketchy alleys, but we decided to be smart and went around them, so it took us around 40 minutes or so to get there but at least it was safer.
+
+It was completely abandoned at the gardens, this city really felt dystopian at times, but it was so beautiful and the view was incredible. I took a minute to just sit down and enjoy the view of the city. This garden was huge, but the city over top of us, made it seem absolutely irrelevant.
+
+It was a beautiful spot though and I met this really nice kid from Argentina, who was teaching me so much about about his home, and how different it was from my lifestyle. This might've been the most grateful I've been in my life to live where I do, but it was also interesting to see how proud he was of his home, no matter the conflicts. The different perspectives you see on these journeys are just so interesting.
+
+We headed back to the hotel though, some of us even got seconds of bubble tea along the way, because it was so cheap and so good. It was really late, but we still decided to mess around a bit more with the bikes, and just had so much fun. The sun was legitimately starting to rise a bit, and that was our signal to go to sleep.
+
+Now the next day we were going to change things up a bit, we were going to move venue's from Bottle Dream to Spark Labs, which was a lot farther away, so we needed to move hotels too.
 
 This meant we were going to have to get up a bit earlier to catch a DiDi to the next venue. But instead of getting up early, we got up to some mischief and just messed around all night pretty much... This is one of my favorite parts about cool events, just not sleeping and hanging out with the friends you've made, and I honestly wish that I had done it more.
 
