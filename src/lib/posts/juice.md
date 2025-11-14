@@ -230,3 +230,13 @@ Now this was the coolest zoo I've ever been to in my life! I can't believe the a
 What was also funny was the amount of kids who were at the zoo too. I think there was some school field trip or something happening while we were here, because there were like 1000's of kids in their own lines, with supervisors, all in their little uniforms, clustered in the park. It was a pretty funny sight to behold.
 
 So we spent a couple hours in the zoo and then headed out to our next location, a Buddhist temple!
+
+Now I legitimately don't remember eating a thing during this day, maybe I had some PB and J at the hotel, but we were so focused on seeing as much as possible today, it was not on our radar!
+
+So we pack out, and take another DiDi to the Buddhist temple, and boy, this was the coolest thing I ever saw in China. This place was straight out of a movie, we hopped out of the car, and immediately entered these doors, over 20ft tall, and make our way into this huge auditorium with the largest statue of Buddha, I've seen in my life!!!
+
+I do NOT think we were supposed to be here, but we tried to stay respectful and scuttled out into the back gardens of the temple! This area was a huge pavilion with looming temples all around, the smell of incense was overcoming, as I think we were here during like a special holiday or something in China...
+
+It was honestly so cool to see the culture around us, I think we might've felt a little bit intruding but we tried to stay respectful, and we didn't really get any looks. One of the things that blew my mind was this like tower that seemed over 100m tall, near the back of the gardens, guarded by the doors that felt like only giants should walk through! It was just so cool!
+
+The actual gardens were absolutely gorgeous... perfectly maintained plants and tree's with some of the most gorgeous tones of color! We hanged around, even did a bit of shopping, and then decided to head out. I kind of wish I brought back more souvenirs, but I was so present while in China that it honestly didn't matter too much, because I can remember the whole thing like it was yesterday!
