@@ -205,5 +205,28 @@ I loved Spark Labs, it was this little air conditioned, circular, modern buildin
 
 It was getting near to lunch time though... the organizers had decided to get Subway of all takeout for the entire group, but the problem is, I can't eat Subway, nor can vegans eat Subway so we needed to find some different food options!
 
-We found this little strip mall on maps, so we decided to walk there on foot
+We found this little strip mall on maps, so we decided to walk there on foot, and see what we could find! Now maps said was going to take like 10 minutes to get there, it felt definitely closer to like 30, and when we arrived there, the only place to get food was another Subway, and Tim Hortons... So we opted to find a different place!
 
+Now maps was showing up that there were a bunch of food places in the middle of absolutely no where, about 15 minutes up from our location so we decided to check it out. So we walked another 15 minutes up the highway, where a bunch of construction was happening and it seemed like there was nothing here, so we double checked our maps, and just kept on walking.
+
+Just as we thought all hope was lost, we saw an absolutely GIGANTIC hole in the literal ground beneath us, that just opened up with escalators going down to who knows what. This was our last chance the find some good food, so we just trusted going down it blindly, because is was this modern little area.
+
+I kid you not, we descended into the largest mall on the planet... It was like 6 floors tall, with every single place imaginable, and had quite a few people bustling around, we could not believe it. We were starving and immediately found a pho and dumpling place so we split up to the two places and had some lunch. This food was sooooo delicious, and it's incredible how you can just find these hidden gems just randomly in China, and this was such a common occurrence and one of the things I love about Shanghai!
+
+We absolutely demolished our food, and then decided to split up, because me and my sister want ed to keep exploring, while our friends wanted to head back. So we continued checking out the mall, it was insanely cool, and the largest one I've been in by far! I really wanted to get a drink, so I found this sweet looking spot, and got this mango, pomelo drink which was to DIE for.
+
+I wish I got some photo's of these drinks, but they were absolutely gorgeous colors, and had little pieces of fruit floating around, and just tasted amazing, especially on boiling days like today. 
+
+We had overstayed our welcome at this mall though, and really had to get back to the venue though, so we headed back! It wasn't too eventful after this, we showcased our games, fooled around, I got interviewed for a video they were making on the event, and then we headed back to the hotel!
+
+We fooled around a bit at the hotel, and then went to sleep, anticipating a really nice final day in China.
+
+I actually had to leave a day early, because I was going to be playing piano for the retiring Chief of the Defense staff (future kai: it did not go smoothly, and I did fumble some notes), but we weren't missing out on that much, because our flight was later in the day and the event was supposed to be wrapped up before we left for the airport!
+
+Now we decided to absolutely make the max of our day, we weren't focused on showcasing our games at all, so we decided hop in some Didi's, ditch everything and head out to a local zoo!
+
+Now this was the coolest zoo I've ever been to in my life! I can't believe the amount of gems that exist in Shanghai... They had all sorts of cool animals ranging from meter long salamanders, to red panda's, lions, tigers, penguins, everything you can possibly imagine of!
+
+What was also funny was the amount of kids who were at the zoo too. I think there was some school field trip or something happening while we were here, because there were like 1000's of kids in their own lines, with supervisors, all in their little uniforms, clustered in the park. It was a pretty funny sight to behold.
+
+So we spent a couple hours in the zoo and then headed out to our next location, a Buddhist temple!
