@@ -191,5 +191,19 @@ This was about to change as kids were starting to all roll in, so we quickly got
 
 Now I didn't think this place could get any fancier... but it did of course! Real sand art literally lined the ground in the hallway on every floor, with bamboo sprouting out every couple steps. And this hallway was spacious, like 2 or 3 people with arms spread fully out could probably fit in here.
 
-The rooms were also pretty magical
+The rooms were also pretty magical, there were doorbells at the front door (yes in a hotel...), and there was a nice bathroom with a fully transparent window covered by a small shade accessible on the OUTSIDE near the shower, so you could see right through which was a bit creepy, but having the shade down, worked decently well (thought you needed lots of trust in your roommates). You also had a little window that didn't open up to a balcony, but instead a smaller, inaccessible room that was filled with like plants, which was like half the size of this one, but just unused! It was a really nice room, but had some interesting design choices to say the least...
+
+Me and my sister then went over to our friends room, where they had set up Rocket League, so we chilled and played some games with them while waiting for all the other teens to get settled. Once everyone had settled, we were called to the lobby where we were going to head over to Spark Labs, our next venue!
+
+The walk to Spark Labs was significantly longer than Bottle Dream. Some people decided to actually take some bikes to get there, because they just lined the streets in the hundreds, and you could simply tap the pay. A really funny experience was when our friend who was just learning to bike, accidentally crossed the ENTIRETY of an intersection, diagonally on his bike, not realizing the street rules, and got honked at in every single direction...
+
+This area was kind of known as a high-tech area in China so everything was really modern, but it was also much hotter. I'm talking like 40 degree's, so the 20 minute walk to the venue was not that pleasant.
+
+Spark Labs was significantly different from Bottle Dream. It was set in the middle of this high-tech park area, whilst Bottle Dream was in a little alleyway, so this venue was going to be a great location to get customers at!
+
+I loved Spark Labs, it was this little air conditioned, circular, modern building, filled with windows letting the light in, but there wasn't too much space to setup a kitchen and whatnot (just don't tell health and food safety!), but we made it work anyways.
+
+It was getting near to lunch time though... the organizers had decided to get Subway of all takeout for the entire group, but the problem is, I can't eat Subway, nor can vegans eat Subway so we needed to find some different food options!
+
+We found this little strip mall on maps, so we decided to walk there on foot
 
