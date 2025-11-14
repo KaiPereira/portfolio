@@ -77,41 +77,43 @@ Now this is going to be the only restful sleep that we get for the entire week, 
 
 We woke up, got ready to go downstairs and had a nice breakfast with some of our new friends! It was buffet style, and had plenty of options, not too many I could have, but I could make do by eating fruit, and some of the meat dishes too. I had also brought some emergency PB and J just in case I couldn't eat anything, but I was fine except for on a couple occasions.
 
-Today, our plan was to have opening ceremony at the Bottle Dream venue, where we'd be serving Juice to some of the locals and showcasing our games! So right after breakfast, we made our way through the twisty turny alleys of Shanghai, until we reached the spot!
+Today, our plan was to have opening ceremony at the first venue, Bottle Dream! Here, we'd be serving juice to some of the locals and showcasing our games! So right after breakfast, we made our way through the twisty, turny alleywayss of Shanghai, until we reached the spot!
 
-I was really surprised by the temperature and climate around mid-day or so. It was really hot and humid, even though it was April, which was a change from Victoria, which was pretty cold around the same time. I think we went during like a heat wave though because it was like extra hot around this time, maybe about 30 - 35 degree's celsius!
+I was really surprised by the temperature and climate around mid-day or so. It was really hot and humid, even though it was April, which was a change from Victoria, which was pretty cold around the same time. I think we were travelling during a heat wave because it was like extra hot around this time, maybe about 30 - 35 degree's celsius!
 
-It was always so nice to chat to people during this trip, I probably had the most deep conversations of any event I've been too throughout this, and I'll detail some of my more specific conversations a bit later in this story.
+It was always so nice to chat to people during this trip, I probably had the most deep conversations of any event I've been too throughout this time, and I'll detail some of my more specific conversations a bit later in this story.
+
+Travelling through China was really interesting, because every single turn you made would lead you into a completely different scene, it felt like travelling dimensions in video games!
 
 Bottle Dream was such a cool venue, it was like a modern wood building, and you'd take these little steps to get up to it. It felt like it's own little world! We signed and drew on the welcoming whiteboard, and then sat down in our little chairs, anticipating the opening ceremony.
 
-I had actually brought a polaroid camera, so once everyone had flooded in, I took a large group photo with everyone, which turned out great!!!
+I felt really safe in China, there were soldiers usually positioned around the city, in some of the most random area's, and while they did feel a bit intimidating at times, you were never bothered.
+
+I had actually brought a polaroid camera, so once everyone had flooded in, I took a large group photo with everyone, which turned out great! I always forget to take photo's because the experience is just so engaging so I hoped that bringing my polaroid would inspire me to take more.
 
 The opening ceremony was hype, the mood was positive, the vibes were on point, and everyone was excited for what was to come. We got a quick rundown of the do's and don't inside of Bottle Dream, and then we got to choose teams and get some merch!
 
-The teams were simple, everyone in that group would be like working on stuff related to a common subject:
+The teams were simple, everyone in that group would be like working on stuff related to a common subject, with one of the organizers as the leader:
 - Tongyu: Game music and sound, so just like making general vibes
-- Kai Ling: I think was art, and making the venue look nice
+- Kai Ling: I think was art, and giving good vibes to the venue
 - Thomas: Web stuff, so like creating cool websites about the games and whatnot
 - Acon: Hardware, pcb's, all that fun stuff
 
-Now I might have some of these the wrong order, but these were the general categories!
+Now I might have some of these the wrong order, but these were the general categories! I ended up choosing Acon's team, because I was really interested in getting into hardware at this point, and she knew a lot about building fun things!
 
-I ended up choosing Acon's team, because I was really interested in getting into hardware at this point, and she knew a lot about building fun hardware!
+We also received a bunch of merch right after opening ceremony! This was a TON of really cool stuff like varsity jackets, laptop bags, stickers, figdets, all **designed by teenagers**!!
 
-We also received a bunch of merch right after opening ceremony! This was a TON of really cool stuff like varsity jackets, laptop bags, stickers, like figdets, a bunch of really cool stuff ALL DESIGNED by HIGHSCHOOLERS!!
+After we received our goods and chose our teams, we messed around a bit with making some juice concoctions and then went out to get some lunch.
 
-After we received all the goods, and chose our teams, we messed around a bit with making some Juice and then went out to get some lunch!
-
-We walked over to a mall, where half of us split up to go to a KFC (or maybe it was a burger kind, I can't really remember), and the other half to go to a little vegan place (because we had quite a few people with allergies).
+We walked over to a mall, where half of us split up to go to a KFC (or maybe it was a Burger King, I can't really remember), and the other half to go to a little vegan place (because we had quite a few people who were vegan or had allergies).
 
 I kid you not, this was the best vegan food I've ever had in my life. I got this spicy tofu dish that was like half a kilo of soft, luscious tofu, alongside some tomato soup, and edamame, it was AMAZING! They also had this really good tea-based drink, that tasted like a mix of strawberry and raspberry that was soooooo good!!!!
 
-We were allowed to spend $5 USD/person per meal, and with this amount, we could still get a TON, food was so cheap and so good in China!
+We were allowed to spend $5 USD/person per meal, and with this amount, we could still get a TON, food was so cheap and absolutely amazing in China!
 
-After lunch, we made our way back to the venue to chill and showcase some of our games to each other. We fooled around a bit with making juice, and I played a lot of cool games from some other people! I played [Ossatura](https://jadenlong1234.itch.io/ossatura-demo) one of my favorite games by Adrian and Siwen, 2 really nice people I met in China!
+After lunch, we made our way back to the venue to chill and showcase some of our games to each other. We fooled around a bit with making juice, and I played a lot of cool games from some other people! I really enjoyed seeing what other people had made, and we also invited some people on the streets to check them out too!
 
-We also had a little meetup with our team about what we wanted to make, and to see if we could get working/manufacturing some PCB's while in the heart of the hardware world!
+Around this time we had a little meetup with our team about what we wanted to make, and to see if we could get working/manufacturing some PCB's while in the heart of the hardware world!
 
 And just like that, we were nearing the end of day 2, so we went out to get some dinner (I don't really remember where exactly at, but it was probably something good).
 
@@ -119,17 +121,17 @@ Now before I went to sleep, I needed to try the bubble tea... We conveniently ha
 
 Now paying for stuff is pretty convenient in China! You can usually do everything through Alipay, you just scan the businesses QR code, pick what you want, and just order everything through the app, you can even translate all the Chinese to English!
 
-I kid you not, this is also the best bubble I've ever and will ever have in my life. I'm telling you they juice the fruit right in front of you, the pearls are fresh as can be, and the serving sizes are huge. Best part is, it costs less than $2 for an absolutely huge drink!!! Unbelievable.
+This is the best bubble tea I've ever and will ever have in my life. I'm telling you they juice the fruit right in front of you, the pearls are fresh as can be, and the serving sizes are huge. Best part is, it costs less than $2 for an absolutely huge drink!!! Unbelievable.
 
-So I walk back with my friends and we chill in the lobby, I'm kind of vibing while working on some PCB's with others working on their games, being in China really felt peaceful, even though you were in one of the largest cities on earth.
+So I walk back with my friends and we chill in the lobby, I'm kind of vibing while working on some PCB's with others working on their games, being in China really felt peaceful, even though you were in one of the busiest cities on earth.
 
-Now before I went to sleep, I needed to charge my devices! Now this was something I was prepared for, but haven't really experiences. The plugs are just like completely different, so you need to have an adapter for everything. Also the plugs aren't like properly grounded, so like the metal chassis on my laptop would like crackle a bit when you touched it, it was very interesting...
+Now before I went to sleep, I needed to charge my devices! Now this was something I was prepared for, but haven't really experienced. The plugs are just like completely different, so you need to have an adapter for everything. Also the plugs aren't like properly grounded, so the metal chassis on my laptop would like crackle a bit when you touched it, it was very interesting...
 
-I woke up on day 3 with a beautiful sunrise, and made my way out for breakfast. I saw [Zach](https://zachlatta.com/), the founder of Hackclub along the way, this was my second time meeting him, the first being on the Boreal Express, and it's just so cool when you unexpectedly meet people you saw on the other side of the world! He's one of the most interesting, down-to-earth people you'd ever meet, so we had a little chat and then parted ways because he was definitely a bit tired.
+I woke up on day 3 with a beautiful sunrise, and made my way out for breakfast. I saw [Zach](https://zachlatta.com/), the founder of Hackclub along the way! This was my second time meeting him, the first being on the Boreal Express, and it's just so cool when you unexpectedly meet people you saw on the other side of the world! He's one of the most interesting, down-to-earth people you'd ever meet, so we had a little chat and then parted ways because he was definitely a bit tired from his travels.
 
 We had to wake up a bit earlier today, because each group was going to get out and do some different activities. Our group decided to go out to this huge strip mall called Nanjing Road!
 
-We took a 20 minute railroad journey to get to the shopping street, and as soon as I got out, I couldn't help but feel like an ant in a city of giants. This was one of the most expansive malls I've ever seen in my life, hundreds of towering buildings caved around this huge pavilion.
+We took a 20 minute railroad to get to the shopping street, and as soon as I got out, I couldn't help but feel like an ant in a city of giants. This was one of the most expansive malls I've ever seen in my life, hundreds of towering buildings caved around this ginormous pavilion.
 
 We were allotted about an hour to explore the area, and my friend needed to fix his phone, so we went to an Apple store! While my friend was getting some help, me and another friend went to get a drink, because it was absolutely beaming outside, probably around 35 degree's celsius!
 
@@ -137,37 +139,54 @@ I have a lot of allergies, so it was kind of hard to choose what I wanted to dri
 
 This place looked really good, it was sweet and modern, and all the photo's looked really amazing, but I was still shocked when I received the most gorgeous drink of my life.
 
-I can only describe it as a swirl of herbal tea's, with floating strawberry's and other sweet fruits, freezing cold on a boiling hot day! The food in china is honestly just unmatched and amazing!!
+I can only describe it as a swirl of herbal tea's, with floating strawberry's and other sweet fruits, freezing cold on a boiling hot day! The food in china is honestly just unmatched, and the drinks are especially to die for.
 
-And we didn't realize it, but we had actually just stepped foot into a giant mall. A giant mall, literally on the outskirts of the largest plaza I've ever seen, the scenery around you just changes so fast in China.
+And we didn't realize it, but we had actually just stepped foot into a giant mall. A huge mall literally inside of an even huger mall, the scenery around you just changes so fast in China.
 
-So we went exploring a bit in the mall, and this place was honestly kind of huge, larger than any mall I've ever seen in Victoria, but it was also like completely empty, except for the occasional passerby or two. We explored all the different stages, and everything just morphed around us so fast, we went from a Nike store, to a little local food place, to a huge Michelin star restaurant built into a wall. it was very interesting to say the least, but a common occurrence here!
+So we went exploring a bit in the mall, and this place was honestly kind of huge, larger than any mall I've ever seen in Victoria, but it was also like completely empty, except for the occasional passerby or two. It was around 8 floors, and everything just morphed around us so fast, we went from a Nike store, to a little local food place, to a huge Michelin star restaurant built into a wall. it was very interesting to say the least, but a common occurrence here!
 
-Time passed by pretty fast though and so we headed back to the center of the plaza where our group was waiting. Once we got everyone together, we decided to go check out a little comic-con that was happening on that day! I don't think any of us intentionally planned on visiting it, but it was really cool and some people bought some collectibles from the shop.
+Time passed by pretty fast though, so we headed back to the center of the plaza where our group was waiting. Once we got everyone together, we decided to go check out a little comic-con that was happening on that day! I don't think any of us intentionally planned on visiting it, but it was really cool and some people bought some collectibles from the shop.
 
 There were huge models of mechs, really cool cosplay, and of course, many anime posters throughout the entire thing! The entire building somehow felt like a video game in itself. I honestly kind of wish I brought something home from it, but it was really cool to see and everyone seemed really passionate about their stuff there!
 
 Anyways, we had spent a couple of hours exploring around, and all of us were getting pretty hungry, so it was time to go grab some lunch. We decided to go to a KFC, because it was close and cheap, but I couldn't actually eat a single thing on the KFC menu, so I was going to have to tolerate my hunger for a bit longer until I could get back to the hotel and use my backup supply of PB and J.
 
-I had a really nice conversation with one of the kids about the inner workings of planes/helicopters! My favorite thing about cool events like this is to just listen to the experiences of other people. You just learn so much, and it opens up to many opportunities to do different things and find what you love to do! I might've honestly never worked on hardware, and would've stuck with software if it weren't for some of these experiences!
+I had a really nice conversation with one of the kids about the inner workings of planes/helicopters! My favorite thing about cool events like this is to just listen to the experiences of other people. You just learn so much, and it opens up to many opportunities to do different things and find what you love to do! I might've never worked on hardware, and would've stuck with software if it weren't for some of these experiences!
 
-Everyone was wrapping up, so we hopped back onto the train, and made our way back to the hotel! Half of us split up, to go to Bottle Dream, and the other half went back to the hotel to get away from the sun for a bit, and I could finally quench my hunger.
+Everyone was wrapping up, so we hopped back onto the railway, and made our way back to the hotel! Half of us split up, to go to Bottle Dream, and the other half went back to the hotel to get away from the sun for a bit, and I could finally quench my hunger.
 
 Now you'd probably think that with all these adventures that no one was running the cafe in-between, but in reality the groups would just kind of take turns running it, while other groups went out to do stuff! So now it was our time to run the Cafe!
 
 I decided to sidequest a bit on making a doorbell for the venue, because I was on the hardware team, and I also wanted to check out some games from others. I played this really cool hiking game, where you had to navigate your way through terrain with a compass, which was insanely hard, but you could also play it in VR which was absolutely insane. One of my favorite games for sure!
 
-We had quite a few people come into the Cafe too, so we gave them some Juice, and then we got them to play our games a bit, the kids really enjoyed it! We had these massive signs near the entrance to the venue because we were a bit higher up, so it was our main way of attracting people, and we could take turns advertising.
+We had quite a few people come into the cafe too, so we gave them some juice, and then we got them to play our games a bit, the kids really enjoyed it! We had these massive signs near the entrance to the venue because we were a bit higher up, so it was our main way of attracting people, and we could take turns advertising.
 
 In the span of a couple hour, it was already getting dark though, so we waited for another group to cover us and then we went out for dinner! We went to this little place that was in the same alley as our venue, and it was like straight out of the movies...
 
-Mahjong being played in the back, smell of tea in the air, it felt like I was in a movie. But sadly, I couldn't actually eat a thing in the restaurant, and the language barrier was like really difficult, so I literally just ate a bowl of rice while I waited to get back to the hotel. While the food is so good in China, it's not the best place for gluten free, and other allergies...
+Mahjong being played in the back, smell of tea in the air, it was the authentic experience. But sadly, I couldn't actually eat a thing in the restaurant, and the language barrier was really difficult, so I literally just ate a bowl of rice while I waited to get back to the hotel. While the food is so good in China, it's not the best place for gluten free, and other allergies...
 
-Everyone was really hungry so we finished up pretty fast, and then headed back to the hotel, where I picked up some bubble tea with some friends along the way. Now this bubble tea was legitimately a full meal so I didn't really feel the need to eat much more afterwards. My classic was to get this passion-fruit, orange combo, that had a bunch of fruit pieces inside, it was soooo good!!!
+Everyone was really hungry so we finished up pretty fast, and then headed back, where I picked up some bubble tea with some friends along the way. Now this bubble tea was legitimately a full meal so I didn't really feel the need to eat much more afterwards. My classic was go-to was the passion-fruit, orange combo, that had a bunch of fruit pieces inside, it was perfect!
+
+The night was not over though... we decided to mess around, a lot. Some of my friends didn't know how to ride bikes, so we took out some bikes, and decided to teach them how! It was pure chaos for hours, but so much fun!
+
+I tuned out at about 4am in the morning, absolutely exhausted and awaited my next day.
+
+We woke up a bit late at around 10, headed down, but then quickly had to finish up so my group could get on with their next activity. Acon decided that we should find some hardware that we could mess around with, so we took a little journey to a hardware mall.
+
+We took a railway back to Nanjing road, and then walked for about 20 minutes, to what seemed like the middle of nowhere. But we had confidence that Acon was bringing us to a really cool spot, so after a little bit longer, we arrived to the hardware mall!
+
+This place was pretty cool, it was over 10 floors tall, in the shape of a square, with escalators criss-crossing upwards in the center, and stores dotting the perimeter.
+
+
+
+
+
+
+
 
 Now the next day we were going to change things up a bit, we were going to move venue's from Bottle Dream to Spark Labs, which was a lot farther away, so we actually needed to move hotels.
 
-This meant we were going to have to get up a bit earlier to catch an Uber to the next venue. But instead of getting up early, we got up to some mischief and just messed around all night pretty much... This is one of my favorite parts about cool events, just not sleeping and hanging out with the friends you've made, and I honestly wish that I had done it more.
+This meant we were going to have to get up a bit earlier to catch a DiDi to the next venue. But instead of getting up early, we got up to some mischief and just messed around all night pretty much... This is one of my favorite parts about cool events, just not sleeping and hanging out with the friends you've made, and I honestly wish that I had done it more.
 
 We started just renting out the bikes that lined the streets in the thousands, and taught 2 of my friends how to ride bikes for the first time! And then we went back to the room to do some karaoke and play around with this silly AI assistant similar to a Google Home mini inside of the rooms. It was a really fun night and some of us just didn't get any sleep that night, but I managed to punch out a couple hours! 
 
