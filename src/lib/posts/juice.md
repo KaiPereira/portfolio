@@ -199,61 +199,61 @@ It was completely abandoned at the gardens, this city really felt dystopian at t
 
 It was a beautiful spot though and I met this really nice kid from Argentina, who was teaching me so much about about his home, and how different it was from my lifestyle. This might've been the most grateful I've been in my life to live where I do, but it was also interesting to see how proud he was of his home, no matter the conflicts. The different perspectives you see on these journeys are just so interesting.
 
-We headed back to the hotel though, some of us even got seconds of bubble tea along the way, because it was so cheap and so good. It was really late, but we still decided to mess around a bit more with the bikes, and just had so much fun. The sun was legitimately starting to rise a bit, and that was our signal to go to sleep.
+We headed back to the hotel though, some of us even got seconds of bubble tea along the way, because it was so cheap and so good. It was really late, but we still decided to mess around a bit more with the bikes, did some karaoke, and just had so much fun. The sun was legitimately starting to rise a bit, and that was our signal to go to sleep.
 
-Now the next day we were going to change things up a bit, we were going to move venue's from Bottle Dream to Spark Labs, which was a lot farther away, so we needed to move hotels too.
+Now the next day we were going to change things up a bit, we were going to move venue's from Bottle Dream to Spark Labs, which was a lot farther away, so we needed to move hotels too. This meant we were going to have to get up a bit earlier to catch a DiDi to the next venue, so we got like next to no sleep whatsoever...
 
-This meant we were going to have to get up a bit earlier to catch a DiDi to the next venue. But instead of getting up early, we got up to some mischief and just messed around all night pretty much... This is one of my favorite parts about cool events, just not sleeping and hanging out with the friends you've made, and I honestly wish that I had done it more.
+And honestly, it was so worth it to be sleep deprived. This experience really helped to fully break my mindset about just doing what feels right, and if you want to pull an all-nighter just do it. It's fine to be a bit irresponsible sometimes, and everything finds a way of working out.
 
-We started just renting out the bikes that lined the streets in the thousands, and taught 2 of my friends how to ride bikes for the first time! And then we went back to the room to do some karaoke and play around with this silly AI assistant similar to a Google Home mini inside of the rooms. It was a really fun night and some of us just didn't get any sleep that night, but I managed to punch out a couple hours! 
-
-This experience really helped to fully break my mindset about just doing what feels right, and if you want to pull an all-nighter just do it. It's fine to be a bit irresponsible sometimes, and everything finds a way of working out.
-
-After getting a bit of sleep though, we woke up to the sunrise, packed our bags, and headed down for some breakfast. You don't really feel that tired when you're in scenario's, but like you actually are, so it'll hit you really hard at some random point, and you might space out once or twice...
+After getting a bit of sleep, we woke up to the sunrise, packed our bags, and headed down for some breakfast. You don't really feel that tired when you're in scenario's like this, but like you actually are, so it'll hit you really hard at some random point, and you might space out randomly during the day...
 
 We had a really nice breakfast, and it was always really lovely to chat to others during these times too. Lots of these people I've seen online but haven't talked to, and they're all really interesting people, so these conversations were transformational and really fun.
 
-After breakfast, we grouped together where the organizers were calling DiDi's for everyone, so me and my sister hopped into one to get to our next hotel! 
+After breakfast, we grouped together in the lobby where the organizers were calling DiDi's for everyone, so me and my sister hopped into one to get to our next hotel! 
 
-There's a lot of really interesting things you'll notice when taking a car in China. The first thing is the car itself. Our DiDi's were usually like really high class, they had like luxurious massage chairs, were full black and really high quality (thought I'm sure not all of them were like this). Also the majority of the cars are electric so the roads feel much more quiet even with much more people, the drivers are so smooth...
+There's a lot of really interesting things you'll notice when taking a car in China. The first thing is the car itself. Our DiDi's were usually like really high class, they had like luxurious massage chairs, were full black and really high quality (thought I'm sure not all of them were like this). Also the majority of the cars are electric so the roads feel much more quiet even with much more people.
 
 The next thing you'll notice is the roads themselves. They're huge, insanely packed, and the drivers are always really aggressive. You definitely felt like you'd get into an accident sometimes, but you got to your place on time! Some of the intersections also had like 8 roads going into one which was really cool, and way too complex for my head, but you kind of need this sort of thing with so many people.
 
 I initially thought we were at the wrong hotel when we pulled up, because this was fancier than anything I've ever seen. A building the size of the white house, with fountains, arches, long driveways, it was insanely cool, and felt like I was pulling up to the ball!
 
-But the inside, absolutely deserted aside from one employee at the desk alongside Thomas who was getting everyone checked in. It was a room the size of my house, with nothing but a desk and a piano in the back corner.
+But the inside, absolutely deserted aside from one employee at the desk alongside Thomas who was getting everyone checked in. It was a room the size of my house, with nothing but a desk and a piano in the back corner and we were the first to arrive!
 
 This was about to change as kids were starting to all roll in, so we quickly got checked in, waited for some of our friends who were also checking in and then made our way up to our rooms.
 
-Now I didn't think this place could get any fancier... but it did of course! Real sand art literally lined the ground in the hallway on every floor, with bamboo sprouting out every couple steps. And this hallway was spacious, like 2 or 3 people with arms spread fully out could probably fit in here.
+Now I didn't think this place could get any fancier... but it did of course! Real sand art literally lined the sides of the ground in the hallway on every floor, with bamboo sprouting out every couple steps. This hallway was spacious too, like 2 or 3 people with arms spread fully out could probably fit in here.
 
-The rooms were also pretty magical, there were doorbells at the front door (yes in a hotel...), and there was a nice bathroom with a fully transparent window covered by a small shade accessible on the OUTSIDE near the shower, so you could see right through which was a bit creepy, but having the shade down, worked decently well (thought you needed lots of trust in your roommates). You also had a little window that didn't open up to a balcony, but instead a smaller, inaccessible room that was filled with like plants, which was like half the size of this one, but just unused! It was a really nice room, but had some interesting design choices to say the least...
+The rooms were also pretty magical, there were doorbells at the front door (yes in a hotel...), and there was a nice bathroom with a fully transparent window covered by a small shade accessible on the OUTSIDE near the shower, so you could see right through which was a bit creepy, but having the shade down, worked decently well (thought you needed lots of trust in your roommates). You also had a little window that didn't open up to a balcony, but instead a smaller, inaccessible room that was filled with plants, which was like half the size of this one, but just unused! It was a really nice room, but had some interesting design choices to say the least...
 
 Me and my sister then went over to our friends room, where they had set up Rocket League, so we chilled and played some games with them while waiting for all the other teens to get settled. Once everyone had settled, we were called to the lobby where we were going to head over to Spark Labs, our next venue!
 
-The walk to Spark Labs was significantly longer than Bottle Dream. Some people decided to actually take some bikes to get there, because they just lined the streets in the hundreds, and you could simply tap the pay. A really funny experience was when our friend who was just learning to bike, accidentally crossed the ENTIRETY of an intersection, diagonally on his bike, not realizing the street rules, and got honked at in every single direction...
+The walk to Spark Labs was significantly longer than Bottle Dream. Some people decided to actually take some bikes to get there, because they just lined the streets in the hundreds, and you could simply tap to pay. A really funny experience was when our friend who was just learning to bike, accidentally crossed the ENTIRETY of an intersection, DIAGONALLY on his BIKE, not realizing the street rules, and got honked at in every single direction...
 
-This area was kind of known as a high-tech area in China so everything was really modern, but it was also much hotter. I'm talking like 40 degree's, so the 20 minute walk to the venue was not that pleasant.
+This area was kind of known as a high-tech area in China so everything was really modern, but it was also much hotter. I'm talking like 40 degree's, so the 25 minute walk to the venue was not that pleasant.
 
 Spark Labs was significantly different from Bottle Dream. It was set in the middle of this high-tech park area, whilst Bottle Dream was in a little alleyway, so this venue was going to be a great location to get customers at!
 
 I loved Spark Labs, it was this little air conditioned, circular, modern building, filled with windows letting the light in, but there wasn't too much space to setup a kitchen and whatnot (just don't tell health and food safety!), but we made it work anyways.
 
-It was getting near to lunch time though... the organizers had decided to get Subway of all takeout for the entire group, but the problem is, I can't eat Subway, nor can vegans eat Subway so we needed to find some different food options!
+It was getting near to lunch time though... the organizers had decided to get Subway of all takeout for the entire group, but the problem is, I can't eat Subway, nor can vegans eat it, so we needed to find some different food options!
 
-We found this little strip mall on maps, so we decided to walk there on foot, and see what we could find! Now maps said was going to take like 10 minutes to get there, it felt definitely closer to like 30, and when we arrived there, the only place to get food was another Subway, and Tim Hortons... So we opted to find a different place!
+We found this little strip mall on maps, so we decided to walk there on foot, and see what we could find! Now maps said was going to take like 10 minutes to get there, but it definitely felt closer to like 30, and when we arrived there, the only place to get food at was another Subway, and Tim Horton's... So we opted to find a different place!
 
 Now maps was showing up that there were a bunch of food places in the middle of absolutely no where, about 15 minutes up from our location so we decided to check it out. So we walked another 15 minutes up the highway, where a bunch of construction was happening and it seemed like there was nothing here, so we double checked our maps, and just kept on walking.
 
-Just as we thought all hope was lost, we saw an absolutely GIGANTIC hole in the literal ground beneath us, that just opened up with escalators going down to who knows what. This was our last chance the find some good food, so we just trusted going down it blindly, because is was this modern little area.
+Just as we thought all hope was lost, we saw an absolutely GIGANTIC hole in the literal ground beneath us, that just opened up with escalators going down to who knows where. This was our last chance to find some good food, so we just trusted going down it blindly, because it was this modern little area that looked like it could contain some food.
 
-I kid you not, we descended into the largest mall on the planet... It was like 6 floors tall, with every single place imaginable, and had quite a few people bustling around, we could not believe it. We were starving and immediately found a pho and dumpling place so we split up to the two places and had some lunch. This food was sooooo delicious, and it's incredible how you can just find these hidden gems just randomly in China, and this was such a common occurrence and one of the things I love about Shanghai!
+I kid you not, we descended into the largest mall on the planet... It was like 8 floors tall, with every single place imaginable, and had quite a few people bustling around, we could not believe it. We were starving and immediately found a pho and dumpling place so we split up to the two places and had some lunch. This food was sooooo delicious, and it's incredible how you can just find these hidden gems just randomly in China, and this was such a common occurrence and one of the things I love about Shanghai!
 
 We absolutely demolished our food, and then decided to split up, because me and my sister want ed to keep exploring, while our friends wanted to head back. So we continued checking out the mall, it was insanely cool, and the largest one I've been in by far! I really wanted to get a drink, so I found this sweet looking spot, and got this mango, pomelo drink which was to DIE for.
 
-I wish I got some photo's of these drinks, but they were absolutely gorgeous colors, and had little pieces of fruit floating around, and just tasted amazing, especially on boiling days like today. 
+I wish I got some photo's of these drinks, but they were absolutely gorgeous colors, and had little pieces of fruit floating around, that just tasted amazing, especially on boiling days like today. 
 
-We had overstayed our welcome at this mall though, and really had to get back to the venue though, so we headed back! It wasn't too eventful after this, we showcased our games, fooled around, I got interviewed for a video they were making on the event, and then we headed back to the hotel!
+
+
+
+
+We had overstayed our welcome though, and really had to get back to the venue, so we headed back! It wasn't too eventful after this, we showcased our games, fooled around, I got interviewed for a video they were making on the event, and then we headed back to the hotel!
 
 We fooled around a bit at the hotel, and then went to sleep, anticipating a really nice final day in China.
 
