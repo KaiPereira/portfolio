@@ -27,20 +27,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "boreal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "boreal"
-            }
-          },
-          {
-            "id": "9fe98c20398f276d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "juice.md",
                 "mode": "source",
                 "source": false
@@ -50,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,20 +185,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9fe98c20398f276d",
+  "active": "012416cd8af1b0d0",
   "lastOpenFiles": [
-    "Pasted image 20251114131250.png",
-    "Pasted image 20251114130703.png",
-    "Pasted image 20251114130700.png",
-    "Pasted image 20251114130614.png",
-    "Pasted image 20251114130543.png",
-    "Pasted image 20251114130507.png",
-    "Pasted image 20251114130442.png",
-    "Pasted image 20251114130228.png",
-    "Pasted image 20251114130137.png",
-    "Pasted image 20251114130040.png",
-    "Pasted image 20251114125422.png",
+    "Pasted image 20251114162116.png",
+    "Pasted image 20251114161742.png",
+    "Pasted image 20251114161714.png",
+    "Pasted image 20251114161439.png",
+    "Pasted image 20251114160902.png",
+    "Pasted image 20251114160704.png",
+    "Pasted image 20251114160616.png",
     "juice.md",
+    "Pasted image 20251114160928.png",
+    "Pasted image 20251114160535.png",
+    "Pasted image 20251114160440.png",
+    "Pasted image 20251114155859.png",
     "boreal.md",
     "build-a-devboard.md",
     "juice.md~",

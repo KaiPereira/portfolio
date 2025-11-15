@@ -35,7 +35,9 @@ I was also travelling with my sister, who made it way less stressful. And just l
 
 Landing in Shanghai, you'll immediately notice the pollution, and also the ships travelling below. At some points in the ocean, you'll literally be able to see hundreds of ships just all full to the brim, embarking on their journey across the world!
 
-![](Pasted%20image%2020251114124247.png)
+![](Pasted%20image%2020251114132345.png)
+
+*There's not many photo's of us flying over, but you would pass over-top of the city*
 
 Arriving in the Shanghai airport, I wasn't really stressed, but a bit nervous. We had come to realize that absolutely NO ONE spoke English in the airport which surprised me a lot and every single sign was written in characters absolutely foreign to us. We did have one person in our group who could speak and understand the language, so they helped to guide us through the process of getting through the airport!
 
@@ -93,7 +95,7 @@ Luckily, some of the organizers could speak mandarin, unluckily was that I could
 
 The food was really interesting, you had no clue what you were actually eating, just that it tasted good, and different. For example, we got served these noodles that were like transparent and green, but they were like actually a vegetable that tasted like noodles? There were also these puffy egg dishes that just completely did not resemble eggs, it was really interesting! We were probably served around 20 different dishes!
 
-![](Pasted%20image%2020251114130228.png)
+![](Pasted%20image%2020251114132556.png)
 
 We actually had found ourselves at a vegan table, even though we weren't all vegan which was a bit confusing, because only realized like an hour into dinner that there wasn't meat because all the dishes were so unique. After dinner, we all settled and then headed back to the hotel to get a good nights sleep.
 
@@ -116,6 +118,7 @@ Bottle Dream was such a cool venue, it was like a modern wood building, and you'
 
 ![](Pasted%20image%2020251114130543.png)
 ![](Pasted%20image%2020251114130614.png)
+![](Pasted%20image%2020251114132241.png)
 
 I felt really safe in China, there were soldiers usually positioned around the city, in some of the most random area's, and while they did feel a bit intimidating at times, you were never bothered.
 
@@ -124,10 +127,6 @@ I had actually brought a polaroid camera, so once everyone had flooded in, I too
 ![](Pasted%20image%2020251114130703.png)
 
 The opening ceremony was hype, the mood was positive, the vibes were on point, and everyone was excited for what was to come. We got a quick rundown of the do's and don't inside of Bottle Dream, and then we got to choose teams and get some merch!
-
-![](Pasted%20image%2020251114131250.png)
-
-*The coolest merch ever!!!*
 
 The teams were simple, everyone in that group would be like working on stuff related to a common subject, with one of the organizers as the leader:
 - Tongyu: Game music and sound, so just like making general vibes
@@ -139,25 +138,43 @@ Now I might have some of these the wrong order, but these were the general categ
 
 We also received a bunch of merch right after opening ceremony! This was a TON of really cool stuff like varsity jackets, laptop bags, stickers, figdets, all **designed by teenagers**!!
 
+![](Pasted%20image%2020251114131250.png)
+
+*The coolest merch ever!!!*
+
 After we received our goods and chose our teams, we messed around a bit with making some juice concoctions and then went out to get some lunch.
+
+![](Pasted%20image%2020251114131623.png)
 
 We walked over to a mall, where half of us split up to go to a KFC (or maybe it was a Burger King, I can't really remember), and the other half to go to a little vegan place (because we had quite a few people who were vegan or had allergies).
 
 I kid you not, this was the best vegan food I've ever had in my life. I got this spicy tofu dish that was like half a kilo of soft, luscious tofu, alongside some tomato soup, and edamame, it was AMAZING! They also had this really good tea-based drink, that tasted like a mix of strawberry and raspberry that was soooooo good!!!!
 
+![](Pasted%20image%2020251114131654.png)
+
+*Not the tofu dish, but this one has some of the tofu on it alongside the drink! This costed $5!!!*
+
 We were allowed to spend $5 USD/person per meal, and with this amount, we could still get a TON, food was so cheap and absolutely amazing in China!
 
 After lunch, we made our way back to the venue to chill and showcase some of our games to each other. We fooled around a bit with making juice, and I played a lot of cool games from some other people! I really enjoyed seeing what other people had made, and we also invited some people on the streets to check them out too!
 
+![](Pasted%20image%2020251114131923.png)
+
+![](Pasted%20image%2020251114131803.png)
+
+*The guy in the brown hoodie's game was my favorite, but I can't remember what it was...*
+
 Around this time we had a little meetup with our team about what we wanted to make, and to see if we could get working/manufacturing some PCB's while in the heart of the hardware world!
 
-And just like that, we were nearing the end of day 2, so we went out to get some dinner (I don't really remember where exactly at, but it was probably something good).
+And just like that, we were nearing the end of day 2, and I was so engaged, I don't think I actually ever got dinner....
 
 Now before I went to sleep, I needed to try the bubble tea... We conveniently had this bubble tea place right by our hotel, so I popped over with my sister and some friends!
 
 Now paying for stuff is pretty convenient in China! You can usually do everything through Alipay, you just scan the businesses QR code, pick what you want, and just order everything through the app, you can even translate all the Chinese to English!
 
 This is the best bubble tea I've ever and will ever have in my life. I'm telling you they juice the fruit right in front of you, the pearls are fresh as can be, and the serving sizes are huge. Best part is, it costs less than $2 for an absolutely huge drink!!! Unbelievable.
+
+![](Pasted%20image%2020251114160440.png)
 
 So I walk back with my friends and we chill in the lobby, I'm kind of vibing while working on some PCB's with others working on their games, being in China really felt peaceful, even though you were in one of the busiest cities on earth.
 
@@ -169,6 +186,10 @@ We had to wake up a bit earlier today, because each group was going to get out a
 
 We took a 20 minute railroad to get to the shopping street, and as soon as I got out, I couldn't help but feel like an ant in a city of giants. This was one of the most expansive malls I've ever seen in my life, hundreds of towering buildings caved around this ginormous pavilion.
 
+![](Pasted%20image%2020251114160616.png)
+![](Pasted%20image%2020251114160704.png)
+![](Pasted%20image%2020251114160928.png)
+
 We were allotted about an hour to explore the area, and my friend needed to fix his phone, so we went to an Apple store! While my friend was getting some help, me and another friend went to get a drink, because it was absolutely beaming outside, probably around 35 degree's celsius!
 
 I have a lot of allergies, so it was kind of hard to choose what I wanted to drink, and the language barrier made it impossible to communicate, so I just ended up pointing to a drink that said herbal.
@@ -177,19 +198,29 @@ This place looked really good, it was sweet and modern, and all the photo's look
 
 I can only describe it as a swirl of herbal tea's, with floating strawberry's and other sweet fruits, freezing cold on a boiling hot day! The food in china is honestly just unmatched, and the drinks are especially to die for.
 
+*I wish I got a photo of the drink, but in classic fashion, I did not...*
+
 And we didn't realize it, but we had actually just stepped foot into a giant mall. A huge mall literally inside of an even huger mall, the scenery around you just changes so fast in China.
 
 So we went exploring a bit in the mall, and this place was honestly kind of huge, larger than any mall I've ever seen in Victoria, but it was also like completely empty, except for the occasional passerby or two. It was around 8 floors, and everything just morphed around us so fast, we went from a Nike store, to a little local food place, to a huge Michelin star restaurant built into a wall. it was very interesting to say the least, but a common occurrence here!
 
 Time passed by pretty fast though, so we headed back to the center of the plaza where our group was waiting. Once we got everyone together, we decided to go check out a little comic-con that was happening on that day! I don't think any of us intentionally planned on visiting it, but it was really cool and some people bought some collectibles from the shop.
 
+![](Pasted%20image%2020251114160535.png)
+
 There were huge models of mechs, really cool cosplay, and of course, many anime posters throughout the entire thing! The entire building somehow felt like a video game in itself. I honestly kind of wish I brought something home from it, but it was really cool to see and everyone seemed really passionate about their stuff there!
+
+![](Pasted%20image%2020251114161439.png)
+![](Pasted%20image%2020251114161714.png)
+![](Pasted%20image%2020251114161742.png)
 
 Anyways, we had spent a couple of hours exploring around, and all of us were getting pretty hungry, so it was time to go grab some lunch. We decided to go to a KFC, because it was close and cheap, but I couldn't actually eat a single thing on the KFC menu, so I was going to have to tolerate my hunger for a bit longer until I could get back to the hotel and use my backup supply of PB and J.
 
 I had a really nice conversation with one of the kids about the inner workings of planes/helicopters! My favorite thing about cool events like this is to just listen to the experiences of other people. You just learn so much, and it opens up to many opportunities to do different things and find what you love to do! I might've never worked on hardware, and would've stuck with software if it weren't for some of these experiences!
 
 Everyone was wrapping up, so we hopped back onto the railway, and made our way back to the hotel! Half of us split up, to go to Bottle Dream, and the other half went back to the hotel to get away from the sun for a bit, and I could finally quench my hunger.
+
+![](Pasted%20image%2020251114162116.png)
 
 Now you'd probably think that with all these adventures that no one was running the cafe in-between, but in reality the groups would just kind of take turns running it, while other groups went out to do stuff! So now it was our time to run the Cafe!
 
@@ -228,6 +259,8 @@ Anyways, we headed back to the venue, feeling full, and served some more juice t
 Lots of people had never actually made a PCB in our group, so Acon decided to host a little workshop for everyone! We were going to make little PCB fidgets that lit up, and hopefully would get enough time to get them manufactured (spoiler we didn't). But I helped people make their first PCB in easyeda, because it's the simplest for beginners, which was kind of fun to do!
 
 We were getting hungry though, and I didn't really feel like eating at another KFC with my group, so me and my friends decided to split up from our groups, and grab some hot pot! This was my first time getting hot pot, and one of my favorite meals of the trip!
+
+![](Pasted%20image%2020251114132012.png)
 
 Essentially how hot pot works, is you get a big bowl of hot broth alongside platters of raw meat. You make your own sauce at this station in the corner, and then cook your own meat inside of the broths! You also get vegetables and stuff that you can put in, and it's just really fun to do!
 
