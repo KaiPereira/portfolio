@@ -1,6 +1,6 @@
 ---
 title: Running a Hacker Cafe in China
-date: 2025-11-11
+date: "2025-11-11"
 description: After spending 2 months building games, I was invited to Shanghai, China to run a hacker cafe where we served Juice and showcased games to the locals!
 ---
 # Running a Hacker Cafe in China
