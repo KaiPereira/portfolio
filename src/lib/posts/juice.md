@@ -5,7 +5,7 @@ description: After spending 2 months building games, I was invited to Shanghai, 
 ---
 # Running a Hacker Cafe in China
 
-![](Pasted%20image%2020251114123406.png)
+![](Pasted%20image%2020251114181904.png)
 
 February of 2025, I was presented with the opportunity of a lifetime.
 
@@ -311,7 +311,7 @@ The next thing you'll notice is the roads themselves. They're huge, insanely pac
 
 I initially thought we were at the wrong hotel when we pulled up, because this was fancier than anything I've ever seen. A building the size of the white house, with fountains, arches, long driveways, it was insanely cool, and felt like I was pulling up to the ball!
 
-![](Pasted%20image%2020251114165749.png)
+![](Pasted%20image%2020251114165314.png)
 
 But the inside, absolutely deserted aside from one employee at the desk alongside Thomas who was getting everyone checked in. It was a room the size of my house, with nothing but a desk and a piano in the back corner and we were the first to arrive!
 
@@ -353,9 +353,10 @@ Now maps was showing up that there were a bunch of food places in the middle of 
 
 Just as we thought all hope was lost, we saw an absolutely GIGANTIC hole in the literal ground beneath us, that just opened up with escalators going down to who knows where. This was our last chance to find some good food, so we just trusted going down it blindly, because it was this modern little area that looked like it could contain some food.
 
-I kid you not, we descended into the largest mall on the planet... It was like 8 floors tall, with every single place imaginable, and had quite a few people bustling around, we could not believe it. We were starving and immediately found a pho and dumpling place so we split up to the two places and had some lunch. This food was sooooo delicious, and it's incredible how you can just find these hidden gems just randomly in China, and this was such a common occurrence and one of the things I love about Shanghai!
+I kid you not, we descended into the largest mall on the planet... It was like 8 floors tall, with every single store imaginable, and had quite a few people bustling around, we could not believe it. We were starving and immediately found a pho and dumpling place so we split up to the two places and had some lunch. This food was sooooo delicious, and it's incredible how you can just find these hidden gems just randomly in China, and this was such a common occurrence and one of the things I love about Shanghai!
 
 ![](Pasted%20image%2020251114173526.png)
+![](Pasted%20image%2020251114182438.png)
 
 We absolutely demolished our food, and then decided to split up, because me and my sister want ed to keep exploring, while our friends wanted to head back. So we continued checking out the mall, it was insanely cool, and the largest one I've been in by far! I really wanted to get a drink, so I found this sweet looking spot, and got this mango, pomelo drink which was to DIE for.
 
@@ -363,17 +364,29 @@ I wish I got some photo's of these drinks, but they were absolutely gorgeous col
 
 We had overstayed our welcome though, so we headed back to the venue! It wasn't too eventful after this, we showcased our games, fooled around, I got interviewed for a video they were making on the event, and then we went back to the hotel!
 
-We also had some nice curry for dinner, which was pretty good! We fooled around a bit at the hotel, and then went to sleep! Tomorrow we planned to do mostly sightseeing, and split up from the main group, because it was going to be the last full day!
+We also had some nice curry for dinner, which was pretty good! We messed around a bit at the hotel, and then went to sleep! Tomorrow we planned to do mostly sightseeing, and split up from the main group, because it was going to be the last full day!
 
 ![](Pasted%20image%2020251114165709.png)
+![](Pasted%20image%2020251114182537.png)
 
-I actually had to leave a day early, because I was going to be playing piano for the retiring Chief of the Defense staff (future kai: it did not go smoothly, and I did fumble some notes), but we weren't missing out on much, because our flight was later in the day and the event was supposed to be wrapped up before we even left for the airport!
+I actually had to leave a day early, because I was going to be playing piano for the retiring Chief of the Defense staff of Canada (future kai: it did not go smoothly, and I did fumble some notes), but we weren't missing out on much because our flight was later in the day and the event was supposed to be wrapped up before we even left for the airport!
 
 Now we decided to absolutely make the most of our full day, we weren't focused on showcasing our games at all, so we grabbed breakfast, hopped in some DiDi's, ditched everything and headed out to a local zoo with our friends!
+
+![](Pasted%20image%2020251114165749.png)
 
 Now this was the coolest zoo I've ever been to in my life! I can't believe the amount of gems that exist in Shanghai... They had all sorts of cool animals ranging from meter long salamanders, to red panda's, lions, tigers, penguins, everything you can possibly imagine of!
 
 What was also funny was the amount of kids who were at the zoo too. I think there was some school field trip or something happening while we were here, because there were like 1000's of kids in their own lines, with supervisors, all in their little uniforms, clustered in the park. It was a pretty funny sight to behold. All the supervisors at the front of the lines had little signs to make sure the kids didn't get lost.
+
+![](Pasted%20image%2020251114183511.png)
+![](Pasted%20image%2020251114183534.png)
+![](Pasted%20image%2020251114183601.png)
+![](Pasted%20image%2020251114183609.png)
+![](Pasted%20image%2020251114183617.png)
+![](Pasted%20image%2020251114183721.png)
+
+*Spot the animal... SPOILER: It's huge!!*
 
 So we spent a couple hours in the zoo and then headed out to our next location, a Buddhist temple!
 
@@ -381,7 +394,12 @@ So we pack out, and take another DiDi to the Buddhist temple, and boy, this was 
 
 I do NOT think we were supposed to be here, but we tried to stay respectful and scuttled out into the back gardens of the temple! This area was a huge pavilion with looming temples all around, the smell of incense was overcoming, as I think we were here during like a special holiday or something in China...
 
+![](Pasted%20image%2020251114184105.png)
+
 It was honestly so cool to see the culture around us, I think we might've felt a little bit intruding but we tried to stay respectful, and we didn't really get any looks. One of the things that blew my mind was this like tower that seemed over 100m tall, near the back of the gardens, guarded by the doors that felt like only giants should walk through! It was just so cool!
+
+![](Pasted%20image%2020251114184145.png)
+![](Pasted%20image%2020251114184224.png)
 
 The actual gardens were absolutely gorgeous... perfectly maintained plants and tree's with some of the most gorgeous tones of color! We hanged around, even did a bit of shopping, and then decided to head out. I kind of wish I brought back more souvenirs, but I was so present while in China that it honestly didn't matter too much, because I can remember the whole thing like it was yesterday!
 
@@ -398,8 +416,6 @@ It was probably actually the most expensive food we had gotten, but I don't thin
 After lunch, we decided that we were all really tired, so we headed back to Spark Labs to just chill, look at more games, and spend some time just meeting people.
 
 We made these cute little plushies during this time, alongside some other arts and crafts which were really fun to do! It was also Kai Ling's birthday!!! All the staff had bought a bunch of ice-cream and cake so that we could all celebrate together!
-
-![](Pasted%20image%2020251114172309.png)
 
 It was such a good time, and we were absolutely wiped by the end of today, so we headed to get a good nights sleep.
 
