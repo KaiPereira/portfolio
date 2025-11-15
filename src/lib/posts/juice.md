@@ -235,6 +235,8 @@ In the span of a couple hour, it was already getting dark though, so we waited f
 
 Mahjong being played in the back, smell of green tea in the air, it was the authentic experience. But sadly, I couldn't actually eat a thing in the restaurant, and the language barrier was really difficult, so I literally just ate a bowl of rice while I waited to get back to the hotel. While the food is so good in China, it's not the best place for gluten free, and other allergies...
 
+![](Pasted%20image%2020251114193030.png)
+
 Everyone was really hungry so we finished up pretty fast, and then headed back, where I picked up some bubble tea with some friends along the way. Now this bubble tea was legitimately a full meal so I didn't really feel the need to eat much more afterwards. My classic was go-to was the passion-fruit, orange combo, that had a bunch of fruit pieces inside, it was perfect!
 
 The night was not over though... we decided to mess around, a lot. Some of my friends didn't know how to ride bikes, so we took out some bikes, and decided to teach them how! It was pure chaos for hours, but so much fun!
@@ -395,41 +397,76 @@ So we pack out, and take another DiDi to the Buddhist temple, and boy, this was 
 I do NOT think we were supposed to be here, but we tried to stay respectful and scuttled out into the back gardens of the temple! This area was a huge pavilion with looming temples all around, the smell of incense was overcoming, as I think we were here during like a special holiday or something in China...
 
 ![](Pasted%20image%2020251114184105.png)
+![](Pasted%20image%2020251114184421.png)
 
 It was honestly so cool to see the culture around us, I think we might've felt a little bit intruding but we tried to stay respectful, and we didn't really get any looks. One of the things that blew my mind was this like tower that seemed over 100m tall, near the back of the gardens, guarded by the doors that felt like only giants should walk through! It was just so cool!
 
 ![](Pasted%20image%2020251114184145.png)
 ![](Pasted%20image%2020251114184224.png)
+![](Pasted%20image%2020251114184341.png)
 
 The actual gardens were absolutely gorgeous... perfectly maintained plants and tree's with some of the most gorgeous tones of color! We hanged around, even did a bit of shopping, and then decided to head out. I kind of wish I brought back more souvenirs, but I was so present while in China that it honestly didn't matter too much, because I can remember the whole thing like it was yesterday!
+
+![](Pasted%20image%2020251114184450.png)
+![](Pasted%20image%2020251114184532.png)
+![](Pasted%20image%2020251114184604.png)
 
 Now we were all getting really hungry, I don't think any of us had eating much so far, so we took a little stroll to a strip mall just up the street from the temple. It's crazy how again, you'll walk for like 10 minutes and go from traditional temple, to modern mall.
 
 So we enter this little mall via some escalators and there's like absolutely no one here, I actually thought it was closed. It was really modern though, canopies above us, with glass railways, suspended above the ground, it was really cool.
 
-I think legitimately every single person in our group was Indian, so we decided to find an Indian place! We came across this modern little restaurant, with again, absolutely no one inside, and decided to give it a chance because the food looked good!
+![](Pasted%20image%2020251114191301.png)
+![](Pasted%20image%2020251114191401.png)
+
+I think legitimately every single person in our group was Indian (except one who was from the Philippines), so we decided to find an Indian place! We came across this modern little restaurant, with again, absolutely no one inside, and decided to give it a chance because the food looked good!
 
 The owners were so friendly and holy smokes, this was some amazing Indian food. Some of the others didn't enjoy it as much, because it was more-so modern Indian food, but my dish was absolutely amazing! They also gave us some free dishes and some Coca-Cola, probably because we were their only customers, but maybe because we were also all brown...
 
 It was probably actually the most expensive food we had gotten, but I don't think it had even costed us over $10/person USD, so we thanked the owners for the good food and then rolled out of there!
 
+![](Pasted%20image%2020251114191228.png)
+
 After lunch, we decided that we were all really tired, so we headed back to Spark Labs to just chill, look at more games, and spend some time just meeting people.
 
 We made these cute little plushies during this time, alongside some other arts and crafts which were really fun to do! It was also Kai Ling's birthday!!! All the staff had bought a bunch of ice-cream and cake so that we could all celebrate together!
 
-It was such a good time, and we were absolutely wiped by the end of today, so we headed to get a good nights sleep.
+![](Pasted%20image%2020251114192609.png)
+![](Pasted%20image%2020251114194230.png)
+![](Pasted%20image%2020251114194251.png)
 
-We woke up pretty early and has some breakfast at the hotel. It was buffet style just like the last hotel, but there was even less I could have, so I just ate fruit and juice, not the most nutritious, but you got to sacrifice to have cool experiences sometimes!
+It was such a good time (amazing ice cream too), and we were absolutely wiped by the end of today, so we headed to get a good nights sleep.
+
+We woke up pretty late and has some breakfast at the hotel. It was buffet style just like the last hotel, but there was even less I could have, so I just ate fruit and juice, not the most nutritious, but you got to sacrifice to have cool experiences sometimes.
 
 We had to leave in the late afternoon to get to the airport in time, but that still gave us quite a long time to do some stuff.
 
 We didn't plan to actually do any sightseeing, and instead just wanted to spend the time with our friends, and hanging out. We cleaned up the venue a bit because it was also the last day of the event, had some sushi and just kind of waited out the time!
 
-We made these cool little shrinky dinks that I had all the organizers, and staff sign as a momento, and just like that, my journey in China was coming to an end!
+![](Pasted%20image%2020251114214138.png)
+![](Pasted%20image%2020251114214954.png)
+![](Pasted%20image%2020251114215029.png)
+
+We also made these cool little shrinky dinks that I had all the organizers, and staff sign as a memento, and just like that, my journey in China was coming to an end!
 
 Shanghai was an absolutely pivotal moment for me, it's not just the place, but the experiences that I gained meeting people from around the world, having deep conversations and even fooling around. One thing I would say is that life just isn't that serious, like mess around, be a little bit irresponsible and don't be too hard on yourself. Just seek out cool experiences and get out of your comfort zone a little bit!
 
-So I said my goodbyes to nearly everyone, I had gotten to know, which was probably about half the people at the event, so I thought my job here was done!
+So I said my goodbyes to nearly everyone, I had gotten to know, which was probably about half the people at the event! I was really proud of myself for getting out of my comfort zone and meeting so many new people!
 
-Just as we were leaving, the event was also closing off. Zach gave a speech to everyone, and it was the perfect send-off to a transformational journey! So I hopped into a DiDi with my sister, friends waving us off, and we got home without any issues!
+Just as we were leaving, the event was also closing off. Zach gave a speech to everyone, and it was the perfect send-off to such a transformational journey! So I hopped into a DiDi with my sister, friends waving us off, and just like that, we were off on our way home!
+
+## Send Off
+
+Thanks to all the organizers of the event, Thomas, Tongyu, Kai Ling and Cosmin who spent sleepless nights making this the coolest event of all time!
+
+Thanks to Zach, Hackclub and AdventureX who sponsored the event, and made it happen in the heart of Shanghai!
+
+All the teenagers also deserve credit for their contribution to the atmosphere, and big thanks to Lopa and Rushmore for processing many flight re-reimbursements! Rhys, thanks for making sure I could actually eat stuff and you were the best group leader ever Acon. You continue to inspire me with your cool projects!
+
+*To everyone I met in China, I love you all <3*
+
+If you want to see the experience that fundamentally changed my life, check out the [Boreal Express](https://kaipereira.com/journal/boreal)!
+
+
+
+
 
