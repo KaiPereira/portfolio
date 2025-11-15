@@ -228,9 +228,12 @@ I decided to sidequest a bit on making a doorbell for the venue, because I was o
 
 We had quite a few people come into the cafe too, so we gave them some juice, and then we got them to play our games a bit, the kids really enjoyed it! We had these massive signs near the entrance to the venue because we were a bit higher up, so it was our main way of attracting people, and we could take turns advertising.
 
+![](Pasted%20image%2020251114163632.png)
+![](Pasted%20image%2020251114163759.png)
+
 In the span of a couple hour, it was already getting dark though, so we waited for another group to cover us and then we went out for dinner! We went to this little place that was in the same alley as our venue, and it was like straight out of the movies...
 
-Mahjong being played in the back, smell of tea in the air, it was the authentic experience. But sadly, I couldn't actually eat a thing in the restaurant, and the language barrier was really difficult, so I literally just ate a bowl of rice while I waited to get back to the hotel. While the food is so good in China, it's not the best place for gluten free, and other allergies...
+Mahjong being played in the back, smell of green tea in the air, it was the authentic experience. But sadly, I couldn't actually eat a thing in the restaurant, and the language barrier was really difficult, so I literally just ate a bowl of rice while I waited to get back to the hotel. While the food is so good in China, it's not the best place for gluten free, and other allergies...
 
 Everyone was really hungry so we finished up pretty fast, and then headed back, where I picked up some bubble tea with some friends along the way. Now this bubble tea was legitimately a full meal so I didn't really feel the need to eat much more afterwards. My classic was go-to was the passion-fruit, orange combo, that had a bunch of fruit pieces inside, it was perfect!
 
@@ -242,13 +245,21 @@ We woke up a bit late at around 10, headed down, but then quickly had to finish 
 
 We took a railway back to Nanjing road, and then walked for about 20 minutes, to what seemed like the middle of nowhere. But we had confidence that Acon was bringing us to a really cool spot, so after a little bit longer, we arrived to the hardware mall!
 
+![](Pasted%20image%2020251114164322.png)
+
 This place was pretty cool, it was over 10 floors tall, in the shape of a square, with escalators criss-crossing upwards in the center, and stores dotting the perimeter. Now the actual shops were just so different, they just had like every single component absolutely imaginable. You would have to go sifting through boxes of stuff, that weren't labelled in order to find what you needed.
+
+![](Pasted%20image%2020251114164313.png)
 
 It was really fun to just go exploring, and with enough effort, you'd be able to find anything that you wanted. There were some things that were way cheaper, and some things that were a bit expensive. You could find every cable imaginable for dirt cheap, but then things like motion systems were about the same price as what you'd find in the US, which was actually surprising considering how cheap everything else was.
 
 We played a funny little prank on Acon where we found the box for the newest NVIDIA GPU, and told her we bought it for like $10, but in reality we had just filled it up with some random stuff. This experience was actually just so much fun though, and it inspired me even more to pursue hardware and I actually learned a lot about many different components!
 
+![](Pasted%20image%2020251114164254.png)
+
 We spent a couple hours here and then everyone started to get hungry, so we headed back! We decided to take the railway, and not actually stop back at Nanjing road for food, because everyone wanted to have the vegan food again.
+
+![](Pasted%20image%2020251114164345.png)
 
 This time, we brought even more people though. I think the other organizers could wind of how good and accessible it was for everyone, so Thomas's group was also there! Again, it was just amazing... I got the same tofu dish alongside the juice stuff, and I have absolutely no regrets about it!  This full meal literally costed just a tad over $5 USD, the prices are just amazing!
 
@@ -256,7 +267,12 @@ I also had a really nice chat to one of my friends about EUV lithography, becaus
 
 Anyways, we headed back to the venue, feeling full, and served some more juice to customers and played some games!
 
+![](Pasted%20image%2020251114164522.png)
+
 Lots of people had never actually made a PCB in our group, so Acon decided to host a little workshop for everyone! We were going to make little PCB fidgets that lit up, and hopefully would get enough time to get them manufactured (spoiler we didn't). But I helped people make their first PCB in easyeda, because it's the simplest for beginners, which was kind of fun to do!
+
+![](Pasted%20image%2020251114164638.png)
+![](Pasted%20image%2020251114164631.png)
 
 We were getting hungry though, and I didn't really feel like eating at another KFC with my group, so me and my friends decided to split up from our groups, and grab some hot pot! This was my first time getting hot pot, and one of my favorite meals of the trip!
 
@@ -270,6 +286,11 @@ It was completely abandoned at the gardens, this city really felt dystopian at t
 
 It was a beautiful spot though and I met this really nice kid from Argentina, who was teaching me so much about about his home, and how different it was from my lifestyle. This might've been the most grateful I've been in my life to live where I do, but it was also interesting to see how proud he was of his home, no matter the conflicts. The different perspectives you see on these journeys are just so interesting.
 
+![](Pasted%20image%2020251114164704.png)
+![](Pasted%20image%2020251114164715.png)
+![](Pasted%20image%2020251114164739.png)
+![](Pasted%20image%2020251114165006.png)
+
 We headed back to the hotel though, some of us even got seconds of bubble tea along the way, because it was so cheap and so good. It was really late, but we still decided to mess around a bit more with the bikes, did some karaoke, and just had so much fun. The sun was legitimately starting to rise a bit, and that was our signal to go to sleep.
 
 Now the next day we were going to change things up a bit, we were going to move venue's from Bottle Dream to Spark Labs, which was a lot farther away, so we needed to move hotels too. This meant we were going to have to get up a bit earlier to catch a DiDi to the next venue, so we got like next to no sleep whatsoever...
@@ -282,17 +303,23 @@ We had a really nice breakfast, and it was always really lovely to chat to other
 
 After breakfast, we grouped together in the lobby where the organizers were calling DiDi's for everyone, so me and my sister hopped into one to get to our next hotel! 
 
+![](Pasted%20image%2020251114165120.png)
+
 There's a lot of really interesting things you'll notice when taking a car in China. The first thing is the car itself. Our DiDi's were usually like really high class, they had like luxurious massage chairs, were full black and really high quality (thought I'm sure not all of them were like this). Also the majority of the cars are electric so the roads feel much more quiet even with much more people.
 
 The next thing you'll notice is the roads themselves. They're huge, insanely packed, and the drivers are always really aggressive. You definitely felt like you'd get into an accident sometimes, but you got to your place on time! Some of the intersections also had like 8 roads going into one which was really cool, and way too complex for my head, but you kind of need this sort of thing with so many people.
 
 I initially thought we were at the wrong hotel when we pulled up, because this was fancier than anything I've ever seen. A building the size of the white house, with fountains, arches, long driveways, it was insanely cool, and felt like I was pulling up to the ball!
 
+![](Pasted%20image%2020251114165749.png)
+
 But the inside, absolutely deserted aside from one employee at the desk alongside Thomas who was getting everyone checked in. It was a room the size of my house, with nothing but a desk and a piano in the back corner and we were the first to arrive!
 
 This was about to change as kids were starting to all roll in, so we quickly got checked in, waited for some of our friends who were also checking in and then made our way up to our rooms.
 
 Now I didn't think this place could get any fancier... but it did of course! Real sand art literally lined the sides of the ground in the hallway on every floor, with bamboo sprouting out every couple steps. This hallway was spacious too, like 2 or 3 people with arms spread fully out could probably fit in here.
+
+![](Pasted%20image%2020251114165451.png)
 
 The rooms were also pretty magical, there were doorbells at the front door (yes in a hotel...), and there was a nice bathroom with a fully transparent window covered by a small shade accessible on the OUTSIDE near the shower, so you could see right through which was a bit creepy, but having the shade down, worked decently well (thought you needed lots of trust in your roommates). You also had a little window that didn't open up to a balcony, but instead a smaller, inaccessible room that was filled with plants, which was like half the size of this one, but just unused! It was a really nice room, but had some interesting design choices to say the least...
 
@@ -322,11 +349,13 @@ I wish I got some photo's of these drinks, but they were absolutely gorgeous col
 
 We had overstayed our welcome though, so we headed back to the venue! It wasn't too eventful after this, we showcased our games, fooled around, I got interviewed for a video they were making on the event, and then we went back to the hotel!
 
-We fooled around a bit at the hotel, and then went to sleep, anticipating a really nice final day in China.
+We also had some nice curry for dinner, which was pretty good! We fooled around a bit at the hotel, and then went to sleep! Tomorrow we planned to do mostly sightseeing, and split up from the main group, because it was going to be the last full day!
+
+![](Pasted%20image%2020251114165709.png)
 
 I actually had to leave a day early, because I was going to be playing piano for the retiring Chief of the Defense staff (future kai: it did not go smoothly, and I did fumble some notes), but we weren't missing out on much, because our flight was later in the day and the event was supposed to be wrapped up before we even left for the airport!
 
-Now we decided to absolutely make the most of our last day, we weren't focused on showcasing our games at all, so we decided hop in some DiDi's, ditch everything and head out to a local zoo with our friends!
+Now we decided to absolutely make the most of our full day, we weren't focused on showcasing our games at all, so we grabbed breakfast, hopped in some DiDi's, ditched everything and headed out to a local zoo with our friends!
 
 Now this was the coolest zoo I've ever been to in my life! I can't believe the amount of gems that exist in Shanghai... They had all sorts of cool animals ranging from meter long salamanders, to red panda's, lions, tigers, penguins, everything you can possibly imagine of!
 
@@ -352,9 +381,19 @@ The owners were so friendly and holy smokes, this was some amazing Indian food. 
 
 It was probably actually the most expensive food we had gotten, but I don't think it had even costed us over $10/person USD, so we thanked the owners for the good food and then rolled out of there!
 
-After lunch, we decided that we were all really tired, so we headed back to Spark Labs to just chill and to say my final goodbyes...
+After lunch, we decided that we were all really tired, so we headed back to Spark Labs to just chill, look at more games, and spend some time just meeting people.
 
-My journey in China was coming to an end, so I wanted to spend it with everyone I had met!
+We made these cute little plushies during this time, alongside some other arts and crafts which were really fun to do! It was also Kai Ling's birthday!!! All the staff had bought a bunch of ice-cream and cake so that we could all celebrate together!
+
+It was such a good time, and we were absolutely wiped by the end of today, so we headed to get a good nights sleep.
+
+We woke up pretty early and has some breakfast at the hotel. It was buffet style just like the last hotel, but there was even less I could have, so I just ate fruit and juice, not the most nutritious, but you got to sacrifice to have cool experiences sometimes!
+
+We had to leave in the late afternoon to get to the airport in time, but that still gave us quite a long time to do some stuff.
+
+We didn't plan to actually do any sightseeing, and instead just wanted to spend the time with our friends, and hanging out. We cleaned up the venue a bit because it was also the last day of the event, had some sushi and just kind of waited out the time!
+
+We made these cool little shrinky dinks that I had all the organizers, and staff sign as a momento, and just like that, my journey in China was coming to an end!
 
 Shanghai was an absolutely pivotal moment for me, it's not just the place, but the experiences that I gained meeting people from around the world, having deep conversations and even fooling around. One thing I would say is that life just isn't that serious, like mess around, be a little bit irresponsible and don't be too hard on yourself. Just seek out cool experiences and get out of your comfort zone a little bit!
 
