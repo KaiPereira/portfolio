@@ -327,11 +327,23 @@ Me and my sister then went over to our friends room, where they had set up Rocke
 
 The walk to Spark Labs was significantly longer than Bottle Dream. Some people decided to actually take some bikes to get there, because they just lined the streets in the hundreds, and you could simply tap to pay. A really funny experience was when our friend who was just learning to bike, accidentally crossed the ENTIRETY of an intersection, DIAGONALLY on his BIKE, not realizing the street rules, and got honked at in every single direction...
 
+![](Pasted%20image%2020251114171755.png)
+
+![](Pasted%20image%2020251114172343.png)
+![](Pasted%20image%2020251114172403.png)
+
+*Some nice photo's of the route*
+
 This area was kind of known as a high-tech area in China so everything was really modern, but it was also much hotter. I'm talking like 40 degree's, so the 25 minute walk to the venue was not that pleasant.
 
 Spark Labs was significantly different from Bottle Dream. It was set in the middle of this high-tech park area, whilst Bottle Dream was in a little alleyway, so this venue was going to be a great location to get customers at!
 
 I loved Spark Labs, it was this little air conditioned, circular, modern building, filled with windows letting the light in, but there wasn't too much space to setup a kitchen and whatnot (just don't tell health and food safety!), but we made it work anyways.
+
+![](Pasted%20image%2020251114172515.png)
+![](Pasted%20image%2020251114173609.png)
+![](Pasted%20image%2020251114172524.png)
+![](Pasted%20image%2020251114172102.png)
 
 It was getting near to lunch time though... the organizers had decided to get Subway of all takeout for the entire group, but the problem is, I can't eat Subway, nor can vegans eat it, so we needed to find some different food options!
 
@@ -342,6 +354,8 @@ Now maps was showing up that there were a bunch of food places in the middle of 
 Just as we thought all hope was lost, we saw an absolutely GIGANTIC hole in the literal ground beneath us, that just opened up with escalators going down to who knows where. This was our last chance to find some good food, so we just trusted going down it blindly, because it was this modern little area that looked like it could contain some food.
 
 I kid you not, we descended into the largest mall on the planet... It was like 8 floors tall, with every single place imaginable, and had quite a few people bustling around, we could not believe it. We were starving and immediately found a pho and dumpling place so we split up to the two places and had some lunch. This food was sooooo delicious, and it's incredible how you can just find these hidden gems just randomly in China, and this was such a common occurrence and one of the things I love about Shanghai!
+
+![](Pasted%20image%2020251114173526.png)
 
 We absolutely demolished our food, and then decided to split up, because me and my sister want ed to keep exploring, while our friends wanted to head back. So we continued checking out the mall, it was insanely cool, and the largest one I've been in by far! I really wanted to get a drink, so I found this sweet looking spot, and got this mango, pomelo drink which was to DIE for.
 
@@ -384,6 +398,8 @@ It was probably actually the most expensive food we had gotten, but I don't thin
 After lunch, we decided that we were all really tired, so we headed back to Spark Labs to just chill, look at more games, and spend some time just meeting people.
 
 We made these cute little plushies during this time, alongside some other arts and crafts which were really fun to do! It was also Kai Ling's birthday!!! All the staff had bought a bunch of ice-cream and cake so that we could all celebrate together!
+
+![](Pasted%20image%2020251114172309.png)
 
 It was such a good time, and we were absolutely wiped by the end of today, so we headed to get a good nights sleep.
 
