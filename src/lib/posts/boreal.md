@@ -7,7 +7,7 @@ description: "The summer of 2024, I was invited to an 8 day cross-country hackat
 
 In the summer of 2024, I had the opportunity to attend one of the coolest hackathons that's ever happened, the [Boreal Express](https://www.youtube.com/watch?v=hiG3fYq3xUU)...
 
-![Pasted image 20250829002450.png](/images/Pasted%20image%2020250829002450.png)
+![Pasted image 20250829002450.jpg](/images/boreal/Pasted%20image%2020250829002450.jpg)
 
 Now this wasn't any ordinary hackathon, this was a cross-country journey on a train, where you got to meet some of the coolest highschool hackers from around the world and build projects without any wifi, just the help of others.
 
@@ -17,7 +17,7 @@ A couple months before Boreal was going to happen, I was perusing the internet f
 
 Hackclub runs some of the coolest events for high schoolers like [Apocalypse](https://apocalypse.hackclub.com/), a zombie themed hackathon in Toronto, to events like Arcade, where you work on projects and redeem hours for free stuff like hardware. They're literally the coolest organization on the planet run by the coolest hackers.
 
-![](/images/Pasted%20image%2020250829155338.png)
+![](/images/boreal/Pasted%20image%2020250829155338.jpg)
 
 The Boreal Express was an invite-only hackathon, you had to submit projects to get accepted, similar to Hack the North and other hackathons, but on a smaller scale. Now around this time, I hadn't actually have made too many projects aside from some small apps and stuff that never really got anywhere, but I did have this one hackathon project I build for a 12h local hackathon that got #1 so it was really my one shot at getting an invite to the Boreal Express...
 
@@ -33,14 +33,14 @@ The entire group was set to meet on Jericho beach at sunset, and I got to meet l
 
 I was pretty shy initially because most of the programmers know each other online, but I wasn't too active in the community around this time, but we all shared a lot in common, so it wasn't too hard to meet some new people and I chatted to some people about radio's, hardware, server and just generally interesting stuff!
 
-![Pasted image 20250828225424.png](/images/Pasted%20image%2020250828225424.png)
+![Pasted image 20250828225424.jpg](/images/boreal/Pasted%20image%2020250828225424.jpg)
 
 
 My first in-depth chat with someone was this kid who I talked to about radio's and airsoft. I was really fascinated about his ham radio because it was like this completely separate thing that only a select few people knew about, and it felt like this really kind community. So we played a couple pranks on the radio on some of the local FM channels, which was fun.
 
 Learning from this experience, I think it's incredibly important to just have deep conversations with people. You learn such an insane amount and form incredibly strong connections with those people, I wish I talked a bit more to others but I still learned a lot nonetheless.
 
-![Pasted image 20250828221741.png](/images/Pasted%20image%2020250828221741.png)
+![Pasted image 20250828221741.jpg](/images/boreal/Pasted%20image%2020250828221741.jpg)
 
 After the sunset, we fooled around on the beach, had some Poke, tried to set off some fireworks (but the police were faster), and all huddled around to finish the night off with our own [Boreal song](https://www.youtube.com/watch?v=mKQDGMpJNws) from [Woody and his group](https://woodykeppel.com/) (you'll hear more about them soon, they're very interesting people). 
 
@@ -48,7 +48,7 @@ We met back at a little hostel right by the beach, and I clonked out for the nig
 
 It's always good to have a laid back attitude during events like these, it's fine to be a bit irresponsible for a couple of days and have some fun, and it's something I really learned during this event, that *life isn't that serious*.
 
-![Pasted image 20250828225849.png](/images/Pasted%20image%2020250828225849.png)
+![Pasted image 20250828225849.jpg](/images/boreal/Pasted%20image%2020250828225849.jpg)
 
 ## All aboard!
 
@@ -58,26 +58,26 @@ We all got these cool yellow buffs that said "VIA rail" and "hackclub" on them, 
 
 I didn't bring anything like lots of the others, but in the future, I'll probably bring stickers to all the events I go too, because getting/giving free stuff is amazing :D
 
-![Pasted image 20250828224618.png](/images/Pasted%20image%2020250828224618.png)
-![Pasted image 20250828230733.png](/images/Pasted%20image%2020250828230733.png)
+![Pasted image 20250828224618.jpg](/images/boreal/Pasted%20image%2020250828224618.jpg)
+![Pasted image 20250828230733.jpg](/images/boreal/Pasted%20image%2020250828230733.jpg)
 
 After arriving, the organizers held the opening ceremony where we got to hear some talks from government ministers, the VIA rail higher-ups and of course from the organizers Deven, Zach, Christina and others. There were so many people, it was hard to know who was who, and I wished I talked to more of them because they seemed like really interesting people.
 
 Most of the people had arrived for the hackathon by now, so there were LOTS more people and the room was nearly packed! There were hackers from Greece, Australia, the US, germany, literally EVERYWHERE, it was really amazing!
 
-![Pasted image 20250828224701.png](/images/Pasted%20image%2020250828224701.png)
-![Pasted image 20250828224847.png](/images/Pasted%20image%2020250828224847.png)
+![Pasted image 20250828224701.jpg](/images/boreal/Pasted%20image%2020250828224701.jpg)
+![Pasted image 20250828224847.jpg](/images/boreal/Pasted%20image%2020250828224847.jpg)
 
 We then went out to science world for lunch, where we had kind of like an information presentation for the train, and then we all fooled around at the playground. It must've been very interesting seeing 50 kids all with "hackclub" yellow buffs running around like maniacs, but it's all part of the fun! 
 
 I had also forgotten to pack my passport though, so I met up with one of my family members who brought me my passport. Luckily they were going to a day trip in Vancouver, and thank goodness I noticed, because if I didn't have it, I would've had lots of trouble flying back to Vancouver from Montreal!
 
-![Pasted image 20250828225130.png](/images/Pasted%20image%2020250828225130.png)
+![Pasted image 20250828225130.jpg](/images/boreal/Pasted%20image%2020250828225130.jpg)
 
 We then headed back to the VIA rail station to begin our journey... We all hopped into a group photo, and then we made our way to our train and finally departed. 
 
 I was pretty adrenaline rushed and pretty excited so it was all like a blur... This was my first time doing something like this (aside from some smaller local hackathons) and every single small part was just really transformative, it's the kind of thing I want to do for the rest of my life!
-![Pasted image 20250828225333.png](/images/Pasted%20image%2020250828225333.png)
+![Pasted image 20250828225333.jpg](/images/boreal/Pasted%20image%2020250828225333.jpg)
 
 On board, we were presented with our rooms, and then toured around the train a bit to get used to the different rooms, and then the train left on it's merry way. 
 
@@ -85,7 +85,7 @@ The VIA rail train was still open to the public, but we had pretty much the enti
 
 The entire train ride was just so magical and beautiful it's hard to describe, you're just passing through nature with nothing to disturb the atmosphere aside from some remote buildings you find here and there.
 
-![Pasted image 20250828233427.png](/images/Pasted%20image%2020250828233427.png)
+![Pasted image 20250828233427.jpg](/images/boreal/Pasted%20image%2020250828233427.jpg)
 
 On board the train, there were also **350 cans of celsius to promote all-nighters**. 
 
@@ -93,7 +93,7 @@ Growing up, I was taught to be responsible and sleep at reasonable hours, so not
 
 This was also a huge independence jump for me, I'm still pretty young and haven't really done much by myself, so it gave me lots of confidence doing an event like this.
 
-![Pasted image 20250828234556.png](/images/Pasted%20image%2020250828234556.png)
+![Pasted image 20250828234556.jpg](/images/boreal/Pasted%20image%2020250828234556.jpg)
 
 The Boreal Express also had this really cool server setup by [Alex Park](https://github.com/alx-alexpark) where we could all share files and host stuff to be eternalized for a long time. 
 
@@ -103,25 +103,25 @@ All of us had setup our own tailscale accounts and gotten used to the server bef
 
 The server also introduced me to the terminal. Yes... I had barely touched the terminal before the Boreal Express, and this idea that you could interact with servers and stuff really changed how I looked at programming and will definitely inspire me to grow away from just building websites and apps.
 
-![Pasted image 20250828234612.png](/images/Pasted%20image%2020250828234612.png)
+![Pasted image 20250828234612.jpg](/images/boreal/Pasted%20image%2020250828234612.jpg)
 
 The meals were also **amazing** on the train. I have many allergies and they were able to accommodate lots of stuff for me, and we were served like 3 course meals with lamb chops and just generally amazing food.
 
 There were also snacks onboard that you could grab anytime, refreshments and stuff too, is was pretty sweet and the whole vibe was just really energetic and hackey, it's the kind of vibe I want to live with for the rest of my life...
 
-![Pasted image 20250828234858.png](/images/Pasted%20image%2020250828234858.png)
+![Pasted image 20250828234858.jpg](/images/boreal/Pasted%20image%2020250828234858.jpg)
 
 Being on the Boreal and seeing all the landscape around us was beautiful :D
 
 I live in Canada, but I never really got the opportunity to see the more remote area's only accessible by train, and it was so eye-opening to see what lies beyond large metropolitan area's. I really want to try and do more exploring after seeing this, it was just unbelievable!
 
-![Pasted image 20250829002642.png](/images/Pasted%20image%2020250829002642.png)
+![Pasted image 20250829002642.jpg](/images/boreal/Pasted%20image%2020250829002642.jpg)
 
 Now today I didn't actually do any programming, I was meeting new people, getting a feel for the train and participating in all the activities, but the programming grind will commence soon. 
 
 Now before we went to sleep, we actually crossed through a bunch of wildfires happening around, it's a pretty common thing in Canada to get wild fires during the summer, but it was still pretty scary and *hopefully it won't affect our journey later*.
 
-![Pasted image 20250829003156.png](/images/Pasted%20image%2020250829003156.png)
+![Pasted image 20250829003156.jpg](/images/boreal/Pasted%20image%2020250829003156.jpg)
 
 Anyways, it was time to get a good nights rest, so I clocked out for the night in our room awaiting whatever will happen next in our journey aboard the Boreal. I still really wish that I had slept less, but it's something I'll carry with myself to whatever adventure awaits me next.
 
@@ -131,7 +131,7 @@ I had a pretty nice sleep and woke up to one of the most surreal landscapes I ha
 
 I didn't think Canada had desert-like landscapes like this... I forgot to capture the moments in this area, but there is this photo of the train like slowly entering the terrain, but it was just completely deserted with literal cacti and spewed with what looked like huts and mines, insanely cool.
 
-![Pasted image 20250829004820.png](/images/Pasted%20image%2020250829004820.png)
+![Pasted image 20250829004820.jpg](/images/boreal/Pasted%20image%2020250829004820.jpg)
 
 I had a nice breakfast with some of the friends I met on the train, and then it was time to get to programming. Now we were allowed to pretty much build whatever we want, but we were encouraged to do something related to the outdoors/journey or something related to the server.
 
@@ -143,13 +143,13 @@ I love making interactive projects where people can like do something and have f
 
 Some fun events were also happening on the train though. We needed to set up decorations and stuff so we put up some lights that people had brought and added some other things to make it feel more homey.
 
-![Pasted image 20250829005617.png](/images/Pasted%20image%2020250829005617.png)
+![Pasted image 20250829005617.jpg](/images/boreal/Pasted%20image%2020250829005617.jpg)
 
 Another thing that happened was one of the co-organizers [Zoya](https://github.com/zoya-hussain), setup a mini barista kitchen and made drinks for everyone which was pretty sweet! 
 
 I got a shirley temple and this experience taught me how valuable it is to make others feel appreciated, so if I ever run an event in the future, I really want to focus on quality and not quantity.
 
-![Pasted image 20250829005944.png](/images/Pasted%20image%2020250829005944.png)
+![Pasted image 20250829005944.jpg](/images/boreal/Pasted%20image%2020250829005944.jpg)
 
 There were also people running workshops and lightning-talks. Lightning talks are basically like mini stories that people share about something cool that happened in their life.
 
@@ -169,7 +169,7 @@ So we traveled back to the station, and then ended off the night with some karao
 
 I stuck to my comfort zone during this project, and just made the bore-ad service with nextjs and json files as a database, but I really wish that I made a project with someone experienced in completely different technologies, so that's something I'm definitely going to have to do in the future!
 
-![](/images/Pasted%20image%2020250829161614.png)
+![](/images/boreal/Pasted%20image%2020250829161614.jpg)
 
 ## Vancouver Shenanigans
 
@@ -177,13 +177,13 @@ When I woke up, the train had parked right back at the station, but this still w
 
 We also took a visit to check out Vancouver and stretch out our legs a bit! I was in Cara's group who did lots of the infra for the train, so it was interesting to learn about some server stuff from them. We went to this kind of Japanese hybrid restaurant which was pretty good and checked out some of the parks and stuff in Vancouver. We did accidentally get onto East Hastings though, which is one of the worst streets in Vancouver for crime, but we got out pretty fast. *Whoopsies*
 
-![](/images/Pasted%20image%2020250829162045.png)
+![](/images/boreal/Pasted%20image%2020250829162045.jpg)
 
 We got back and then I had a really nice talk with [Woody](https://woodykeppel.com/), who's a performer, comedian, musician, literally everything. He was probably the most interesting person I talked to, has had the opportunity to join Cirque de Soleil, actively performs and did all the live music during the train ride.
 
 They really brought the vibe to the train and it wouldn't have been the same without him and his group, "Waldo & Woodhead". They also wrote this song just for the train journey, ["our time"](https://www.youtube.com/watch?v=mKQDGMpJNws) :D
 
-![](/images/Pasted%20image%2020250829162437.png)
+![](/images/boreal/Pasted%20image%2020250829162437.jpg)
 
 Then after dinner, we all grinded our project until we couldn't stay awake anymore... My sleep tolerance hadn't really developed by now, so 3am was kinda my max... definitely going to have to start training for all-nighters!
 
@@ -203,11 +203,11 @@ We all woke up pretty early, I had barely slept because I was trying to finish m
 
 Hackclub does a slightly different hackathon style, it's more for the experience instead of just prizes, so you basically like go around in a circle and everyone showcases each others projects. You learn a lot doing this kind of style and it's pretty cool! 
 
-![](/images/Pasted%20image%2020250829183040.png)
+![](/images/boreal/Pasted%20image%2020250829183040.jpg)
 
 My favorite project in the showcase was from [Kevin](https://github.com/kevinjosethomas), a really smart programmer who made this wildfire tracker and **prediction**, which was really cool because it was inspired from seeing the wildfires on our journey.
 
-![](/images/Pasted%20image%2020250829164404.png)
+![](/images/boreal/Pasted%20image%2020250829164404.jpg)
 
 After showcasing each others projects, we went to our closing ceremony, where we all thanked the organizers for Boreal, VIA rail and everyone else who helped make this magical!
 
@@ -215,22 +215,22 @@ But there was still one surprise left in store... It turns out that one of the o
 
 So we all piled into a giant bus and headed over to Linus Tech Tips's studio!
 
-![](/images/Pasted%20image%2020250829164850.png)
+![](/images/boreal/Pasted%20image%2020250829164850.jpg)
 
 It was really cool to see how Linus operated. They had like a plethora of different buildings on the property for different things like studio shoots, podcasts, merch, everything imaginable.
 
 We also got to talk with Linus and take some photo's with him which was pretty sweet, and the staff gave us a full tour of the entire premise.
 
-![](/images/Pasted%20image%2020250829165105.png)
-![](/images/Pasted%20image%2020250829165130.png)
-![](/images/Pasted%20image%2020250829165140.png)
-![](/images/Pasted%20image%2020250829165152.png)![](/images/Pasted%20image%2020250829165215.png)
-![](/images/Pasted%20image%2020250829165408.png)
-![](/images/Pasted%20image%2020250829182641.png)
+![](/images/boreal/Pasted%20image%2020250829165105.jpg)
+![](/images/boreal/Pasted%20image%2020250829165130.jpg)
+![](/images/boreal/Pasted%20image%2020250829165140.jpg)
+![](/images/boreal/Pasted%20image%2020250829165152.jpg)![](/images/boreal/Pasted%20image%2020250829165215.jpg)
+![](/images/boreal/Pasted%20image%2020250829165408.jpg)
+![](/images/boreal/Pasted%20image%2020250829182641.jpg)
 
 One of Linus's employee's even gave me a bread plushie which was pretty sweet! They were all really nice people, and it was extremely memorable for me. After visiting it and seeing all the cool hardware, I also want to start working on more physical projects instead of just hardware...
 
-![](/images/Pasted%20image%2020250829165723.png)
+![](/images/boreal/Pasted%20image%2020250829165723.jpg)
 
 *My beloved bread...*
 
@@ -240,7 +240,7 @@ And just like that, we went back on the bus to return to the VIA station. We all
 
 Most of the people were smarter than me, but I'm trying to learn as much as I can, so all these little experiences really added up in me.
 
-![](/images/Pasted%20image%2020250829182936.png)
+![](/images/boreal/Pasted%20image%2020250829182936.jpg)
 
 ## Closing Thoughts
 
