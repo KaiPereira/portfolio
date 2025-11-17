@@ -89,11 +89,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b1453d253dc6a8a7",
@@ -187,8 +189,9 @@
   },
   "active": "012416cd8af1b0d0",
   "lastOpenFiles": [
-    "boreal.md~",
+    "Pasted image 20251114123406.jpg",
     "juice.md~",
+    "boreal.md~",
     "Pasted image 20251114215029.png",
     "Pasted image 20251114214954.png",
     "Pasted image 20251114214138.png",
@@ -209,7 +212,6 @@
     "home/kai/projects/software",
     "home/kai/projects",
     "home/kai",
-    "home",
     "boreal.md",
     "build-a-devboard.md",
     "china.md",
