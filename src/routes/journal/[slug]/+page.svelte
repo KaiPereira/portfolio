@@ -10,5 +10,11 @@
 	<meta property="og:description" content={post.metadata.description} />
 </svelte:head>
 
-<a href="/journal">[Back to my Journal]</a>
-<div class="markdown">{@html data.post.content}</div>
+<a href="/journal">[back to my journal]</a>
+
+{#if post.isMain}
+	<h1>{post.metadata.title}</h1>
+	<p>{post.metadata.description}</p>
+{/if}
+
+<div class="markdown">{@html post.content}</div>
