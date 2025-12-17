@@ -1,15 +1,18 @@
 import matter from "gray-matter";
 import { marked } from "marked";
 
-const files = import.meta.glob("/src/lib/posts/*.md", { eager: true, as: "raw" });
+const files = import.meta.glob("/src/lib/posts/**/*.md", { eager: true, as: "raw" });
 
 function parseMarkdown(raw, filepath) {
 	const { data, content } = matter(raw);
+	const filepathArray = filepath.split("/");
+	const isSeries = filepathArray[filepathArray.length - 1] == "main.md";
 
 	return {
-		slug: filepath.split("/").pop().replace(".md", ""),
+		slug: isSeries ? filepathArray[filepathArray.length - 2] : filepathArray[filepathArray.length - 1].replace(".md", ""),
 		metadata: data,
-		content: marked(content)
+		content: marked(content),
+		isSeries: isSeries
 	};
 }
 
