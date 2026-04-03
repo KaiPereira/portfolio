@@ -18,18 +18,17 @@ function parseMarkdown(raw, filepath) {
 		isMain,
 		slug: isMain ? folder : filename.replace(".md", ""),
 		metadata: data,
-		content: marked(content)
+		content: marked(content),
+		disabled: data.disabled
 	};
 }
 
 const posts = Object.entries(files).map(([path, raw]) => parseMarkdown(raw, path));
 
 export function getAllPosts() {
-	console.log(posts);
-
-	return posts.sort(
-		(a, b) => new Date(b.metadata.date) - new Date(a.metadata.date)
-	);
+	return posts
+		.filter(post => !post.disabled)
+		.sort((a, b) => new Date(b.metadata.date) - new Date(a.metadata.date));
 }
 
 export function getPostBySlug(slug) {
