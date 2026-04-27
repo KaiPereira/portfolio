@@ -354,7 +354,7 @@ I'm going to switch to the MCP1700 LDO, which is smaller, but does handle less c
 
 ![Pasted image 20250929111310.png](/images/devboard/Pasted%20image%2020250929111310.png)
 
-And then, we're going to change the flash memory to what the Pi Pico uses and has a slightly smaller package, which is the **W25Q16JVZPIQ TR** and uses the **Package_SON:Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm** footprint, so switch the footprint to that new one!
+And then, we're going to change the flash memory to what the Pi Pico uses and has a slightly smaller package, which is the **W25Q16JVUXIQ TR** and uses the **Package_SON:Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm** footprint, so switch the footprint to that new one!
 
 ![Pasted image 20250929112550.png](/images/devboard/Pasted%20image%2020250929112550.png)
 
