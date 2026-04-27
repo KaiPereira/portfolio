@@ -2,6 +2,11 @@
 	export let data;
 </script>
 
+<svelte:head>
+	<title>Journal - My Life Experiences and Projects</title>
+	<meta name="description" content="This is a recollection of cool experiences I've had in my life, random stuff I find interesting, and projects I've made!" />
+</svelte:head>
+
 <h1>My Journal</h1>
 <a href="/">[Back to my Homepage]</a>
 <p>I love writing about my experiences meeting new people and projects I'm working on, so here you can learn more about what I'm making and my life! - Kai</p>
