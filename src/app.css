@@ -7,6 +7,11 @@
 	--color-main: #303030;
 }
 
+@font-face {
+	font-family: "newsreader";
+	src: url('/fonts/newsreader_regular_font.ttf'), url('/fonts/newsreader_italic_font.ttf');
+}
+
 .markdown img {
 	@apply mt-4 max-w-full h-auto block mx-auto;
 	max-height: 60vh; /* cap super tall images */
@@ -17,6 +22,7 @@ body {
 	line-height: 1.6;
 	font-size: 18px;
 	color: #303030;
+	font-family: "newsreader";
 }
 
 img {
