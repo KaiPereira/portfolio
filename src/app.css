@@ -4,7 +4,7 @@
 @import "tailwindcss/utilities.css" layer(utilities);
 
 @theme {
-	--color-main: #333;
+	--color-main: #303030;
 }
 
 .markdown img {
@@ -16,7 +16,7 @@
 body {
 	line-height: 1.6;
 	font-size: 18px;
-	color: #333;
+	color: #303030;
 }
 
 img {
