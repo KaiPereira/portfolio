@@ -20,9 +20,21 @@
 
 body {
 	line-height: 1.6;
-	font-size: 18px;
+	font-size: 1.3rem;
 	color: #303030;
 	font-family: "newsreader";
+}
+
+p {
+	margin: 0 0 1.75rem;
+}
+
+h4 {
+	margin: 0 0 0.5rem;
+}
+
+ul {
+	margin: 0 0 1.75rem;
 }
 
 img {
@@ -32,6 +44,13 @@ img {
 a {
 	color: #3800b5;
 	transition: 0.25s;
+}
+
+code {
+	font-size: 1rem;
+	background-color: #f2f2f2;
+	padding: 0.1rem 0.2rem;
+	border-radius: 0.3rem;
 }
 
 a:hover {
