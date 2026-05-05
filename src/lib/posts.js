@@ -1,6 +1,14 @@
 import matter from "gray-matter";
 import { marked } from "marked";
 
+const renderer = new marked.Renderer();
+
+renderer.image = ({href, title, text}) => {
+	return `<img loading="lazy" src="${href}" alt="${text || ""}" ${title ? ` title="${title}"` : ""}>`;
+};
+
+marked.setOptions({ renderer });
+
 const files = import.meta.glob("/src/lib/posts/**/*.md", { eager: true, as: "raw" });
 
 function parseMarkdown(raw, filepath) {
