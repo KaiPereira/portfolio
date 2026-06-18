@@ -14,7 +14,7 @@
 {#each data.posts as post}
 	<div>
 		<div class="flex gap-4 items-center mb-2">
-			<h2 class="m-0 text-2xl"><a href={`/journal/${post.slug}`} class="!text-main no-hover">{post.metadata.title}</a></h2>
+			<h2 class="m-0 text-xl"><a href={`/journal/${post.slug}`} class="!text-main no-hover">{post.metadata.title}</a></h2>
 			<p class="!m-4 text-sm">{post.metadata.date}</p>
 		</div>
 		<p class="mt-0">{post.metadata.description}</p>
