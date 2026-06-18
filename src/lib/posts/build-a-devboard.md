@@ -627,12 +627,13 @@ Now if you want to stick around, we're going to go through assembling your PCB, 
 
 Now if you've decided to take the VERY FUN ROUTE of hand soldering your devboard, I'll continue with a small tutorial on how to do so!
 
-Now hand soldering is mildly difficult, and takes quite a bit of time, but you'll learn invaluable skills lots of other people don't learn, and also earn a lot of tickets while you're at it :D
+Now hand soldering is mildly difficult, and takes quite a bit of time, but you'll learn invaluable skills lots of other people don't learn :D
 
 So the first step is buying all your components for hand soldering! Everything can just be bought on LCSC, and I'd suggest buying a couple extra components of each thing, just in case you accidentally mess up/break components!
 
 You'll also want to have a couple other key components:
 - Flux paste (not solder paste), this helps the solder bond to the pads of your board, helping to fix mistakes and is crucial. This will come in a little syringe container, and looks white/yellow depending on where you get it from (solder paste, which you don't want usually look gray!
+- Hot plate or hot air, there's a thermal pad on the bottom of the RP2040 which is inaccessible with just an iron
 - Fine tip soldering iron, this makes soldering in really tight spots so much easier, most tips are usually fine enough, but you just don't want like a super wide one.
 - Solder, usually smaller solder is usually more convenient, but it's honestly fine to use larger
 - Fine tip tweezers, I honestly wish mine were finer, but I'd suggest trying to find the smallest fine tip tweezers in your house that aren't ribbed/textured at the end
