@@ -5,13 +5,15 @@ const SITE_URL = "https://kaipereira.com";
 export async function GET() {
 	const posts = getAllPosts();
 
+	console.log(posts);
+
 	const pages = [
 		{ loc: `${SITE_URL}/`, priority: 1.0 },
 		{ loc: `${SITE_URL}/journal`, priority: 0.8 },
 
 		...posts.map((post) => ({
 			loc: `${SITE_URL}/journal/${post.slug}`,
-			lastmod: new Date(post.metadata.date).toISOString(),
+			lastmod: post.metadata.date ? new Date(post.metadata.date).toISOString() : null,
 			priority: 0.7
 		}))
 	];

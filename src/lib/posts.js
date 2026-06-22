@@ -19,6 +19,8 @@ function parseMarkdown(raw, filepath) {
 
 	const isMain = filename === "main.md";
 
+	console.log(data);
+
 	return {
 		filepath,
 		filename,
@@ -26,8 +28,7 @@ function parseMarkdown(raw, filepath) {
 		isMain,
 		slug: isMain ? folder : filename.replace(".md", ""),
 		metadata: data,
-		content: marked(content),
-		disabled: data.disabled
+		content: marked(content)
 	};
 }
 
@@ -35,7 +36,7 @@ const posts = Object.entries(files).map(([path, raw]) => parseMarkdown(raw, path
 
 export function getAllPosts() {
 	return posts
-		.filter(post => !post.disabled)
+		.filter(post => !post.metadata.disabled && post.metadata.date && post.metadata.title)
 		.sort((a, b) => new Date(b.metadata.date) - new Date(a.metadata.date));
 }
 
