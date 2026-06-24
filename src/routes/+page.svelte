@@ -1,6 +1,20 @@
 <script>
 	export let data;
+
+	const jsonLd = JSON.stringify({
+		"@context": "https://schema.org",
+		"@type": "Person",
+		"name": "Kai Pereira",
+		"url": "https://kaipereira.com",
+		"sameAs": [
+			"https://github.com/KaiPereira"
+		]
+	});
 </script>
+
+<svelte:head>
+	{@html `<script type="application/ld+json">${jsonLd}</script>`}
+</svelte:head>
 
 <main>
 	{@html data.readmeHtml}
