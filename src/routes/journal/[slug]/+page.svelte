@@ -1,6 +1,21 @@
 <script>
 	export let data;
 	const { post } = data;
+
+	$: jsonLd = JSON.stringify({
+		"@context": "https://schema.org",
+		"@type": "BlogPosting",
+		"headline": post.metadata.title,
+		"datePublished": post.metadata.date,
+		"dateModified": post.metadata.date,
+		"url": `https://kaipereira.com/journal/${post.slug}`,
+		"description": post.metadata.description,
+		"author": {
+			"@type": "Person",
+			"name": "Kai Pereira",
+			"url": "https://kaipereira.com"
+		}
+	});
 </script>
 
 <svelte:head>
@@ -8,6 +23,7 @@
 	<meta name="description" content={post.metadata.description} />
 	<meta property="og:title" content={post.metadata.title} />
 	<meta property="og:description" content={post.metadata.description} />
+	{@html `<script type="application/ld+json">${jsonLd}</script>`}
 </svelte:head>
 
 <a href="/journal">[back to my journal]</a>
@@ -22,7 +38,7 @@
 		<p>Visible</p><p>•</p>
 		<p>Ultraviolet</p><p>•</p>
 		<p>X-Rays</p><p>•</p>
-		<p>Gamme Rays</p>
+		<p>Gamma Rays</p>
 	</div>
 {/if}
 
