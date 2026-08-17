@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b358db46c7d7a51d",
+        "id": "930b6d17bf27f288",
         "type": "tabs",
         "children": [
           {
-            "id": "8d2ee39c2fb7a22a",
+            "id": "fee1ae6e30ee2365",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "vermont.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "vermont"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -65,13 +71,15 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,17 +165,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:Create new base": false
     }
   },
-  "active": "8d2ee39c2fb7a22a",
+  "active": "fee1ae6e30ee2365",
   "lastOpenFiles": [
     "boreal.md",
     "juice.md",
