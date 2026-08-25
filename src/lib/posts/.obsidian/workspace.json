@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RF.md",
+                "file": "vermont.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RF"
+              "title": "vermont"
             }
           }
         ],
@@ -192,9 +192,9 @@
   },
   "active": "4fd5093ee23804ed",
   "lastOpenFiles": [
+    "RF.md",
     "juice.md",
     "RF.md~",
-    "RF.md",
     "vermont.md",
     "boreal.md",
     "Pasted image 20251114123406.jpg",
