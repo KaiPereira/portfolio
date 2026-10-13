@@ -8,7 +8,7 @@ disabled: false
 
 ![](/images/midi-keypad/Pasted%20image%2020261013004957.png)
 
-Ever wanted to cook up and mix your own beats while simultaneously learning PCB design! Well look no further because your [local Kai](https://github.com/KaiPereira) is about to show you how to make our own custom MIDI keyboard completely from scratch.
+Ever wanted to cook up and mix your own beats while simultaneously learning PCB design? Well look no further because your [local Kai](https://github.com/KaiPereira) is about to show you how to make your own custom MIDI keypad completely from scratch.
 
 Now this is YOUR MIDI device, so please use this tutorial as a loose guide and come up with your own custom layout and features to make it awesome; go crazy!! 
 
@@ -90,7 +90,7 @@ If you want to make part of your MIDI keypad have nice keyboard switches, we can
 
 ![](/images/midi-keypad/Pasted%20image%2020261013021554.png)
 
-*Note that RX and TX on the Waveshare MCU can be reprogrammed in your firmware to just be normal GPIO pins so they're fine to use for your switches and any other component except the capacitive touch keys which need specials IOs.*
+*Note that RX and TX on the Waveshare MCU can be reprogrammed in your firmware to just be normal GPIO pins so they're fine to use for your switches and any other component except the capacitive touch keys which need special IOs.*
 
 ![](/images/midi-keypad/Pasted%20image%2020261010201046.png)
 
@@ -106,7 +106,9 @@ It's pretty easy to wire, it's just 2 IO pins for each direction of the pin and 
 
 #### Bourns Slide Potentiometer
 
-The Bourns slide potentiometers is a large slider you can add to your PCB. You can just wire pins 1 and 3 to ground and +3V3 respectively, and then wire pin 2 to an IO to detect it's state and then the mounting pins can just be grounded. 
+The Bourns slide potentiometer is a large slider you can add to your PCB. You can just wire pins 1 and 3 to ground and +3V3 respectively, and then wire pin 2 to an analog IO to detect its state and then the mounting pins can just be grounded. 
+
+*Your slider needs to be wired up to an analog capable pin on your MCU, so check the pinouts  on your MCU again and make sure the pin is ADC capable*
 
 ![](/images/midi-keypad/Pasted%20image%2020261013014910.png)
 
@@ -159,11 +161,11 @@ So go to your right hand toolbar, and add a pad:
 
 ![](/images/midi-keypad/Pasted%20image%2020261009213312.png)
 
-Tap your pad, and then tap "e" to bring up all of it's properties. This is where you can customize your pads to look whoever you want but you need to do 2 things first:
+Tap your pad, and then tap "e" to bring up all of its properties. This is where you can customize your pads to look however you want but you need to do 2 things first:
 - Set your pad type to SMD which removes that hole in the pad
 - Uncheck the F.Paste layer, which is if you get automated PCB assembly or buy a stencil, which prevents the pads from having solder applied to them
 
-Then set the pad number to 1 for the first this, this just maps pin 1 on the symbol, to this pad of the footprint, so if you have 7 keys we'll be adding 7 pads labelled 1 through 7.
+Then set the pad number to 1 for the first pad, this just maps pin 1 on the symbol, to this pad of the footprint, so if you have 7 keys we'll be adding 7 pads labelled 1 through 7.
 
 ![](/images/midi-keypad/Pasted%20image%2020261010001656.png)
 
@@ -173,7 +175,7 @@ I'd also suggest iterating over your footprint if it doesn't fit your PCB nicely
 
 ![](/images/midi-keypad/Pasted%20image%2020261010192049.png)
 
-You should also add a courtyard, which just prevents you from putting components physically on-top of your footprint, but if you're careful, you don't necessarily need it, but I'd highly suggest have one: You can add one by tapping the F.Courtyard layer and then drawing something onto it.
+You should also add a courtyard, which just prevents you from putting components physically on-top of your footprint, but if you're careful, you don't necessarily need it, but I'd highly suggest having one: You can add one by tapping the F.Courtyard layer and then drawing something onto it.
 
 *The courtyard is the pink boundary around the footprint*
 
@@ -197,9 +199,9 @@ Now the first thing you want to do on your PCB is nicely lay out your components
 
 ![](/images/midi-keypad/Pasted%20image%2020261010201941.png)
 
-PCB design is a constantly iterative design process, so when laying out your board, routing it, ect, feel free to move stuff anytime. I would take advantage of the different grids you can use in KiCad to nicely align stuff, this board is mostly made with 1mm, 0.5mm and 0.25mm grids.
+PCB design is a constantly iterative design process, so when laying out your board, routing it, etc, feel free to move stuff anytime. I would take advantage of the different grids you can use in KiCad to nicely align stuff, this board is mostly made with 1mm, 0.5mm and 0.25mm grids.
 
-Now the first thing I'm actually going to do, is modify the net labels on my schematic so that it's easier to route the boards, and to reduce the amount of those straight blue lines/unrouted traces that what we call ratlines, intersecting:
+Now the first thing I'm actually going to do, is modify the net labels on my schematic so that it's easier to route the boards, and to reduce the amount of those straight blue lines/unrouted traces that we call ratsnest, intersecting:
 
 ![](/images/midi-keypad/Pasted%20image%2020261010202542.png)
 ![](/images/midi-keypad/Pasted%20image%2020261010202614.png)
@@ -211,14 +213,14 @@ Next, we'll add in our PCB board edge. Tap the edge.cuts layer on the right hand
 ![](/images/midi-keypad/Pasted%20image%2020261010203102.png)
 
 Now we get to actually route the traces for our PCB! You can tap the route button on the right hand toolbar, or you can just tap "x" to start routing. I'm not going to walk you through this, but there's a couple things you should keep in mind:
-- Try to avoid 90 degree traces, they're ugly and can potentially cause manufacturing issues, but they become a bigger concern when doing high speed design (we're NOT doing any though) so it's not great to get in the habit of doing it. They are slightly important for the capacitive touch keys because of the nature of those signals, but it's not a major concern
+- Try to avoid 90 degree traces, they're ugly and they become a bigger concern when doing high speed design (we're NOT doing any though) so it's not great to get in the habit of doing it. They are slightly important for the capacitive touch keys because of the nature of those signals, but it's not a major concern
 - Don't be afraid to re-route/delete and re-do traces if it's difficult to get somewhere or ugly to do so, it's very common in PCB design. You can tap a trace, and then tap "u" to highlight and delete the entire thing at once.
 - Keep the capacitive touch traces away from the other traces because they're sensitive to the noise induced from other signals
 - If you add a ground plane to your PCB, don't fill near the capacitive touch keys, or at least pay attention to it, because it'll dampen the signals (if you don't know what I'm talking about, don't worry about it)
 
 You get 2 layers to route your PCB on, the F.Cu and B.Cu layer. You can transition between these layers by placing down a via (which is essentially a tiny plated hole on your PCB) while routing on one of them, so while routing, you can just tap "v" and it'll add a via to the end of your trace, and once you place it down, you'll transition to the other layer.
 
-You'll want to route all of your capacitive touch keys first, and try to minimize their length, and just pay attention to them. I'd suggest routing those traces on the front layer, and then routing all the other traces on the back layer. I'm quite experienced at routing PCBs so don't worry if your boards are a bit uglier:
+You'll want to route all of your capacitive touch keys first, and try to minimize their length, and just pay attention to them. I'd suggest routing those traces on the front layer, and then routing all the other traces on the back layer. I'm experienced at routing PCBs so don't worry if your boards are a bit uglier:
 
 ![](/images/midi-keypad/Pasted%20image%2020261010204324.png)
 
@@ -232,7 +234,9 @@ I'm a bit of a perfectionist, so this is what my final board routing looks like:
 
 ### PCB Art and Finishing Touches!
 
-Next, it is an absolute necessity to make our PCB look beautiful by adding art. We do this by moving to the silkscreen layer! F.Silkscreen is the front art, and B.Silkcreen is the back art.
+Next, it is an absolute necessity to make our PCB look beautiful by adding art. We do this by moving to the silkscreen layer! F.Silkscreen is the front art, and B.Silkscreen is the back art.
+
+The KiCad project manager window has an image converter which is really useful for converting your images to silkscreen! 
 
 ![](/images/midi-keypad/Pasted%20image%2020261010212615.png)
 
@@ -240,7 +244,7 @@ Next, it is an absolute necessity to make our PCB look beautiful by adding art. 
 
 ![](/images/midi-keypad/Pasted%20image%2020261010231424.png)
 
-Next, we need to finalize that our PCB is ready for manufacturing. We can test this by the "DRC" or design rules check in the top toolbar. So tap the button and check for errors:
+Next, we need to verify that our PCB is ready for manufacturing. We can test this by the "DRC" or design rules check in the top toolbar. So tap the button and check for errors:
 
 ![](/images/midi-keypad/Pasted%20image%2020261010223300.png)
 
@@ -250,7 +254,7 @@ So if everything's good, we're onto the final steps!
 
 ### 3D Models
 
-Let's add all the 3D models in for our components that don't have one yet. This will make it easier to design the case for our keypad, and will also let us take polished photo's of our project. I've added all the 3D models [into the GitHub repository](https://github.com/KaiPereira/MIDI-Keypad/tree/master/PCB/models) for this tutorial, so go ahead and install the ones you need!
+Let's add all the 3D models in for our components that don't have one yet. This will make it easier to design the case for our keypad, and will also let us take polished photos of our project. I've added all the 3D models [into the GitHub repository](https://github.com/KaiPereira/MIDI-Keypad/tree/master/PCB/models) for this tutorial, so go ahead and install the ones you need!
 
 If you only have a couple of the component on your board, you should just tap the footprint, tap "e" and then go to the 3D model tab, and then add in the model and move it, for each footprint. But if you have quite a few of that footprint, I would suggest making a copy of the new footprint with the 3D model to your library and then just selecting it for all of that footprint on the board.
 
@@ -262,7 +266,7 @@ And just like that we're done our PCB!
 
 ## Fabrication
 
-Now that's we're done our PCB, we can actually prepare it for manufacturing.
+Now that we're done our PCB, we can actually prepare it for manufacturing.
 
 Before we do anything, make sure that you've run DRC and it's clear of errors that matter, and that your PCB looks fairly polished and nice :D
 
@@ -287,7 +291,7 @@ Now we can go over to https://jlcpcb.com/ to order our PCB. Just tap order now, 
 
 For ordering your PCB, I would suggest:
 - Changing your shipping to whatever's cheapest to minimize the cost
-- If it's cheap, selecting either OSP or ENIG surface finish so that the exposed copper on your keys don't oxidize which can look a bit ugly
+- If it's cheap, selecting ENIG surface finish so that the exposed copper on your keys doesn't oxidize which can look a bit ugly. If you use ENIG, you should try some exposed copper art on your PCB because it'll look nice and golden! 
 - Any other customizations you'd like within budget :D
 
 ## Final Steps
@@ -296,7 +300,7 @@ You're on the final steps, and you just have to do a couple more things to get y
 
 You need to make a proper BOM or Bill of Materials for your project. This is just a spreadsheet you can export as a .csv with all your parts, where you're going to buy them and their price. I would take a look at [https://codex.hackclub.com/design/part-sourcing/](https://codex.hackclub.com/design/part-sourcing/) on how to do this!
 
-And then you should make a basic firmware file for your project so it's easy to program once you receive your parts and have soldered your PCB. I would suggest using [KMK](https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/Getting_Started.md) or [QMK](https://docs.qmk.fm/) for this but you're free to use whatever.
+And then you should make a basic firmware file for your project so it's easy to program once you receive your parts and have soldered your PCB. I would suggest using [KMK](https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/Getting_Started.md) for this but you're free to use whatever, just make sure your firmware supports the ESP32-S3.
 
 And then finally, you need to properly ship your project. Take a look at the Codex again to see how to do this [https://codex.hackclub.com/shipping/101/](https://codex.hackclub.com/shipping/101/)!
 
@@ -304,4 +308,4 @@ Once you receive your parts, it's relatively easy to solder them. Just watch a c
 
 Congrats on making your MIDI keypad :D If you liked this tutorial, you'll probably like some of my other work too and should consider [giving me a follow](https://github.com/KaiPereira) on GitHub and [starring the repository](https://github.com/KaiPereira/MIDI-Keypad) for this tutorial.
 
-Happy hacking, and I would if you send me your finished designs on Slack (@Kai the Jolly Guy) or by email which you can find on [my website](https://kaipereira.com/). 
+Happy hacking, and I'd love it if you sent me your finished builds of your MIDI keypads on Slack (@Kai the Jolly Guy) or by email which you can find on [my website](https://kaipereira.com/). 
