@@ -23,26 +23,32 @@ And then your actual MIDI keys will use capacitive touch which just uses exposed
 
 ## Setting up KiCad
 
-We'll be using KiCad (which you'll need to install) for your PCB design, if you're not familiar with it don't worry, because this tutorial is totally beginner friendly!
+We'll be using KiCad (which you'll need to install) for your PCB design, if you're not familiar with it, don't worry, because this tutorial is totally beginner friendly!
 
 KiCad has tens of thousands of parts for you to use in the editor, but they're still missing a couple which we'll need to install. So [head on over to the library](https://github.com/KaiPereira/Hackclub-KiCad-Libraries) I've made, which includes instructions on downloading these parts we're missing!
 
 Once you've installed the library, we can get right into creating your schematic! The schematic shows how the components on your PCB will be wired, but it doesn't physically place them on your PCB, which we do in another step!
 
-So open up KiCad and open up your .kicad_sch. There's a couple important keybinds to keep in mind when designing PCBs:
+So first launch KiCad and then go "file -> new project" and use the default template and call it whatever you want! Double click on this .kicad_sch file and it'll open up the schematic editor:
+
+![](/images/midi-keypad/Pasted%20image%2020261013020548.png)
+
+![](/images/midi-keypad/Pasted%20image%2020261013020641.png)
+
+There's a couple important keybinds to keep in mind when designing PCBs:
 - "a" will open up the symbol library where you can search for symbols/components
 - "w" will allow you to create a wire which you'll connect symbols with
 - "l" will place a net label down, which essentially says this thing connects to this, similar to a wire, but looks more clean in larger schematics
 - "e" will allow you to modify the details of symbols
-- "q" will add a no-connect flag which essentially says nothing wires to this pin which makes your schematic look cleaner and you'll notice me use it a little bit
+- "q" will add a no-connect flag (which looks like a blue X) which essentially says nothing wires to this pin which makes your schematic look cleaner and you'll notice me use it a little bit
 
 ## Building Your Schematic
 
 ### The Microcontroller!
 
 The first thing we're going to add into our schematic, is our MCU or microcontroller. You have 2 options for microcontrollers:
-- The XIAO ESP32-S3, less IO, cheaper, smaller
-- The Waveshare ESP32-S3-Zero, more IO, more expensive and larger
+- The [XIAO ESP32-S3](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/), less IO, cheaper, smaller
+- The [Waveshare ESP32-S3-Zero](https://docs.waveshare.com/ESP32-S3-Zero), more IO, more expensive and larger
 
 Add in your chosen MCU in the symbol library using that "a" keybind we talked about:
 
@@ -80,11 +86,11 @@ Always add nice wires underneath your net labels so they're easy to read.
 
 If you want to make part of your MIDI keypad have nice keyboard switches, we can easily add some in! You can just wire the switches to ground and if you want even more switches, you should look into wiring them [as a matrix](https://www.dairequinlan.com/2020/12/the-keyboard-part-2-the-matrix/) instead which needs some diodes but lets you have TONS of keys by using up less GPIOs. 
 
-*You would want to get or add on some nice keycaps to your switches*
+*You would want to get some nice keycaps for your switches.*
 
-![](/images/midi-keypad/Pasted%20image%2020261013014806.png)
+![](/images/midi-keypad/Pasted%20image%2020261013021554.png)
 
-*Note that RX and TX on the Waveshare MCU can be reprogrammed to just be normal GPIO pins.*
+*Note that RX and TX on the Waveshare MCU can be reprogrammed in your firmware to just be normal GPIO pins so they're fine to use for your switches and any other component except the capacitive touch keys which need specials IOs.*
 
 ![](/images/midi-keypad/Pasted%20image%2020261010201046.png)
 
@@ -100,7 +106,7 @@ It's pretty easy to wire, it's just 2 IO pins for each direction of the pin and 
 
 #### Bourns Slide Potentiometer
 
-The Bourns slide potentiometers is a large slider you can add to your PCB. You can just wire pins 1 and 3 to ground and +3V3 respectively, and then wire pin 2 to an IO to detect it's state and then the mounting pin can just be grounded. 
+The Bourns slide potentiometers is a large slider you can add to your PCB. You can just wire pins 1 and 3 to ground and +3V3 respectively, and then wire pin 2 to an IO to detect it's state and then the mounting pins can just be grounded. 
 
 ![](/images/midi-keypad/Pasted%20image%2020261013014910.png)
 
@@ -126,7 +132,7 @@ To assign the footprints, tap the "assign footprints" button in the top toolbar.
 - The switches (SW_PUSH) can just be assigned the "Kailh Choc Low-Profile Switches" which is inside of the footprint library you downloaded at the start of this tutorial
 - The rotary encoder can be assigned the vertical EC11 footprint
 - The slide potentiometer can be assigned any size Bourn slide potentiometer you want
-- The SK6812 MINI-E is auto-assigned
+- The SK6812MINI-E is auto-assigned
 - Leave your capacitive keys footprint empty for now, we'll be making a custom footprint for this!
 
 This is what my footprints look like after:
@@ -135,7 +141,7 @@ This is what my footprints look like after:
 
 ## Designing the Actual PCB
 
-Now that you've assigned your footprints, we can start designing the actual PCB. Import all your parts by first tapping "Switch to PCB" in the top toolbar of the schematic editor, and then tap "Update PCB from Schematic" in the PCB editor and then update your PCB:
+Now that you've assigned your footprints, we can start designing the actual PCB. Import all your parts by first tapping "Switch to PCB" in the top toolbar of the **schematic editor**, and then tap "Update PCB from Schematic" in the PCB editor and then update your PCB:
 
 ![](/images/midi-keypad/Pasted%20image%2020261010201438.png)
 
@@ -157,7 +163,7 @@ Tap your pad, and then tap "e" to bring up all of it's properties. This is where
 - Set your pad type to SMD which removes that hole in the pad
 - Uncheck the F.Paste layer, which is if you get automated PCB assembly or buy a stencil, which prevents the pads from having solder applied to them
 
-Then set the pad number to 1, this just maps pin 1 on the symbol, to this pad of the footprint, so if you have 7 keys we'll be adding 7 pads labelled 1 through 7.
+Then set the pad number to 1 for the first this, this just maps pin 1 on the symbol, to this pad of the footprint, so if you have 7 keys we'll be adding 7 pads labelled 1 through 7.
 
 ![](/images/midi-keypad/Pasted%20image%2020261010001656.png)
 
@@ -193,20 +199,20 @@ Now the first thing you want to do on your PCB is nicely lay out your components
 
 PCB design is a constantly iterative design process, so when laying out your board, routing it, ect, feel free to move stuff anytime. I would take advantage of the different grids you can use in KiCad to nicely align stuff, this board is mostly made with 1mm, 0.5mm and 0.25mm grids.
 
-Now the first thing I'm actually going to do, is modify the net labels on my schematic so that it's easier to route the boards, and to reduce the amount of those straight blue lines or what we call ratlines, intersecting:
+Now the first thing I'm actually going to do, is modify the net labels on my schematic so that it's easier to route the boards, and to reduce the amount of those straight blue lines/unrouted traces that what we call ratlines, intersecting:
 
 ![](/images/midi-keypad/Pasted%20image%2020261010202542.png)
 ![](/images/midi-keypad/Pasted%20image%2020261010202614.png)
 
 I'm quite experienced at routing PCBs so I'm pretty good at just looking at my board and doing this, but feel free to do it iteratively if you ever have weird crossing traces that aren't the prettiest. 
 
-Next, we'll add in our PCB board edge. Tap the edge.cuts layer on the right hand side, and then tap on the square or whatever shape you want your PCB. I'd suggest putting the USB-C receptacle of your MCU over the board edge so it's easy to plug in, and it'll be handy when you make the case for your keyboard. I'd also suggest rounding your edges, but tapping the outline, tapping "e" and then modifying the corner radius value so your board looks prettier:
+Next, we'll add in our PCB board edge. Tap the edge.cuts layer on the right hand side, and then tap on the square or whatever shape you want your PCB. I'd suggest putting the USB-C receptacle of your MCU over the board edge so it's easy to plug in, and it'll be handy when you make the case for your keyboard. I'd also suggest rounding your edges, by tapping the outline, tapping "e" and then modifying the corner radius value so your board looks prettier:
 
 ![](/images/midi-keypad/Pasted%20image%2020261010203102.png)
 
 Now we get to actually route the traces for our PCB! You can tap the route button on the right hand toolbar, or you can just tap "x" to start routing. I'm not going to walk you through this, but there's a couple things you should keep in mind:
 - Try to avoid 90 degree traces, they're ugly and can potentially cause manufacturing issues, but they become a bigger concern when doing high speed design (we're NOT doing any though) so it's not great to get in the habit of doing it. They are slightly important for the capacitive touch keys because of the nature of those signals, but it's not a major concern
-- Don't be afraid to re-route/delete and re-do traces if it's difficult to get somewhere or ugly to do so, it's very common in PCB design
+- Don't be afraid to re-route/delete and re-do traces if it's difficult to get somewhere or ugly to do so, it's very common in PCB design. You can tap a trace, and then tap "u" to highlight and delete the entire thing at once.
 - Keep the capacitive touch traces away from the other traces because they're sensitive to the noise induced from other signals
 - If you add a ground plane to your PCB, don't fill near the capacitive touch keys, or at least pay attention to it, because it'll dampen the signals (if you don't know what I'm talking about, don't worry about it)
 
@@ -241,6 +247,8 @@ Next, we need to finalize that our PCB is ready for manufacturing. We can test t
 All the warnings can be ignored and same with the board edge clearance violations for the *neopixels*. Those are essentially just saying that our pads might be slightly cut off during manufacturing, but that's fine because they're large pads and we'll be hand-soldering them.
 
 So if everything's good, we're onto the final steps!
+
+### 3D Models
 
 Let's add all the 3D models in for our components that don't have one yet. This will make it easier to design the case for our keypad, and will also let us take polished photo's of our project. I've added all the 3D models [into the GitHub repository](https://github.com/KaiPereira/MIDI-Keypad/tree/master/PCB/models) for this tutorial, so go ahead and install the ones you need!
 
@@ -295,3 +303,5 @@ And then finally, you need to properly ship your project. Take a look at the Cod
 Once you receive your parts, it's relatively easy to solder them. Just watch a couple videos online on how to do so, and you'll be golden!
 
 Congrats on making your MIDI keypad :D If you liked this tutorial, you'll probably like some of my other work too and should consider [giving me a follow](https://github.com/KaiPereira) on GitHub and [starring the repository](https://github.com/KaiPereira/MIDI-Keypad) for this tutorial.
+
+Happy hacking, and I would if you send me your finished designs on Slack (@Kai the Jolly Guy) or by email which you can find on [my website](https://kaipereira.com/). 
