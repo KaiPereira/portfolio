@@ -8,7 +8,7 @@ disabled: false
 
 ![](/images/midi-keypad/Pasted%20image%2020261013004957.png)
 
-Ever wanted to cook up and mix your own beats while simultaneously learning PCB and CAD design! Well look no further because your local [Kai](https://github.com/KaiPereira) is about to show you how to make our own custom MIDI keyboard completely from scratch.
+Ever wanted to cook up and mix your own beats while simultaneously learning PCB design! Well look no further because your [local Kai](https://github.com/KaiPereira) is about to show you how to make our own custom MIDI keyboard completely from scratch.
 
 Now this is YOUR MIDI device, so please use this tutorial as a loose guide and come up with your own custom layout and features to make it awesome; go crazy!! 
 
@@ -23,7 +23,7 @@ And then your actual MIDI keys will use capacitive touch which just uses exposed
 
 ## Setting up KiCad
 
-We'll be using KiCad (which you'll need to install) for your PCB design and Onshape for the CAD model; if you're not familiar with them, don't worry, because this tutorial is totally beginner friendly. 
+We'll be using KiCad (which you'll need to install) for your PCB design, if you're not familiar with it don't worry, because this tutorial is totally beginner friendly!
 
 KiCad has tens of thousands of parts for you to use in the editor, but they're still missing a couple which we'll need to install. So [head on over to the library](https://github.com/KaiPereira/Hackclub-KiCad-Libraries) I've made, which includes instructions on downloading these parts we're missing!
 
