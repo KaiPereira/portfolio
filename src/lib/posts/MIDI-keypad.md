@@ -6,7 +6,7 @@ disabled: true
 ---
 # Design a custom MIDI keypad
 
-[image]
+![](Pasted%20image%2020261013004957.png)
 
 Ever wanted to cook up and mix your own beats while simultaneously learning PCB and CAD design! Well look no further because your local [Kai](https://github.com/KaiPereira) is about to show you how to make our own custom MIDI keyboard completely from scratch.
 
@@ -246,4 +246,40 @@ Now that's we're done our PCB, we can actually prepare it for manufacturing.
 
 Before we do anything, make sure that you've run DRC and it's clear of errors that matter, and that your PCB looks fairly polished and nice :D
 
-Next, we're going to install the JLCPCB fabrication toolkit, which is essentially a one-click button that exports all the files we need in order to manufacture our project.
+Next, we're going to install the JLCPCB fabrication toolkit, which is essentially a one-click button that exports all the files we need in order to manufacture our project. The repository nicely goes over how to install it: https://github.com/bennymeg/Fabrication-Toolkit
+
+Once you reload KiCad, you'll see the button pop up at the end of the top toolbar, or you can go "tools -> external plugins -> Fabrication Toolkit" to open it up. And then just simply click generate and it'll make all your production files:
+
+![](Pasted%20image%2020261013005543.png)
+
+And now if you go into the /production folder it generated, you'll see the:
+- Gerbers which is the zip folder and contains all the data for the layers on your PCB
+- The bom.csv or "bill of materials" which has all your components in it
+- the positions.csv which essentially just says the orientation and placement of those components on your PCB
+
+And there's some other files, but you don't need to worry about those. 
+
+![](Pasted%20image%2020261013005952.png)
+
+Now we can go over to https://jlcpcb.com/ to order our PCB. Just tap order now, and then upload your gerbers zip file:
+
+![](Pasted%20image%2020261013012944.png)
+
+For ordering your PCB, I would suggest:
+- Changing your shipping to whatever's cheapest to minimize the cost
+- If it's cheap, selecting either OSP or ENIG surface finish so that the exposed copper on your keys don't oxidize which can look a bit ugly
+- Any other customizations you'd like within budget :D
+
+## Final Steps
+
+You're on the final steps, and you just have to do a couple more things to get your project ready to be shipped!
+
+You need to make a proper BOM or Bill of Materials for your project. This is just a spreadsheet you can export as a .csv with all your parts, where you're going to buy them and their price. I would take a look at [https://codex.hackclub.com/design/part-sourcing/](https://codex.hackclub.com/design/part-sourcing/) on how to do this!
+
+And then you should make a basic firmware file for your project so it's easy to program once you receive your parts and have soldered your PCB. I would suggest using [KMK](https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/Getting_Started.md) or [QMK](https://docs.qmk.fm/) for this but you're free to use whatever.
+
+And then finally, you need to properly ship your project. Take a look at the Codex again to see how to do this [https://codex.hackclub.com/shipping/101/](https://codex.hackclub.com/shipping/101/)!
+
+Once you receive your parts, it's relatively easy to solder them. Just watch a couple videos online on how to do so, and you'll be golden!
+
+Congrats on making your MIDI keypad :D If you liked this tutorial, you'll probably like some of my other work too and should consider [giving me a follow](https://github.com/KaiPereira) on GitHub and [starring the repository](https://github.com/KaiPereira/MIDI-Keypad) for this tutorial.
