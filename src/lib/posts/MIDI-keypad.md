@@ -1,7 +1,7 @@
 ---
 title: Design your own MIDI keypad
-date: "2026-10-04"
-description: Learn PCB and CAD design by creating your own custom MIDI keypad with switches, sliders, rotary encoders, neopixels and capacitive touch!
+date: 2026-10-04
+description: Learn PCB design by creating your own custom MIDI keypad with switches, sliders, rotary encoders, neopixels and capacitive touch!
 disabled: false
 ---
 # Design a custom MIDI keypad
@@ -272,7 +272,7 @@ Before we do anything, make sure that you've run DRC and it's clear of errors th
 
 Next, we're going to install the JLCPCB fabrication toolkit, which is essentially a one-click button that exports all the files we need in order to manufacture our project. The repository nicely goes over how to install it: https://github.com/bennymeg/Fabrication-Toolkit
 
-Once you reload KiCad, you'll see the button pop up at the end of the top toolbar, or you can go "tools -> external plugins -> Fabrication Toolkit" to open it up. And then just simply click generate and it'll make all your production files:
+Once you reload KiCad, you'll see the button pop up at the end of the top toolbar, or you can go "tools -> external plugins -> Fabrication Toolkit" to open it up. And then just simply click generate and it'll make all your production files. If you ever edit your PCB again, make sure to re-generate your fabrication files:
 
 ![](/images/midi-keypad/Pasted%20image%2020261013005543.png)
 
