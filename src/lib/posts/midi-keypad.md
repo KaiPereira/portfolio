@@ -1,10 +1,10 @@
 ---
-title: Design a custom MIDI keypad
+title: Design your own MIDI keypad
 date: "2026-10-04"
 description: Learn PCB design by creating your own custom MIDI keypad with switches, sliders, rotary encoders, neopixels and capacitive touch!
 disabled: false
 ---
-# Design a custom MIDI keypad
+# Design your own MIDI keypad
 
 ![Photo of Finished PCB](/images/midi-keypad/Pasted%20image%2020261013004957.png)
 
