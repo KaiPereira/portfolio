@@ -19,8 +19,6 @@ function parseMarkdown(raw, filepath) {
 
 	const isMain = filename === "main.md";
 
-	console.log(data);
-
 	return {
 		filepath,
 		filename,
@@ -41,6 +39,7 @@ export function getAllPosts() {
 }
 
 export function getPostBySlug(slug) {
-	return posts.find((post) => post.slug === slug);
+	const lower = slug.toLowerCase();
+	return posts.find((post) => post.slug.toLowerCase() === lower);
 }
 

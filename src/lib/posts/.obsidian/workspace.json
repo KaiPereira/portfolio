@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MIDI-keypad.md",
+                "file": "midi-keypad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MIDI-keypad"
+              "title": "midi-keypad"
             }
           }
         ]
@@ -177,10 +177,15 @@
   },
   "active": "800cd4805cd4cea1",
   "lastOpenFiles": [
+    "juice.md",
+    "midi-keypad.md",
+    "RF.md",
+    "vermont.md",
+    "helios.md",
+    "build-a-devboard.md",
+    "boreal.md",
     "MIDI-keypad.md~",
     "sedDDek2C",
-    "juice.md",
-    "vermont.md",
     "MIDI-keypad.md",
     "Pasted image 20261013021554.png",
     "sedTCGLhY",
@@ -195,18 +200,13 @@
     "Pasted image 20261013014710.png",
     "sedMEnZLr",
     "sed6oNpag",
-    "build-a-devboard.md",
-    "helios.md",
     "MIDI-Keypad.md",
-    "RF.md",
-    "boreal.md",
     "RF.md~",
     "juice.md~",
     "boreal.md~",
     "home/kai/projects/software/projects/portfolio/src/lib/posts/Pasted.md",
     "home/kai/projects/software/projects/portfolio/src/lib/posts",
     "home/kai/projects/software/projects/portfolio/src/lib",
-    "home/kai/projects/software/projects/portfolio/src",
     "china.md",
     "Excalidraw/Drawing 2025-08-28 22.10.13.excalidraw.md"
   ]
