@@ -1,3 +1,8 @@
+<svelte:head>
+	<title>Meow - Kai Pereira</title>
+	<meta name="robots" content="noindex" />
+</svelte:head>
+
 <img src="/images/cats/furry_1.jpg" class="w-108"/>
 <img src="/images/cats/fluffy_2.jpg" class="w-108" />
 <img src="/images/cats/meowy_3.jpg" class="w-108" />

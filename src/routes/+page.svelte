@@ -13,6 +13,8 @@
 </script>
 
 <svelte:head>
+	<title>Kai Pereira :D</title>
+	<meta name="description" content="Hey there, I'm Kai! I'm a 18 year old maker from Canada hacking on PCB's and building hardware!" />
 	{@html `<script type="application/ld+json">${jsonLd}</script>`}
 </svelte:head>
 
