@@ -25,6 +25,6 @@
 <p>Check out all my projects on <a href="https://github.com/kaipereira" target="_blank" rel="noreferrer">GitHub</a> or take a gander at my <a href="/journal">journal</a>!</p>
 
 <div class="group relative mt-6 h-[31px] w-[88px]">
-	<img src="/88x31 button.png" alt="88x31 Button" width="88" height="31" class="absolute inset-0 rounded-none! group-hover:invisible" />
-	<img src="/88x31 animation.gif" alt="" width="88" height="31" class="invisible absolute inset-0 rounded-none! group-hover:visible" />
+	<img src="/88x31 button.png" alt="88x31 Button" width="88" height="31" class="absolute inset-0 rounded-none! [image-rendering:pixelated] group-hover:invisible" />
+	<img src="/88x31 animation.gif" alt="" width="88" height="31" class="invisible absolute inset-0 rounded-none! [image-rendering:pixelated] group-hover:visible" />
 </div>
