@@ -26,11 +26,11 @@
 
 <div class="flex gap-6 mt-6 buttons88x31">
 	<div class="relative h-[31px] w-[88px] group">
-		<img src="/images/88x31/88x31 personal.svg" class="absolute inset-0 group-hover:invisible" />
-		<img src="/images/88x31/88x31 personal.gif" class="invisible absolute [image-rendering:pixelated] group-hover:visible" />
+		<img src="/images/88x31/88x31 personal.svg" alt="88x31 Personal" class="absolute inset-0 group-hover:invisible" />
+		<img src="/images/88x31/88x31 personal.gif"  alt="88x31 Personal GIF" class="invisible absolute group-hover:visible" />
 	</div>
-	<img src="/images/88x31/88x31 asic.gif" />
-	<img src="/images/88x31/88x31 hackclub.png" />
-	<img src="/images/88x31/88x31 neovim.png" />
-	<img src="/images/88x31/88x31 human.svg" />
+	<img src="/images/88x31/88x31 asic.gif" alt="88x31 ASIC" />
+	<img src="/images/88x31/88x31 hackclub.png" alt="88x31 Hack Club" />
+	<img src="/images/88x31/88x31 neovim.png" alt="88x31 Neovim" />
+	<img src="/images/88x31/88x31 human.svg" alt="88x31 Human" />
 </div>
