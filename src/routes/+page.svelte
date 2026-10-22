@@ -24,7 +24,13 @@
 
 <p>Check out all my projects on <a href="https://github.com/kaipereira" target="_blank" rel="noreferrer">GitHub</a> or take a gander at my <a href="/journal">journal</a>!</p>
 
-<div class="group relative mt-6 h-[31px] w-[88px]">
-	<img src="/88x31 button.png" alt="88x31 Button" width="88" height="31" class="absolute inset-0 rounded-none! [image-rendering:pixelated] group-hover:invisible" />
-	<img src="/88x31 animation.gif" alt="" width="88" height="31" class="invisible absolute inset-0 rounded-none! [image-rendering:pixelated] group-hover:visible" />
+<div class="flex gap-6 mt-6 buttons88x31">
+	<div class="relative h-[31px] w-[88px] group">
+		<img src="/images/88x31/88x31 personal.svg" class="absolute inset-0 group-hover:invisible" />
+		<img src="/images/88x31/88x31 personal.gif" class="invisible absolute [image-rendering:pixelated] group-hover:visible" />
+	</div>
+	<img src="/images/88x31/88x31 asic.gif" />
+	<img src="/images/88x31/88x31 hackclub.png" />
+	<img src="/images/88x31/88x31 neovim.png" />
+	<img src="/images/88x31/88x31 human.svg" />
 </div>

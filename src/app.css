@@ -69,3 +69,12 @@ a.no-hover:hover {
 .chapters p {
 	margin: 0px;
 }
+
+.buttons88x31 {
+	img {
+		border-radius: 0px !important;
+		width: 88px;
+		height: 31px;
+		image-rendering: pixelated;
+	}
+}
