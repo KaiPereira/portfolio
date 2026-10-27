@@ -1,0 +1,26 @@
+name: Deploy
+
+on:
+  push:
+    branches: [main]
+  repository_dispatch:
+    types: [readme-updated]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout@v4
+      - run: npm ci
+      - run: npm run build
+      - name: Swap in the new build
+        run: |
+          rsync -a --delete build/ /home/kai/sites/portfolio/build/
+          cp package.json package-lock.json /home/kai/sites/portfolio/
+          cd /home/kai/sites/portfolio && npm ci --omit=dev
+          sudo systemctl restart portfolio
